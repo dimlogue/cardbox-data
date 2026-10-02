@@ -1382,7 +1382,7 @@
     "交通"
    ],
    "url": "待核实",
-   "image": "data/images/ext-005.jpg"
+   "image": "data/images/ext-005-v2.webp"
   },
   {
    "id": "ext-006",
@@ -1416,7 +1416,7 @@
     "工商"
    ],
    "url": "待核实",
-   "image": "data/images/ext-006.webp"
+   "image": "data/images/ext-006-v2.webp"
   },
   {
    "id": "ext-007",
@@ -2068,7 +2068,7 @@
     "建行",
     "建设"
    ],
-   "image": "data/images/ext-026.webp"
+   "image": "data/images/ext-026-v2.webp"
   },
   {
    "id": "ext-027",
@@ -2098,7 +2098,7 @@
     "建行",
     "建设"
    ],
-   "image": "data/images/ext-027.png"
+   "image": "data/images/ext-027-v2.webp"
   },
   {
    "id": "ext-028",
@@ -2782,7 +2782,7 @@
     "中国"
    ],
    "url": "https://db.encmasuta.com/debit-cards/visa/boc-visa/",
-   "image": "data/images/ext-051.webp"
+   "image": "data/images/boc-visa.webp"
   },
   {
    "id": "ext-052",
@@ -2856,7 +2856,7 @@
     "中国"
    ],
    "url": "https://db.encmasuta.com/debit-cards/visa/boc-visa/",
-   "image": "data/images/ext-053.jpg"
+   "image": "data/images/ext-053-v2.webp"
   },
   {
    "id": "ext-054",
@@ -3883,7 +3883,7 @@
     "建设"
    ],
    "url": "http://www.ccb.com/cn/personal/debitcard/dragoncard.html",
-   "image": "data/images/ext-081.jpg"
+   "image": "data/images/ext-081-v2.webp"
   },
   {
    "id": "ext-082",
@@ -4272,7 +4272,7 @@
     "中国"
    ],
    "url": "https://www.boc.cn/bcservice/bc2/201509/t20150908_5588392.html",
-   "image": "data/images/ext-090.jpg"
+   "image": "data/images/ext-090-v2.webp"
   },
   {
    "id": "ext-091",
@@ -4442,7 +4442,7 @@
     "农业"
    ],
    "url": "https://www.abchina.com/cn/personalservices/debitcard/201407/t20140708_790215.htm",
-   "image": "data/images/ext-094.webp"
+   "image": "data/images/ext-094-v2.webp"
   },
   {
    "id": "ext-095",
@@ -4865,7 +4865,7 @@
     "邮储"
    ],
    "url": "https://www.psbc.com/cn/grfw/yxk/jjkqjf/jjkbzk/202101/t20210125_65167.html",
-   "image": "data/images/ext-104.webp"
+   "image": "data/images/ext-104-v2.webp"
   },
   {
    "id": "ext-105",
@@ -5163,7 +5163,7 @@
     "招商"
    ],
    "url": "https://mobile.cmbchina.com/dcamobile/applycard/familyportal.html",
-   "image": "data/images/ext-111.jpg"
+   "image": "data/images/ext-111-v2.webp"
   },
   {
    "id": "ext-112",
@@ -5467,7 +5467,7 @@
     "平安"
    ],
    "url": "https://bank.pingan.com/geren/jiejika/zuanshi.shtml",
-   "image": "data/images/ext-118.webp"
+   "image": "data/images/ext-118-v2.webp"
   },
   {
    "id": "ext-119",
@@ -5930,7 +5930,7 @@
     "广发"
    ],
    "url": "https://www.cgbchina.com.cn/Info/13308999",
-   "image": "data/images/ext-129.jpg"
+   "image": "data/images/ext-129-v2.webp"
   },
   {
    "id": "ext-130",
@@ -6438,7 +6438,7 @@
     "北京"
    ],
    "url": "https://www.bankofbeijing.com.cn/personal/second/detail?column=1549642597927178240",
-   "image": "data/images/ext-141.webp"
+   "image": "data/images/ext-141-v2.webp"
   },
   {
    "id": "ext-142",
@@ -6611,7 +6611,7 @@
     "工商"
    ],
    "url": "https://www.icbc.com.cn/page/721852485039063041.html",
-   "image": "data/images/ext-145.webp"
+   "image": "data/images/ext-145-v2.webp"
   },
   {
    "id": "ext-146",
@@ -6786,7 +6786,7 @@
     "工商"
    ],
    "url": "https://www.icbc.com.cn/column/1438058389145272553.html",
-   "image": "data/images/ext-149.webp"
+   "image": "data/images/ext-149-v2.webp"
   },
   {
    "id": "ext-150",
@@ -8912,7 +8912,7 @@
     "中国"
    ],
    "url": "https://www.bankofchina.com/aboutboc/bi1/202608/t20260803_25682499.html",
-   "image": "data/images/ext-198.webp"
+   "image": "data/images/ext-198-v2.webp"
   },
   {
    "id": "ext-199",
@@ -9439,6 +9439,6 @@
    "note": "增补4张新卡：平安AI智算卡、交行人工智能主题借记卡、工行万事达10+1多币种借记卡、中行万事达B站2233联名借记卡；新卡部分规格待核实，已标注"
   }
  ],
- "data_version": 5,
+ "data_version": 6,
  "updated_at": "2026-10-02"
 }
