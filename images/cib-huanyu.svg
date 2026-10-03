@@ -11,5 +11,5 @@
 <text x="36" y="48" font-family="sans-serif" font-size="24" font-weight="bold" fill="#ffffff">兴业银行</text>
 <text x="36" y="180" font-family="sans-serif" font-size="20" fill="#ffffff" opacity="0.92">寰宇人生</text>
 <text x="36" y="210" font-family="sans-serif" font-size="15" fill="#ffffff" opacity="0.7">借记卡 DEBIT</text>
-<g transform="translate(300,196)"><circle cx="0" cy="0" r="16" fill="#de1f26"/><circle cx="22" cy="0" r="16" fill="#f7981d" opacity="0.9"/><text x="11" y="5" font-size="10" text-anchor="middle" fill="#fff" font-weight="bold">银联</text></g>
+<g transform="translate(300,196)"><g transform="skewX(-16)"><rect x="0" y="-13" width="10" height="26" fill="#e21836"/><rect x="13" y="-13" width="10" height="26" fill="#00447c"/><rect x="26" y="-13" width="10" height="26" fill="#009b77"/></g><text x="15" y="30" font-size="10" letter-spacing="2" text-anchor="middle" fill="#ffffff" font-weight="bold">银联</text></g>
 </svg>
