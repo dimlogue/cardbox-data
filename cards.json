@@ -1123,7 +1123,15 @@
     "bilibili",
     "小破站"
    ],
-   "type": "debit"
+   "type": "debit",
+   "variants": [
+    {
+     "name": "竖版卡面",
+     "bin": "223300",
+     "note": "竖版设计卡面（图已旋转为横向展示）",
+     "image": "data/images/ext-009.jpg"
+    }
+   ]
   },
   {
    "url": "https://www.cib.com.cn/cn/personal/debit/index.html",
@@ -1452,39 +1460,6 @@
     "中国"
    ],
    "url": "https://db.encmasuta.com/debit-cards/mastercard-nucc/boc-mastercard-nucc-rmb/"
-  },
-  {
-   "id": "ext-009",
-   "name": "哔哩哔哩2233联名借记IC卡（万事达版）",
-   "bank": "中国银行",
-   "org": "mastercard-nucc",
-   "type": "debit",
-   "status": "在发",
-   "score": null,
-   "score_label": "暂无评分",
-   "review": "中行哔哩哔哩2233万事达联名借记卡",
-   "specs": {
-    "BIN": "223300",
-    "冻结比例": "待核实",
-    "网付": "待核实",
-    "货币转换费": "待核实",
-    "3DS": "待核实",
-    "自动购汇": "待核实",
-    "开卡工本费": "待核实",
-    "小额账户管理费": "待核实",
-    "币种支持": "人民币",
-    "发行情况": "待核实",
-    "Apple Pay": "待核实",
-    "境外ATM取现手续费": "待核实",
-    "数据状态": "AI 收集 · 待核实"
-   },
-   "keywords": [
-    "中行B站2233万事达借记卡",
-    "2233万事达",
-    "中行",
-    "中国"
-   ],
-   "image": "data/images/ext-009.jpg"
   },
   {
    "id": "ext-011",
@@ -2031,36 +2006,6 @@
     "工行",
     "工商"
    ]
-  },
-  {
-   "id": "ext-033",
-   "name": "农业银行万事达尊然白金世界信用卡",
-   "bank": "农业银行",
-   "org": "mastercard",
-   "type": "credit",
-   "status": "在发",
-   "score": null,
-   "score_label": "暂无评分",
-   "review": "农行万事达世界白金产品",
-   "specs": {
-    "BIN": "待核实",
-    "年费": "待核实",
-    "免年费条件": "待核实",
-    "积分规则": "待核实",
-    "主要权益": "万事达世界卡；白金等级权益",
-    "取现手续费": "待核实",
-    "免息期": "待核实",
-    "Apple Pay": "待核实",
-    "境外ATM取现手续费": "待核实",
-    "数据状态": "AI 收集 · 待核实"
-   },
-   "keywords": [
-    "农行万事达尊然白金",
-    "农行Mastercard世界卡",
-    "农行",
-    "农业"
-   ],
-   "image": "data/images/ext-033.jpg"
   },
   {
    "id": "ext-034",
@@ -2685,43 +2630,6 @@
    "url": "https://db.encmasuta.com/debit-cards/"
   },
   {
-   "id": "ext-058",
-   "name": "中国银行环球通万事达借记卡白金卡",
-   "bank": "中国银行",
-   "org": "mastercard-nucc",
-   "type": "debit",
-   "status": "在发",
-   "score": 9.3,
-   "score_label": "顶级",
-   "review": "多币种高端卡，办理条件苛刻",
-   "specs": {
-    "BIN": "559756",
-    "冻结比例": "人民币102%，外币待核实",
-    "网付": "完整支持",
-    "货币转换费": "无",
-    "3DS": "有",
-    "自动购汇": "支持（卡组织汇率）",
-    "开卡工本费": "原则上无（企业批量为主）",
-    "小额账户管理费": "无",
-    "币种支持": "多币种（21种，含人民币）",
-    "发行情况": "原则上企业批量，个人需高资产+审批",
-    "年费": "无",
-    "优惠政策": "境外ATM查询/取现免每月3笔；境外消费返现",
-    "Apple Pay": "不支持",
-    "境外ATM取现手续费": "待核实",
-    "数据状态": "AI 收集 · 待核实",
-    "数据来源": "https://db.encmasuta.com/debit-cards/mastercard-nucc/boc-mastercard-nucc-global/"
-   },
-   "keywords": [
-    "中行环球通白金",
-    "万事网联白金",
-    "中行",
-    "中国"
-   ],
-   "url": "https://db.encmasuta.com/debit-cards/mastercard-nucc/boc-mastercard-nucc-global/",
-   "image": "data/images/ext-058.webp"
-  },
-  {
    "id": "ext-059",
    "name": "中国银行环球通万事达借记卡世界卡",
    "bank": "中国银行",
@@ -2897,42 +2805,6 @@
    "image": "data/images/ext-070.webp"
   },
   {
-   "id": "ext-072",
-   "name": "工商银行万事网联祥鹿金卡",
-   "bank": "工商银行",
-   "org": "mastercard-nucc",
-   "type": "debit",
-   "status": "在发",
-   "score": 3.2,
-   "score_label": "谨慎",
-   "review": "工行首批万事网联多币种卡",
-   "specs": {
-    "BIN": "545901",
-    "冻结比例": "待核实",
-    "网付": "待核实",
-    "货币转换费": "待核实",
-    "3DS": "待核实",
-    "自动购汇": "待核实",
-    "开卡工本费": "待核实",
-    "小额账户管理费": "待核实",
-    "币种支持": "多币种（人民币+10种外币，10+1）",
-    "发行情况": "全行发行，需确认网点预制卡",
-    "年费": "待核实",
-    "优惠政策": "待核实",
-    "Apple Pay": "待核实",
-    "境外ATM取现手续费": "待核实",
-    "数据状态": "AI 收集 · 待核实",
-    "数据来源": "https://m.mpaypass.com.cn/news/202512/06174514.html"
-   },
-   "keywords": [
-    "工行祥鹿金",
-    "工行万事网联金",
-    "工行",
-    "工商"
-   ],
-   "url": "https://m.mpaypass.com.cn/news/202512/06174514.html"
-  },
-  {
    "id": "ext-073",
    "name": "工商银行万事网联貔貅白金卡",
    "bank": "工商银行",
@@ -2967,41 +2839,6 @@
     "工商"
    ],
    "url": "https://m.mpaypass.com.cn/news/202512/06174514.html"
-  },
-  {
-   "id": "ext-074",
-   "name": "交通银行万事网联金卡",
-   "bank": "交通银行",
-   "org": "mastercard-nucc",
-   "type": "debit",
-   "status": "在发",
-   "score": 3.7,
-   "score_label": "谨慎",
-   "review": "新上线，试点阶段功能受限",
-   "specs": {
-    "BIN": "539388",
-    "冻结比例": "待核实",
-    "网付": "待核实（试点期间不支持3DS）",
-    "货币转换费": "无",
-    "3DS": "试点期间不支持",
-    "自动购汇": "待核实",
-    "开卡工本费": "20元（开卡当晚扣）",
-    "小额账户管理费": "待核实",
-    "币种支持": "待核实",
-    "发行情况": "2026年5月起试点（北京、上海、广州、深圳），后续推广；白金需沃德及以上",
-    "年费": "按交行标准（有）",
-    "优惠政策": "境外ATM取现按客户等级减免（普通客户无）",
-    "Apple Pay": "待核实",
-    "境外ATM取现手续费": "待核实",
-    "数据状态": "AI 收集 · 待核实",
-    "数据来源": "https://t.me/s/encmasuta"
-   },
-   "keywords": [
-    "交行万事网联金",
-    "交行",
-    "交通"
-   ],
-   "url": "https://t.me/s/encmasuta"
   },
   {
    "id": "ext-075",
@@ -5449,7 +5286,7 @@
     "优惠政策": "2026年个人卡年费免费；境内跨行ATM每月前8笔免费，超出2元/笔；跨行柜台转账同名金卡按服务价50%收取",
     "Apple Pay": "待核实",
     "境外ATM取现手续费": "通用标准12元/笔；该卡专属境外优惠待核实",
-    "数据状态": "AI 收集 · 待核实",
+    "数据状态": "AI 收集 · 待核实（卡面图待补）",
     "数据来源": "https://www.hxb.com.cn/jrhx/khfw/zxgg/sykhfw/xsjmmlbjh/2019/08/28399.shtml"
    },
    "keywords": [
@@ -5458,8 +5295,7 @@
     "华夏银联金卡",
     "华夏"
    ],
-   "url": "https://www.hxb.com.cn/jrhx/khfw/zxgg/sykhfw/xsjmmlbjh/2019/08/28399.shtml",
-   "image": "data/images/ext-135.png"
+   "url": "https://www.hxb.com.cn/jrhx/khfw/zxgg/sykhfw/xsjmmlbjh/2019/08/28399.shtml"
   },
   {
    "id": "ext-136",
@@ -11631,6 +11467,6 @@
    "note": "增补4张新卡：平安AI智算卡、交行人工智能主题借记卡、工行万事达10+1多币种借记卡、中行万事达B站2233联名借记卡；新卡部分规格待核实，已标注"
   }
  ],
- "data_version": 12,
+ "data_version": 13,
  "updated_at": "2026-10-03"
 }
