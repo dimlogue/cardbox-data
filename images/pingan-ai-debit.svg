@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400">
 <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-<stop offset="0" stop-color="#263238"/><stop offset="1" stop-color="#546e7a"/>
+<stop offset="0" stop-color="#eceff4"/><stop offset="1" stop-color="#f7e8ee"/>
 </linearGradient></defs>
 <rect width="640" height="400" rx="24" fill="url(#g)"/>
 <circle cx="560" cy="70" r="120" fill="#ffffff" opacity="0.08"/>
 <circle cx="80" cy="340" r="90" fill="#ffffff" opacity="0.06"/>
-<text x="48" y="80" font-family="sans-serif" font-size="34" fill="#ffffff" opacity="0.95">平安银行</text>
-<text x="48" y="200" font-family="sans-serif" font-size="30" fill="#ffffff">AI智算卡</text>
-<text x="48" y="340" font-family="sans-serif" font-size="20" fill="#ffffff" opacity="0.6">卡面待补充 · DEBIT</text>
+<text x="48" y="80" font-family="sans-serif" font-size="34" fill="#33475c" opacity="0.95">平安银行</text>
+<text x="48" y="200" font-family="sans-serif" font-size="30" fill="#33475c">AI智算卡</text>
+<text x="48" y="340" font-family="sans-serif" font-size="20" fill="#33475c" opacity="0.6">卡面待补充 · DEBIT</text>
 <g transform="translate(505,308)"><g transform="skewX(-16)"><rect x="0" y="-13" width="10" height="26" fill="#e21836"/><rect x="13" y="-13" width="10" height="26" fill="#00447c"/><rect x="26" y="-13" width="10" height="26" fill="#009b77"/></g><text x="15" y="30" font-size="10" letter-spacing="2" text-anchor="middle" fill="#ffffff" font-weight="bold">银联</text></g><text x="15" y="30" font-size="10" letter-spacing="2" text-anchor="middle" fill="#ffffff" font-weight="bold">银联</text></g></svg>

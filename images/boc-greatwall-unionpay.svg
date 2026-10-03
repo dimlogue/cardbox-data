@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="252" viewBox="0 0 400 252">
 <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-<stop offset="0" stop-color="#5b2333"/><stop offset="1" stop-color="#a03d55"/></linearGradient></defs>
+<stop offset="0" stop-color="#dfe9f5"/><stop offset="1" stop-color="#f6dce9"/></linearGradient></defs>
 <rect width="400" height="252" rx="18" fill="url(#g)"/>
 <circle cx="340" cy="60" r="80" fill="#ffffff" opacity="0.08"/>
 <circle cx="60" cy="220" r="60" fill="#ffffff" opacity="0.06"/>
@@ -8,8 +8,8 @@
 <rect x="36" y="90" width="56" height="42" rx="7" fill="none" stroke="#b8943a" stroke-width="2"/>
 <line x1="36" y1="111" x2="92" y2="111" stroke="#b8943a" stroke-width="2"/>
 <line x1="64" y1="90" x2="64" y2="132" stroke="#b8943a" stroke-width="2"/>
-<text x="36" y="48" font-family="sans-serif" font-size="24" font-weight="bold" fill="#ffffff">中国银行</text>
-<text x="36" y="180" font-family="sans-serif" font-size="20" fill="#ffffff" opacity="0.92">长城多币</text>
-<text x="36" y="210" font-family="sans-serif" font-size="15" fill="#ffffff" opacity="0.7">借记卡 DEBIT</text>
+<text x="36" y="48" font-family="sans-serif" font-size="24" font-weight="bold" fill="#33475c">中国银行</text>
+<text x="36" y="180" font-family="sans-serif" font-size="20" fill="#33475c" opacity="0.92">长城多币</text>
+<text x="36" y="210" font-family="sans-serif" font-size="15" fill="#33475c" opacity="0.7">借记卡 DEBIT</text>
 <g transform="translate(300,196)"><g transform="skewX(-16)"><rect x="0" y="-13" width="10" height="26" fill="#e21836"/><rect x="13" y="-13" width="10" height="26" fill="#00447c"/><rect x="26" y="-13" width="10" height="26" fill="#009b77"/></g><text x="15" y="30" font-size="10" letter-spacing="2" text-anchor="middle" fill="#ffffff" font-weight="bold">银联</text></g><text x="15" y="30" font-size="10" letter-spacing="2" text-anchor="middle" fill="#ffffff" font-weight="bold">银联</text></g>
 </svg>
