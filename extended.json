@@ -1,0 +1,991 @@
+{
+ "index_version": 1,
+ "updated_at": "2026-10-03",
+ "source": "各行官网产品页（薄索引：卡名/发卡行/卡组织/卡种/官网链接，不含规格）",
+ "entries": [
+  {
+   "id": "x-0001",
+   "name": "标准信用卡",
+   "bank": "天津银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.bankoftianjin.com/tianhangzhongwen/grjr/xyk/xykqjf/xykqjf/index.html"
+  },
+  {
+   "id": "x-0002",
+   "name": "白金卡",
+   "bank": "天津银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.bankoftianjin.com/tianhangzhongwen/grjr/xyk/xykqjf/xykqjf/2021122216303435985/index.html"
+  },
+  {
+   "id": "x-0003",
+   "name": "公务卡",
+   "bank": "天津银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.bankoftianjin.com/tianhangzhongwen/grjr/xyk/xykqjf/xykqjf/2021122216270279802/index.html"
+  },
+  {
+   "id": "x-0004",
+   "name": "金卡",
+   "bank": "天津银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.bankoftianjin.com/tianhangzhongwen/grjr/xyk/xykqjf/xykqjf/2021122216130928763/index.html"
+  },
+  {
+   "id": "x-0005",
+   "name": "津智卡",
+   "bank": "天津银行",
+   "org": "unionpay",
+   "type": "debit",
+   "url": "https://www.bankoftianjin.com/tianhangzhongwen/grjr/jjk/jjk/2022030113462098789/index.html"
+  },
+  {
+   "id": "x-0006",
+   "name": "社会保障卡",
+   "bank": "天津银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.bankoftianjin.com/tianhangzhongwen/grjr/jjk/tsjjk/2022030114071898256/index.html"
+  },
+  {
+   "id": "x-0007",
+   "name": "全飞卡",
+   "bank": "广州农商银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.grcbank.com/grcbank/tyxyk/cpjs/gdsl/qfk/index.shtml"
+  },
+  {
+   "id": "x-0008",
+   "name": "VISA卡",
+   "bank": "广州农商银行",
+   "org": "visa",
+   "type": "credit",
+   "url": "https://www.grcbank.com/grcbank/tyxyk/cpjs/gdsl/visak/index.shtml"
+  },
+  {
+   "id": "x-0009",
+   "name": "广州农商银行美国运通卡",
+   "bank": "广州农商银行",
+   "org": "amex",
+   "type": "credit",
+   "url": "https://www.grcbank.com/grcbank/tyxyk/cpjs/gdsl/gznsyxmgytk/index.shtml"
+  },
+  {
+   "id": "x-0010",
+   "name": "全行卡",
+   "bank": "广州农商银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.grcbank.com/grcbank/tyxyk/cpjs/czcx/qxk/index.shtml"
+  },
+  {
+   "id": "x-0011",
+   "name": "车主卡",
+   "bank": "广州农商银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.grcbank.com/grcbank/tyxyk/cpjs/czcx/czk/index.shtml"
+  },
+  {
+   "id": "x-0012",
+   "name": "钱钱卡",
+   "bank": "广州农商银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.grcbank.com/grcbank/tyxyk/cpjs/bfgw/qqk/index.shtml"
+  },
+  {
+   "id": "x-0013",
+   "name": "缤纷卡",
+   "bank": "广州农商银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.grcbank.com/grcbank/tyxyk/cpjs/bfgw/bfk/index.shtml"
+  },
+  {
+   "id": "x-0014",
+   "name": "女神卡",
+   "bank": "广州农商银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.grcbank.com/grcbank/tyxyk/cpjs/bfgw/nsk/index.shtml"
+  },
+  {
+   "id": "x-0015",
+   "name": "标准卡",
+   "bank": "广州农商银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.grcbank.com/grcbank/tyxyk/cpjs/jdxl/bzk/index.shtml"
+  },
+  {
+   "id": "x-0016",
+   "name": "私人银行卡",
+   "bank": "广州农商银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.grcbank.com/grcbank/gryw/jjk/vipkxl/index.shtml"
+  },
+  {
+   "id": "x-0017",
+   "name": "钻石卡",
+   "bank": "广州农商银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.grcbank.com/grcbank/gryw/jjk/vipkxl/index.shtml"
+  },
+  {
+   "id": "x-0018",
+   "name": "白金卡",
+   "bank": "广州农商银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.grcbank.com/grcbank/gryw/jjk/vipkxl/index.shtml"
+  },
+  {
+   "id": "x-0019",
+   "name": "黄金卡",
+   "bank": "广州农商银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.grcbank.com/grcbank/gryw/jjk/vipkxl/index.shtml"
+  },
+  {
+   "id": "x-0020",
+   "name": "花城卡",
+   "bank": "广州农商银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.grcbank.com/grcbank/gryw/jjk/hck/index.shtml"
+  },
+  {
+   "id": "x-0021",
+   "name": "锦鲤卡",
+   "bank": "广州农商银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.grcbank.com/grcbank/gryw/jjk/hck/index.shtml"
+  },
+  {
+   "id": "x-0022",
+   "name": "金米广府家族荣耀卡·世家",
+   "bank": "广州农商银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.grcbank.com/grcbank/gryw/jjk/hck/index.shtml"
+  },
+  {
+   "id": "x-0023",
+   "name": "金米广府家族荣耀卡·名门",
+   "bank": "广州农商银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.grcbank.com/grcbank/gryw/jjk/hck/index.shtml"
+  },
+  {
+   "id": "x-0024",
+   "name": "拥军优抚卡",
+   "bank": "广州农商银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.grcbank.com/grcbank/gryw/jjk/hck/index.shtml"
+  },
+  {
+   "id": "x-0025",
+   "name": "家园卡",
+   "bank": "广州农商银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.grcbank.com/grcbank/gryw/jjk/hck/index.shtml"
+  },
+  {
+   "id": "x-0026",
+   "name": "城市更新卡",
+   "bank": "广州农商银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.grcbank.com/grcbank/gryw/jjk/hck/index.shtml"
+  },
+  {
+   "id": "x-0027",
+   "name": "统发工资卡",
+   "bank": "广州农商银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.grcbank.com/grcbank/gryw/jjk/hck/index.shtml"
+  },
+  {
+   "id": "x-0028",
+   "name": "薪享卡",
+   "bank": "广州农商银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.grcbank.com/grcbank/gryw/jjk/hck/index.shtml"
+  },
+  {
+   "id": "x-0029",
+   "name": "萌哒哒卡",
+   "bank": "广州农商银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.grcbank.com/grcbank/gryw/jjk/hck/index.shtml"
+  },
+  {
+   "id": "x-0030",
+   "name": "珠海情侣卡",
+   "bank": "广州农商银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.grcbank.com/grcbank/gryw/jjk/hck/index.shtml"
+  },
+  {
+   "id": "x-0031",
+   "name": "乡村振兴卡",
+   "bank": "广州农商银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.grcbank.com/grcbank/gryw/jjk/hck/index.shtml"
+  },
+  {
+   "id": "x-0032",
+   "name": "领粤卡",
+   "bank": "广州农商银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.grcbank.com/grcbank/gryw/jjk/lykxl/index.shtml"
+  },
+  {
+   "id": "x-0033",
+   "name": "社保卡",
+   "bank": "广州农商银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.grcbank.com/grcbank/gryw/sbk/index.shtml"
+  },
+  {
+   "id": "x-0034",
+   "name": "苏州银行普卡",
+   "bank": "苏州银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.suzhoubank.com/suzhoubank/2024-12/27/article_2025030314201355408.shtml"
+  },
+  {
+   "id": "x-0035",
+   "name": "苏州银行金卡",
+   "bank": "苏州银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.suzhoubank.com/suzhoubank/2024-12/27/article_2025030314201298088.shtml"
+  },
+  {
+   "id": "x-0036",
+   "name": "白金卡（精英版）",
+   "bank": "苏州银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.suzhoubank.com/suzhoubank/2024-12/27/article_2025030314201217302.shtml"
+  },
+  {
+   "id": "x-0037",
+   "name": "白金卡（尊享版）",
+   "bank": "苏州银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.suzhoubank.com/suzhoubank/2024-12/27/article_2025030314201290166.shtml"
+  },
+  {
+   "id": "x-0038",
+   "name": "苏州银行Visa御玺卡",
+   "bank": "苏州银行",
+   "org": "visa",
+   "type": "credit",
+   "url": "https://www.suzhoubank.com/suzhoubank/2024-12/27/article_2025030314201250851.shtml"
+  },
+  {
+   "id": "x-0039",
+   "name": "银联绿色低碳卡",
+   "bank": "苏州银行",
+   "org": "unionpay",
+   "type": "credit",
+   "url": "https://www.suzhoubank.com/suzhoubank/2024-12/27/article_2025030314201361556.shtml"
+  },
+  {
+   "id": "x-0040",
+   "name": "苏州银行RUN卡",
+   "bank": "苏州银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.suzhoubank.com/suzhoubank/2024-12/27/article_2025030314201374362.shtml"
+  },
+  {
+   "id": "x-0041",
+   "name": "心邻卡（邻里中心联名卡）",
+   "bank": "苏州银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.suzhoubank.com/suzhoubank/2025-03/03/article_2025030316262835356.shtml"
+  },
+  {
+   "id": "x-0042",
+   "name": "金桂IC卡",
+   "bank": "苏州银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.suzhoubank.com/suzhoubank/lsyw/jjk/jgick/index.shtml"
+  },
+  {
+   "id": "x-0043",
+   "name": "贵宾卡",
+   "bank": "苏州银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.suzhoubank.com/suzhoubank/lsyw/jjk/gbk/index.shtml"
+  },
+  {
+   "id": "x-0044",
+   "name": "江苏省社会保障卡",
+   "bank": "苏州银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.suzhoubank.com/suzhoubank/lsyw/jjk/jssshbzk/index.shtml"
+  },
+  {
+   "id": "x-0045",
+   "name": "苏州市尊老卡",
+   "bank": "苏州银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.suzhoubank.com/suzhoubank/lsyw/jjk/szszlk/index.shtml"
+  },
+  {
+   "id": "x-0046",
+   "name": "联名卡",
+   "bank": "苏州银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.suzhoubank.com/suzhoubank/lsyw/jjk/lmk/index.shtml"
+  },
+  {
+   "id": "x-0047",
+   "name": "骐骥系列信用卡",
+   "bank": "郑州银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.zzbank.cn/creditcard/xyksq/202412/t20241231_28273.html"
+  },
+  {
+   "id": "x-0048",
+   "name": "万事兴龍卡",
+   "bank": "郑州银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.zzbank.cn/creditcard/xyksq/202408/t20240827_436.html"
+  },
+  {
+   "id": "x-0049",
+   "name": "巳喜系列信用卡",
+   "bank": "郑州银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.zzbank.cn/creditcard/xyksq/202409/t20240918_435.html"
+  },
+  {
+   "id": "x-0050",
+   "name": "爱家卡",
+   "bank": "郑州银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.zzbank.cn/creditcard/xyksq/202411/t20241108_19592.html"
+  },
+  {
+   "id": "x-0051",
+   "name": "乡村振兴卡",
+   "bank": "郑州银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.zzbank.cn/creditcard/xyksq/202411/t20241108_19593.html"
+  },
+  {
+   "id": "x-0052",
+   "name": "普卡",
+   "bank": "郑州银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.zzbank.cn/creditcard/xyksq/202409/t20240918_432.html"
+  },
+  {
+   "id": "x-0053",
+   "name": "金卡",
+   "bank": "郑州银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.zzbank.cn/creditcard/xyksq/202409/t20240918_431.html"
+  },
+  {
+   "id": "x-0054",
+   "name": "商鼎卡",
+   "bank": "郑州银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.zzbank.cn/personal/sdk/202408/t20240814_534.html"
+  },
+  {
+   "id": "x-0055",
+   "name": "工会会员卡",
+   "bank": "郑州银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.zzbank.cn/personal/sdk/202408/t20240814_533.html"
+  },
+  {
+   "id": "x-0056",
+   "name": "乡村振兴主题卡",
+   "bank": "郑州银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.zzbank.cn/personal/sdk/202408/t20240814_532.html"
+  },
+  {
+   "id": "x-0057",
+   "name": "商鼎新市民卡",
+   "bank": "郑州银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.zzbank.cn/personal/sdk/202408/t20240814_531.html"
+  },
+  {
+   "id": "x-0058",
+   "name": "地铁主题借记卡",
+   "bank": "郑州银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.zzbank.cn/personal/sdk/202408/t20240814_530.html"
+  },
+  {
+   "id": "x-0059",
+   "name": "生肖卡",
+   "bank": "郑州银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.zzbank.cn/personal/sdk/202408/t20240814_529.html"
+  },
+  {
+   "id": "x-0060",
+   "name": "丽人卡",
+   "bank": "郑州银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.zzbank.cn/personal/sdk/202408/t20240814_528.html"
+  },
+  {
+   "id": "x-0061",
+   "name": "商鼎宝贝儿成长计划卡",
+   "bank": "郑州银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.zzbank.cn/personal/sdk/202408/t20240814_527.html"
+  },
+  {
+   "id": "x-0062",
+   "name": "商鼎拥军专属卡",
+   "bank": "郑州银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.zzbank.cn/personal/sdk/202408/t20240814_526.html"
+  },
+  {
+   "id": "x-0063",
+   "name": "川渝无界卡",
+   "bank": "重庆农商银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.cqrcb.com/cqrcb/creditCard/cardproductintro/cardintro/335245.html"
+  },
+  {
+   "id": "x-0064",
+   "name": "绿色金融卡",
+   "bank": "重庆农商银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.cqrcb.com/cqrcb/creditCard/cardproductintro/cardintro/335244.html"
+  },
+  {
+   "id": "x-0065",
+   "name": "渝快分期卡-渝快分期购家装",
+   "bank": "重庆农商银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.cqrcb.com/cqrcb/creditCard/cardproductintro/cardintro/35102.html"
+  },
+  {
+   "id": "x-0066",
+   "name": "VISA环球白金卡",
+   "bank": "重庆农商银行",
+   "org": "visa",
+   "type": "credit",
+   "url": "https://www.cqrcb.com/cqrcb/creditCard/cardproductintro/cardintro/1161.html"
+  },
+  {
+   "id": "x-0067",
+   "name": "尊惠版白金卡",
+   "bank": "重庆农商银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.cqrcb.com/cqrcb/creditCard/cardproductintro/cardintro/3662.html"
+  },
+  {
+   "id": "x-0068",
+   "name": "江渝借记卡—普卡",
+   "bank": "重庆农商银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.cqrcb.com/cqrcb/personalFinance/debitcard/puka/index.html"
+  },
+  {
+   "id": "x-0069",
+   "name": "江渝借记卡—乡村振兴卡",
+   "bank": "重庆农商银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.cqrcb.com/cqrcb/personalFinance/debitcard/puka/index.html"
+  },
+  {
+   "id": "x-0070",
+   "name": "江渝借记卡—江渝薪享卡",
+   "bank": "重庆农商银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.cqrcb.com/cqrcb/personalFinance/debitcard/puka/index.html"
+  },
+  {
+   "id": "x-0071",
+   "name": "江渝借记卡—江渝成长卡",
+   "bank": "重庆农商银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.cqrcb.com/cqrcb/personalFinance/debitcard/puka/index.html"
+  },
+  {
+   "id": "x-0072",
+   "name": "江渝借记卡—江渝军人服务卡",
+   "bank": "重庆农商银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.cqrcb.com/cqrcb/personalFinance/debitcard/puka/index.html"
+  },
+  {
+   "id": "x-0073",
+   "name": "江渝借记卡—江渝芳华卡",
+   "bank": "重庆农商银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.cqrcb.com/cqrcb/personalFinance/debitcard/puka/index.html"
+  },
+  {
+   "id": "x-0074",
+   "name": "江渝借记卡—私人银行卡",
+   "bank": "重庆农商银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.cqrcb.com/cqrcb/personalFinance/debitcard/vip/cardintroduction/index.html"
+  },
+  {
+   "id": "x-0075",
+   "name": "江渝借记卡—准私人银行卡",
+   "bank": "重庆农商银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.cqrcb.com/cqrcb/personalFinance/debitcard/vip/cardintroduction/index.html"
+  },
+  {
+   "id": "x-0076",
+   "name": "江渝借记卡—钻石卡",
+   "bank": "重庆农商银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.cqrcb.com/cqrcb/personalFinance/debitcard/vip/cardintroduction/index.html"
+  },
+  {
+   "id": "x-0077",
+   "name": "江渝借记卡—白金卡",
+   "bank": "重庆农商银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.cqrcb.com/cqrcb/personalFinance/debitcard/vip/cardintroduction/index.html"
+  },
+  {
+   "id": "x-0078",
+   "name": "江渝借记卡—金卡",
+   "bank": "重庆农商银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.cqrcb.com/cqrcb/personalFinance/debitcard/vip/cardintroduction/index.html"
+  },
+  {
+   "id": "x-0079",
+   "name": "丁香卡普卡",
+   "bank": "哈尔滨银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.hrbb.com.cn/harBinBank/lsjr/yxk14/92917/index.html"
+  },
+  {
+   "id": "x-0080",
+   "name": "金融IC借记卡",
+   "bank": "哈尔滨银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.hrbb.com.cn/harBinBank/lsjr/yxk14/92885/index.html"
+  },
+  {
+   "id": "x-0081",
+   "name": "丁香易理财金卡",
+   "bank": "哈尔滨银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.hrbb.com.cn/harBinBank/lsjr/yxk14/92912/index.html"
+  },
+  {
+   "id": "x-0082",
+   "name": "丁香财富白金卡",
+   "bank": "哈尔滨银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.hrbb.com.cn/harBinBank/lsjr/yxk14/92907/index.html"
+  },
+  {
+   "id": "x-0083",
+   "name": "丁香财富钻石卡",
+   "bank": "哈尔滨银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.hrbb.com.cn/harBinBank/lsjr/yxk14/92902/index.html"
+  },
+  {
+   "id": "x-0084",
+   "name": "Fly卡",
+   "bank": "哈尔滨银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.hrbb.com.cn/harBinBank/lsjr/yxk14/92897/index.html"
+  },
+  {
+   "id": "x-0085",
+   "name": "第三代社会保障卡",
+   "bank": "哈尔滨银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.hrbb.com.cn/harBinBank/lsjr/yxk14/1213325/index.html"
+  },
+  {
+   "id": "x-0086",
+   "name": "云闪付无界主题白金信用卡",
+   "bank": "哈尔滨银行",
+   "org": "unionpay",
+   "type": "credit",
+   "url": "https://www.hrbb.com.cn/harBinBank/lsjr/xyk/1240763/index.html"
+  },
+  {
+   "id": "x-0087",
+   "name": "马拉松信用卡",
+   "bank": "哈尔滨银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.hrbb.com.cn/harBinBank/lsjr/xyk/1216773/index.html"
+  },
+  {
+   "id": "x-0088",
+   "name": "橙卡",
+   "bank": "哈尔滨银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.hrbb.com.cn/harBinBank/lsjr/xyk/92953/index.html"
+  },
+  {
+   "id": "x-0089",
+   "name": "丁香普惠金信用卡",
+   "bank": "哈尔滨银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.hrbb.com.cn/harBinBank/lsjr/xyk/92948/index.html"
+  },
+  {
+   "id": "x-0090",
+   "name": "丁香惠分期信用卡",
+   "bank": "哈尔滨银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.hrbb.com.cn/harBinBank/lsjr/xyk/92943/index.html"
+  },
+  {
+   "id": "x-0091",
+   "name": "标准信用卡",
+   "bank": "青岛银行",
+   "org": "unionpay",
+   "type": "credit",
+   "url": "https://www.qdccb.com/qdbank/gr/xyk/wybk/bzxyk/index.html"
+  },
+  {
+   "id": "x-0092",
+   "name": "Q Card畅行版",
+   "bank": "青岛银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.qdccb.com/qdbank/gr/xyk/wybk/mtxyk/index.html"
+  },
+  {
+   "id": "x-0093",
+   "name": "Q Card畅饮版",
+   "bank": "青岛银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.qdccb.com/qdbank/gr/xyk/wybk/mtwjk/index.html"
+  },
+  {
+   "id": "x-0094",
+   "name": "车主无界白金卡",
+   "bank": "青岛银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.qdccb.com/qdbank/gr/xyk/wybk/czwjbjk/index.html"
+  },
+  {
+   "id": "x-0095",
+   "name": "海融普通卡",
+   "bank": "青岛银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.qdccb.com/qdbank/gr/grcx/jjk/index.html"
+  },
+  {
+   "id": "x-0096",
+   "name": "海融金卡",
+   "bank": "青岛银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.qdccb.com/qdbank/gr/grcx/jjk/index.html"
+  },
+  {
+   "id": "x-0097",
+   "name": "海融白金卡",
+   "bank": "青岛银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.qdccb.com/qdbank/gr/grcx/jjk/index.html"
+  },
+  {
+   "id": "x-0098",
+   "name": "海融钻石卡",
+   "bank": "青岛银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.qdccb.com/qdbank/gr/grcx/jjk/index.html"
+  },
+  {
+   "id": "x-0099",
+   "name": "海融私人银行卡",
+   "bank": "青岛银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.qdccb.com/qdbank/gr/grcx/jjk/index.html"
+  },
+  {
+   "id": "x-0100",
+   "name": "乡村振兴卡",
+   "bank": "青岛银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.qdccb.com/qdbank/gr/grcx/jjk/index.html"
+  },
+  {
+   "id": "x-0101",
+   "name": "社保卡",
+   "bank": "青岛银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.qdccb.com/qdbank/gr/grcx/jjk/hrztk/sbk/index.html"
+  },
+  {
+   "id": "x-0102",
+   "name": "微尘卡",
+   "bank": "青岛银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.qdccb.com/qdbank/gr/grcx/jjk/hrztk/wck/index.html"
+  },
+  {
+   "id": "x-0103",
+   "name": "幸福宝贝卡",
+   "bank": "青岛银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.qdccb.com/qdbank/gr/grcx/jjk/hrztk/xfbbk/index.html"
+  },
+  {
+   "id": "x-0104",
+   "name": "幸福陪伴卡",
+   "bank": "青岛银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.qdccb.com/qdbank/gr/grcx/jjk/hrztk/xfpbk/index.html"
+  },
+  {
+   "id": "x-0105",
+   "name": "云闪付主题无界信用卡",
+   "bank": "齐鲁银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.qlbchina.com/qlbchina/2023-07/06/article_2023070614402227746.html"
+  },
+  {
+   "id": "x-0106",
+   "name": "齐鲁信用卡泉行卡",
+   "bank": "齐鲁银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.qlbchina.com/qlbchina/2023-07/06/article_2023070614252811007.html"
+  },
+  {
+   "id": "x-0107",
+   "name": "齐鲁信用卡普卡",
+   "bank": "齐鲁银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.qlbchina.com/qlbchina/2023-07/06/article_2023070614224765979.html"
+  },
+  {
+   "id": "x-0108",
+   "name": "齐鲁信用卡金卡",
+   "bank": "齐鲁银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.qlbchina.com/qlbchina/2023-07/04/article_2023070422380931838.html"
+  },
+  {
+   "id": "x-0109",
+   "name": "齐鲁信用卡白金卡",
+   "bank": "齐鲁银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.qlbchina.com/qlbchina/2023-07/04/article_2023070422302576674.html"
+  },
+  {
+   "id": "x-0110",
+   "name": "齐鲁卡",
+   "bank": "齐鲁银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.qlbchina.com/qlbchina/qlyx/qlk35/yxk/qljrsbick/index.html"
+  },
+  {
+   "id": "x-0111",
+   "name": "齐鲁卡普卡",
+   "bank": "齐鲁银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.qlbchina.com/qlbchina/qlyx/qlk35/yxk/qlkpk/index.html"
+  },
+  {
+   "id": "x-0112",
+   "name": "齐鲁白金卡",
+   "bank": "齐鲁银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.qlbchina.com/qlbchina/qlyx/qlk35/yxk/qlbjk/index.html"
+  },
+  {
+   "id": "x-0113",
+   "name": "齐鲁贵宾卡",
+   "bank": "齐鲁银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.qlbchina.com/qlbchina/qlyx/qlk35/yxk/qlgbk/index.html"
+  },
+  {
+   "id": "x-0114",
+   "name": "齐鲁儿童卡",
+   "bank": "齐鲁银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.qlbchina.com/qlbchina/qlyx/qlk35/yxk/qletk/index.html"
+  },
+  {
+   "id": "x-0115",
+   "name": "齐鲁金融社保IC卡",
+   "bank": "齐鲁银行",
+   "org": null,
+   "type": "debit",
+   "url": "https://www.qlbchina.com/qlbchina/qlyx/qlk35/yxk/qljrsbick/index.html"
+  },
+  {
+   "id": "x-0116",
+   "name": "银联标准普卡",
+   "bank": "长沙银行",
+   "org": "unionpay",
+   "type": "credit",
+   "url": "https://www.cscb.cn/site/col4/index.html"
+  },
+  {
+   "id": "x-0117",
+   "name": "银联标准金卡",
+   "bank": "长沙银行",
+   "org": "unionpay",
+   "type": "credit",
+   "url": "https://www.cscb.cn/site/col4/index.html"
+  },
+  {
+   "id": "x-0118",
+   "name": "车主卡",
+   "bank": "长沙银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.cscb.cn/site/col4/index.html"
+  },
+  {
+   "id": "x-0119",
+   "name": "芙蓉信用卡",
+   "bank": "长沙银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.cscb.cn/site/col4/index.html"
+  },
+  {
+   "id": "x-0120",
+   "name": "心意通卡",
+   "bank": "长沙银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.cscb.cn/site/col4/index.html"
+  },
+  {
+   "id": "x-0121",
+   "name": "融易通卡",
+   "bank": "长沙银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.cscb.cn/site/col4/index.html"
+  },
+  {
+   "id": "x-0122",
+   "name": "长湘贷卡",
+   "bank": "长沙银行",
+   "org": null,
+   "type": null,
+   "url": "https://www.cscb.cn/site/col4/index.html"
+  },
+  {
+   "id": "x-0123",
+   "name": "融意通卡",
+   "bank": "长沙银行",
+   "org": null,
+   "type": "credit",
+   "url": "https://www.cscb.cn/site/col86/index.html"
+  }
+ ]
+}
