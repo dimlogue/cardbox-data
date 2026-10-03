@@ -1112,7 +1112,7 @@
     "order": 2,
     "reason": "办卡门槛最低：全年龄免征信可办（未成年人可代办），年费、小额管理费全免，2026年底前免工本费，人民币结算不用折腾购汇；网付/3DS能力待核实"
    },
-   "image": "data/images/boc-mastercard-bilibili.svg",
+   "image": "data/images/boc-mastercard-bilibili.jpg",
    "keywords": [
     "中行",
     "boc",
@@ -1203,7 +1203,7 @@
    "score": null,
    "review": "中行银联多币卡限额清晰，在线支付支持好，出境备用可。",
    "status": "在发",
-   "image": "data/images/boc-greatwall-unionpay.svg",
+   "image": "data/images/boc-greatwall-unionpay.jpg",
    "keywords": [
     "中行",
     "boc"
@@ -1483,7 +1483,8 @@
     "2233万事达",
     "中行",
     "中国"
-   ]
+   ],
+   "image": "data/images/ext-009.jpg"
   },
   {
    "id": "ext-011",
@@ -1916,7 +1917,7 @@
     "民生全币种Visa",
     "民生"
    ],
-   "image": "data/images/ext-028.jpg"
+   "image": "data/images/ext-028.png"
   },
   {
    "id": "ext-029",
@@ -1945,7 +1946,7 @@
     "民生Visa单标标白",
     "民生"
    ],
-   "image": "data/images/ext-029.jpg"
+   "image": "data/images/ext-029.png"
   },
   {
    "id": "ext-030",
@@ -2312,7 +2313,8 @@
    "keywords": [
     "中信万事达金卡",
     "中信"
-   ]
+   ],
+   "image": "data/images/ext-042.png"
   },
   {
    "id": "ext-043",
@@ -3627,7 +3629,8 @@
     "中行",
     "中国"
    ],
-   "url": "https://www.boc.cn/bcservice/bc2/201010/t20101026_1178869.html"
+   "url": "https://www.boc.cn/bcservice/bc2/201010/t20101026_1178869.html",
+   "image": "data/images/ext-092.jpg"
   },
   {
    "id": "ext-093",
@@ -3754,7 +3757,8 @@
     "农行",
     "农业"
    ],
-   "url": "https://www.abchina.com/cn/personalservices/debitcard/201407/t20140708_790214.htm"
+   "url": "https://www.abchina.com/cn/personalservices/debitcard/201407/t20140708_790214.htm",
+   "image": "data/images/ext-095.jpg"
   },
   {
    "id": "ext-096",
@@ -3796,7 +3800,8 @@
     "农行",
     "农业"
    ],
-   "url": "https://www.abchina.com/cn/personalservices/debitcard/201407/t20140708_790213.htm"
+   "url": "https://www.abchina.com/cn/personalservices/debitcard/201407/t20140708_790213.htm",
+   "image": "data/images/ext-096.jpg"
   },
   {
    "id": "ext-097",
@@ -3881,7 +3886,8 @@
     "农行",
     "农业"
    ],
-   "url": "https://www.abchina.com/cn/personalservices/debitcard/ztkxl/201407/t20140708_790251.htm"
+   "url": "https://www.abchina.com/cn/personalservices/debitcard/ztkxl/201407/t20140708_790251.htm",
+   "image": "data/images/ext-098.png"
   },
   {
    "id": "ext-099",
@@ -6716,12 +6722,14 @@
    "url": "https://www.boc.cn/bcservice/bc1/201306/t20130609_2307142.html",
    "variants": [
     {
-     "name": "白金卡"
+     "name": "白金卡",
+     "image": "data/images/ext-164.jpg"
     },
     {
      "name": "金卡"
     }
-   ]
+   ],
+   "image": "data/images/ext-164.jpg"
   },
   {
    "id": "ext-166",
@@ -6828,7 +6836,8 @@
    "url": "https://www.boc.cn/bcservice/bc1/201306/t20130609_2307142.html",
    "variants": [
     {
-     "name": "白金卡"
+     "name": "白金卡",
+     "image": "data/images/ext-168-v-platinum.jpg"
     },
     {
      "name": "金卡",
@@ -8334,6 +8343,3283 @@
      "name": "港币版"
     }
    ]
+  },
+  {
+   "id": "cgb-one-platinum",
+   "org": "unionpay",
+   "bank": "广发银行",
+   "name": "广发银行ONE卡白金卡",
+   "specs": {
+    "卡片名称": "ONE卡白金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "广发银行ONE卡白金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cgb-one-platinum.jpg",
+   "keywords": [
+    "广发",
+    "cgb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cgb-zhenrui-world",
+   "org": "mastercard",
+   "bank": "广发银行",
+   "name": "广发银行万事达臻瑞世界卡",
+   "specs": {
+    "卡片名称": "万事达臻瑞世界卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "广发银行万事达臻瑞世界卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cgb-zhenrui-world.jpg",
+   "keywords": [
+    "广发",
+    "cgb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cgb-csair-mingzhu",
+   "org": "unionpay",
+   "bank": "广发银行",
+   "name": "广发银行南航明珠卡",
+   "specs": {
+    "卡片名称": "南航明珠卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡面为金卡等级"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "广发银行南航明珠卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cgb-csair-mingzhu.jpg",
+   "keywords": [
+    "广发",
+    "cgb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cgb-zhenqing-xingzuan",
+   "org": "unionpay",
+   "bank": "广发银行",
+   "name": "广发银行真情星钻金卡",
+   "specs": {
+    "卡片名称": "真情星钻金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；竖版卡面"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "广发银行真情星钻金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cgb-zhenqing-xingzuan.png",
+   "keywords": [
+    "广发",
+    "cgb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cgb-cheche-elite",
+   "org": "unionpay",
+   "bank": "广发银行",
+   "name": "广发银行车主精英白金卡",
+   "specs": {
+    "卡片名称": "车主精英白金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "广发银行车主精英白金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cgb-cheche-elite.jpg",
+   "keywords": [
+    "广发",
+    "cgb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cgb-zhenshang-platinum",
+   "org": "unionpay",
+   "bank": "广发银行",
+   "name": "广发银行银联臻尚白金卡",
+   "specs": {
+    "卡片名称": "银联臻尚白金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "广发银行银联臻尚白金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cgb-zhenshang-platinum.jpg",
+   "keywords": [
+    "广发",
+    "cgb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cib-xmair-mc-pu",
+   "org": "mastercard",
+   "bank": "兴业银行",
+   "name": "兴业银行厦门航空白鹭联名万事达双币信用卡普卡",
+   "specs": {
+    "卡片名称": "厦门航空白鹭联名万事达双币信用卡普卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；官网合成图切分，229x176"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "兴业银行厦门航空白鹭联名万事达双币信用卡普卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cib-xmair-mc-pu.jpg",
+   "keywords": [
+    "兴业",
+    "cib"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cib-xmair-mc-gold",
+   "org": "mastercard",
+   "bank": "兴业银行",
+   "name": "兴业银行厦门航空白鹭联名万事达双币信用卡金卡",
+   "specs": {
+    "卡片名称": "厦门航空白鹭联名万事达双币信用卡金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；官网合成图切分，229x176"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "兴业银行厦门航空白鹭联名万事达双币信用卡金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cib-xmair-mc-gold.jpg",
+   "keywords": [
+    "兴业",
+    "cib"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cib-xmair-mc-dual-platinum",
+   "org": "mastercard",
+   "bank": "兴业银行",
+   "name": "兴业银行厦门航空白鹭万事达联名信用卡双应用芯片版白金卡",
+   "specs": {
+    "卡片名称": "厦门航空白鹭万事达联名信用卡双应用芯片版白金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；官网合成图切分，306x278"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "兴业银行厦门航空白鹭万事达联名信用卡双应用芯片版白金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cib-xmair-mc-dual-platinum.jpg",
+   "keywords": [
+    "兴业",
+    "cib"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cib-xmair-mc-dual-gold",
+   "org": "mastercard",
+   "bank": "兴业银行",
+   "name": "兴业银行厦门航空白鹭万事达联名信用卡双应用芯片版金卡",
+   "specs": {
+    "卡片名称": "厦门航空白鹭万事达联名信用卡双应用芯片版金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；官网合成图切分，306x278"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "兴业银行厦门航空白鹭万事达联名信用卡双应用芯片版金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cib-xmair-mc-dual-gold.jpg",
+   "keywords": [
+    "兴业",
+    "cib"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cib-xmair-up-platinum",
+   "org": "unionpay",
+   "bank": "兴业银行",
+   "name": "兴业银行厦门航空白鹭联名信用卡IC卡白金卡",
+   "specs": {
+    "卡片名称": "厦门航空白鹭联名信用卡IC卡白金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "兴业银行厦门航空白鹭联名信用卡IC卡白金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cib-xmair-up-platinum.jpg",
+   "keywords": [
+    "兴业",
+    "cib"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cib-xmair-up-pu",
+   "org": "unionpay",
+   "bank": "兴业银行",
+   "name": "兴业银行厦门航空白鹭联名银联信用卡普卡",
+   "specs": {
+    "卡片名称": "厦门航空白鹭联名银联信用卡普卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；官网合成图切分，229x176"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "兴业银行厦门航空白鹭联名银联信用卡普卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cib-xmair-up-pu.jpg",
+   "keywords": [
+    "兴业",
+    "cib"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cib-xmair-up-gold",
+   "org": "unionpay",
+   "bank": "兴业银行",
+   "name": "兴业银行厦门航空白鹭联名银联信用卡金卡",
+   "specs": {
+    "卡片名称": "厦门航空白鹭联名银联信用卡金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；官网合成图切分，229x176"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "兴业银行厦门航空白鹭联名银联信用卡金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cib-xmair-up-gold.jpg",
+   "keywords": [
+    "兴业",
+    "cib"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "citic-xiaoyao-youth",
+   "org": "visa",
+   "bank": "中信银行",
+   "name": "中信银行VISA逍遥卡白金卡（少年行）",
+   "specs": {
+    "卡片名称": "VISA逍遥卡白金卡（少年行）",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "中信银行VISA逍遥卡白金卡（少年行），详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/citic-xiaoyao-youth.png",
+   "keywords": [
+    "中信",
+    "citic"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "citic-i-platinum",
+   "org": "unionpay",
+   "bank": "中信银行",
+   "name": "中信银行i白金信用卡",
+   "specs": {
+    "卡片名称": "i白金信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；低清 194x122，官网仅此缩略图尺寸"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "中信银行i白金信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/citic-i-platinum.jpg",
+   "keywords": [
+    "中信",
+    "citic"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "citic-yika-gold",
+   "org": "unionpay",
+   "bank": "中信银行",
+   "name": "中信银行易卡金卡",
+   "specs": {
+    "卡片名称": "易卡金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡种待核实：图包清单标「信用卡」，但易卡为借记卡产品线且卡面BIN 6229，暂按借记卡入库"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "中信银行易卡金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/citic-yika-gold.png",
+   "keywords": [
+    "中信",
+    "citic"
+   ],
+   "type": "debit"
+  },
+  {
+   "id": "citic-single-visa-gold",
+   "org": "visa",
+   "bank": "中信银行",
+   "name": "中信银行单币标准信用卡VISA金卡",
+   "specs": {
+    "卡片名称": "单币标准信用卡VISA金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "中信银行单币标准信用卡VISA金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/citic-single-visa-gold.png",
+   "keywords": [
+    "中信",
+    "citic"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "citic-amex-platinum",
+   "org": "amex-cn",
+   "bank": "中信银行",
+   "name": "中信银行美国运通白金卡",
+   "specs": {
+    "卡片名称": "美国运通白金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "中信银行美国运通白金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/citic-amex-platinum.png",
+   "keywords": [
+    "中信",
+    "citic"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cmb-mc-world",
+   "org": "mastercard",
+   "bank": "招商银行",
+   "name": "招商银行万事达世界信用卡",
+   "specs": {
+    "卡片名称": "万事达世界信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "招商银行万事达世界信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cmb-mc-world.jpg",
+   "keywords": [
+    "招行",
+    "cmb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cmb-visa-infinite",
+   "org": "visa",
+   "bank": "招商银行",
+   "name": "招商银行无限信用卡",
+   "specs": {
+    "卡片名称": "无限信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "招商银行无限信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cmb-visa-infinite.jpg",
+   "keywords": [
+    "招行",
+    "cmb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cmb-jingzhi-platinum",
+   "org": "visa",
+   "bank": "招商银行",
+   "name": "招商银行精致版白金信用卡",
+   "specs": {
+    "卡片名称": "精致版白金信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡面为VISA+银联双标，组织暂按VISA计"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "招商银行精致版白金信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cmb-jingzhi-platinum.jpg",
+   "keywords": [
+    "招行",
+    "cmb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cmb-jingdian-platinum",
+   "org": "visa",
+   "bank": "招商银行",
+   "name": "招商银行经典版白金卡",
+   "specs": {
+    "卡片名称": "经典版白金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡面为VISA+银联双标，组织暂按VISA计"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "招商银行经典版白金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cmb-jingdian-platinum.jpg",
+   "keywords": [
+    "招行",
+    "cmb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cmb-diamond",
+   "org": "unionpay",
+   "bank": "招商银行",
+   "name": "招商银行钻石信用卡",
+   "specs": {
+    "卡片名称": "钻石信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "招商银行钻石信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cmb-diamond.jpg",
+   "keywords": [
+    "招行",
+    "cmb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cmb-unionpay-platinum",
+   "org": "unionpay",
+   "bank": "招商银行",
+   "name": "招商银行银联白金信用卡",
+   "specs": {
+    "卡片名称": "银联白金信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "招商银行银联白金信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cmb-unionpay-platinum.jpg",
+   "keywords": [
+    "招行",
+    "cmb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cmb-mc-platinum",
+   "org": "mastercard",
+   "bank": "招商银行",
+   "name": "招商银行万事达白金信用卡",
+   "specs": {
+    "卡片名称": "万事达白金信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；官网横幅裁剪图"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "招商银行万事达白金信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cmb-mc-platinum.jpg",
+   "keywords": [
+    "招行",
+    "cmb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cmb-young",
+   "org": "unionpay",
+   "bank": "招商银行",
+   "name": "招商银行YOUNG卡青春版",
+   "specs": {
+    "卡片名称": "YOUNG卡青春版",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；黑底合成宣传图，卡面居中"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "招商银行YOUNG卡青春版，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cmb-young.png",
+   "keywords": [
+    "招行",
+    "cmb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cmbc-more-world",
+   "org": "mastercard",
+   "bank": "民生银行",
+   "name": "民生银行MORE世界信用卡",
+   "specs": {
+    "卡片名称": "MORE世界信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "民生银行MORE世界信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cmbc-more-world.jpg",
+   "keywords": [
+    "民生",
+    "cmbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cmbc-shengxiao",
+   "org": "unionpay",
+   "bank": "民生银行",
+   "name": "民生银行十二生肖主题信用卡",
+   "specs": {
+    "卡片名称": "十二生肖主题信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；竖版马年卡面，同系列其他生肖未收"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "民生银行十二生肖主题信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cmbc-shengxiao.jpg",
+   "keywords": [
+    "民生",
+    "cmbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cmbc-zunshang-platinum",
+   "org": "unionpay",
+   "bank": "民生银行",
+   "name": "民生银行尊尚白金信用卡",
+   "specs": {
+    "卡片名称": "尊尚白金信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "民生银行尊尚白金信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cmbc-zunshang-platinum.png",
+   "keywords": [
+    "民生",
+    "cmbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cmbc-zunshang-elite",
+   "org": "unionpay",
+   "bank": "民生银行",
+   "name": "民生银行尊尚精英白金信用卡",
+   "specs": {
+    "卡片名称": "尊尚精英白金信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "民生银行尊尚精英白金信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cmbc-zunshang-elite.png",
+   "keywords": [
+    "民生",
+    "cmbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cmbc-amex-minghua",
+   "org": "amex-cn",
+   "bank": "民生银行",
+   "name": "民生银行美国运通中国名画主题信用卡",
+   "specs": {
+    "卡片名称": "美国运通中国名画主题信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡面见运通7997标识"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "民生银行美国运通中国名画主题信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cmbc-amex-minghua.png",
+   "keywords": [
+    "民生",
+    "cmbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cmbc-cheche",
+   "org": "unionpay",
+   "bank": "民生银行",
+   "name": "民生银行车车信用卡",
+   "specs": {
+    "卡片名称": "车车信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡面文字为民生车车信用金卡"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "民生银行车车信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cmbc-cheche.png",
+   "keywords": [
+    "民生",
+    "cmbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "hxbc-panda",
+   "org": "unionpay",
+   "bank": "华夏银行",
+   "name": "华夏银行熊猫信用卡",
+   "specs": {
+    "卡片名称": "熊猫信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；图小 200x126，官网最大版本"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "华夏银行熊猫信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/hxbc-panda.png",
+   "keywords": [
+    "华夏",
+    "hxbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "hxbc-amex-yaohong",
+   "org": "amex-cn",
+   "bank": "华夏银行",
+   "name": "华夏银行美国运通耀红卡",
+   "specs": {
+    "卡片名称": "美国运通耀红卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "华夏银行美国运通耀红卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/hxbc-amex-yaohong.jpg",
+   "keywords": [
+    "华夏",
+    "hxbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "hxbc-mengchong",
+   "org": "unionpay",
+   "bank": "华夏银行",
+   "name": "华夏银行萌宠信用卡",
+   "specs": {
+    "卡片名称": "萌宠信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "华夏银行萌宠信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/hxbc-mengchong.jpg",
+   "variants": [
+    {
+     "name": "白猫",
+     "image": "data/images/hxbc-mengchong.jpg"
+    },
+    {
+     "name": "边境牧羊犬",
+     "image": "data/images/hxbc-mengchong-2.jpg"
+    },
+    {
+     "name": "金毛寻回犬",
+     "image": "data/images/hxbc-mengchong-3.jpg"
+    }
+   ],
+   "keywords": [
+    "华夏",
+    "hxbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "icbc-lingtong-account",
+   "org": "unionpay",
+   "bank": "工商银行",
+   "name": "工商银行工银灵通账户卡",
+   "specs": {
+    "卡片名称": "工银灵通账户卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "工商银行工银灵通账户卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/icbc-lingtong-account.png",
+   "keywords": [
+    "工行",
+    "icbc"
+   ],
+   "type": "debit"
+  },
+  {
+   "id": "icbc-mudan-mc-pu",
+   "org": "mastercard",
+   "bank": "工商银行",
+   "name": "工商银行牡丹信用卡（万事达普卡）",
+   "specs": {
+    "卡片名称": "牡丹信用卡（万事达普卡）",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；低清 158x101，官网缩略图"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "工商银行牡丹信用卡（万事达普卡），详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/icbc-mudan-mc-pu.jpg",
+   "keywords": [
+    "工行",
+    "icbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "icbc-mudan-chaohui-gold",
+   "org": "unionpay",
+   "bank": "工商银行",
+   "name": "工商银行牡丹超惠信用卡（金卡）",
+   "specs": {
+    "卡片名称": "牡丹超惠信用卡（金卡）",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；低清 158x99，官网缩略图"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "工商银行牡丹超惠信用卡（金卡），详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/icbc-mudan-chaohui-gold.jpg",
+   "keywords": [
+    "工行",
+    "icbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "icbc-shebao",
+   "org": "unionpay",
+   "bank": "工商银行",
+   "name": "工商银行金融社保卡",
+   "specs": {
+    "卡片名称": "金融社保卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；图小 230x110，官网仅此尺寸"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "工商银行金融社保卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/icbc-shebao.jpg",
+   "keywords": [
+    "工行",
+    "icbc"
+   ],
+   "type": "debit"
+  },
+  {
+   "id": "icbc-hkairlines",
+   "org": "visa",
+   "bank": "工商银行",
+   "name": "工商银行香港航空联名信用卡",
+   "specs": {
+    "卡片名称": "香港航空联名信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "工商银行香港航空联名信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/icbc-hkairlines.png",
+   "keywords": [
+    "工行",
+    "icbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "ccb-linefriends",
+   "org": "unionpay",
+   "bank": "建设银行",
+   "name": "建设银行LINE FRIENDS信用卡白金卡",
+   "specs": {
+    "卡片名称": "LINE FRIENDS信用卡白金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "建设银行LINE FRIENDS信用卡白金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/ccb-linefriends.jpg",
+   "keywords": [
+    "建行",
+    "ccb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "ccb-guotaijunan",
+   "org": "unionpay",
+   "bank": "建设银行",
+   "name": "建设银行国泰君安龙卡",
+   "specs": {
+    "卡片名称": "国泰君安龙卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "建设银行国泰君安龙卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/ccb-guotaijunan.jpg",
+   "keywords": [
+    "建行",
+    "ccb"
+   ],
+   "type": "debit"
+  },
+  {
+   "id": "ccb-jiesuantong",
+   "org": "unionpay",
+   "bank": "建设银行",
+   "name": "建设银行结算通卡",
+   "specs": {
+    "卡片名称": "结算通卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "建设银行结算通卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/ccb-jiesuantong.jpg",
+   "keywords": [
+    "建行",
+    "ccb"
+   ],
+   "type": "debit"
+  },
+  {
+   "id": "ccb-barbie",
+   "org": "unionpay",
+   "bank": "建设银行",
+   "name": "建设银行芭比美丽60周年白金卡",
+   "specs": {
+    "卡片名称": "芭比美丽60周年白金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；竖版卡面"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "建设银行芭比美丽60周年白金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/ccb-barbie.png",
+   "keywords": [
+    "建行",
+    "ccb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "ccb-alipay",
+   "org": "unionpay",
+   "bank": "建设银行",
+   "name": "建设银行龙卡支付宝卡",
+   "specs": {
+    "卡片名称": "龙卡支付宝卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "建设银行龙卡支付宝卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/ccb-alipay.jpg",
+   "keywords": [
+    "建行",
+    "ccb"
+   ],
+   "type": "debit"
+  },
+  {
+   "id": "ccb-joy-mc",
+   "org": "mastercard",
+   "bank": "建设银行",
+   "name": "建设银行龙卡JOY信用卡（Mastercard版）",
+   "specs": {
+    "卡片名称": "龙卡JOY信用卡（Mastercard版）",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；与库内 ext-163 龙卡JOY信用卡JCB版为同系列不同组织"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "建设银行龙卡JOY信用卡（Mastercard版），详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/ccb-joy-mc.jpg",
+   "keywords": [
+    "建行",
+    "ccb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "boc-huanqiutong-visa-platinum",
+   "org": "visa",
+   "bank": "中国银行",
+   "name": "中国银行长城环球通白金信用卡（Visa）",
+   "specs": {
+    "卡片名称": "长城环球通白金信用卡（Visa）",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "中国银行长城环球通白金信用卡（Visa），详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/boc-huanqiutong-visa-platinum.jpg",
+   "keywords": [
+    "中行",
+    "boc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "pingan-std-gold",
+   "org": "unionpay",
+   "bank": "平安银行",
+   "name": "平安银行标准信用卡金卡",
+   "specs": {
+    "卡片名称": "标准信用卡金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "平安银行标准信用卡金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/pingan-std-gold.png",
+   "keywords": [
+    "平安",
+    "pingan"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "pingan-cheche-gold",
+   "org": "unionpay",
+   "bank": "平安银行",
+   "name": "平安银行车主信用卡金卡",
+   "specs": {
+    "卡片名称": "车主信用卡金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "平安银行车主信用卡金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/pingan-cheche-gold.png",
+   "keywords": [
+    "平安",
+    "pingan"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "pingan-cheche-platinum",
+   "org": "unionpay",
+   "bank": "平安银行",
+   "name": "平安银行车主白金信用卡",
+   "specs": {
+    "卡片名称": "车主白金信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "平安银行车主白金信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/pingan-cheche-platinum.jpg",
+   "keywords": [
+    "平安",
+    "pingan"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "pingan-visa-usd-platinum",
+   "org": "visa",
+   "bank": "平安银行",
+   "name": "平安银行平安Visa美元白金卡",
+   "specs": {
+    "卡片名称": "平安Visa美元白金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；v1 包内另有一张同卡面低清图（290x180），未采用"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "平安银行平安Visa美元白金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/pingan-visa-usd-platinum.jpg",
+   "keywords": [
+    "平安",
+    "pingan"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "pingan-mc-travel",
+   "org": "mastercard",
+   "bank": "平安银行",
+   "name": "平安银行平安万事达环球旅行卡",
+   "specs": {
+    "卡片名称": "平安万事达环球旅行卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "平安银行平安万事达环球旅行卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/pingan-mc-travel.png",
+   "keywords": [
+    "平安",
+    "pingan"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "pingan-ctrip-mc",
+   "org": "mastercard",
+   "bank": "平安银行",
+   "name": "平安银行平安携程商旅信用卡（万事达版）",
+   "specs": {
+    "卡片名称": "平安携程商旅信用卡（万事达版）",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "平安银行平安携程商旅信用卡（万事达版），详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/pingan-ctrip-mc.jpg",
+   "keywords": [
+    "平安",
+    "pingan"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "pingan-ctrip-dual",
+   "org": "mastercard",
+   "bank": "平安银行",
+   "name": "平安银行平安携程商旅信用卡（双币普卡）",
+   "specs": {
+    "卡片名称": "平安携程商旅信用卡（双币普卡）",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡面为银联+万事达双标，组织暂按文件名万事达计"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "平安银行平安携程商旅信用卡（双币普卡），详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/pingan-ctrip-dual.jpg",
+   "keywords": [
+    "平安",
+    "pingan"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "pingan-jcb-platinum",
+   "org": "jcb",
+   "bank": "平安银行",
+   "name": "平安银行平安JCB白金信用卡",
+   "specs": {
+    "卡片名称": "平安JCB白金信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "平安银行平安JCB白金信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/pingan-jcb-platinum.jpg",
+   "keywords": [
+    "平安",
+    "pingan"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "pingan-visa-yuxi",
+   "org": "visa",
+   "bank": "平安银行",
+   "name": "平安银行平安银行VISA御玺卡",
+   "specs": {
+    "卡片名称": "平安银行VISA御玺卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；图小 257x163"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "平安银行平安银行VISA御玺卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/pingan-visa-yuxi.png",
+   "keywords": [
+    "平安",
+    "pingan"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "pingan-up-platinum",
+   "org": "unionpay",
+   "bank": "平安银行",
+   "name": "平安银行白金信用卡（银联版）",
+   "specs": {
+    "卡片名称": "白金信用卡（银联版）",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；图小 257x163"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "平安银行白金信用卡（银联版），详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/pingan-up-platinum.png",
+   "keywords": [
+    "平安",
+    "pingan"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "pingan-elite-visa",
+   "org": "visa",
+   "bank": "平安银行",
+   "name": "平安银行平安精英白金卡（VISA版）",
+   "specs": {
+    "卡片名称": "平安精英白金卡（VISA版）",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "平安银行平安精英白金卡（VISA版），详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/pingan-elite-visa.jpg",
+   "keywords": [
+    "平安",
+    "pingan"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "pingan-elite-up",
+   "org": "unionpay",
+   "bank": "平安银行",
+   "name": "平安银行精英白金卡（银联版）",
+   "specs": {
+    "卡片名称": "精英白金卡（银联版）",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "平安银行精英白金卡（银联版），详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/pingan-elite-up.jpg",
+   "keywords": [
+    "平安",
+    "pingan"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "pingan-haocheche-platinum",
+   "org": "unionpay",
+   "bank": "平安银行",
+   "name": "平安银行好车主白金信用卡",
+   "specs": {
+    "卡片名称": "好车主白金信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "平安银行好车主白金信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/pingan-haocheche-platinum.jpg",
+   "keywords": [
+    "平安",
+    "pingan"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "psbc-std-pu",
+   "org": "unionpay",
+   "bank": "邮储银行",
+   "name": "邮储银行标准普卡",
+   "specs": {
+    "卡片名称": "标准普卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；源文件实为PNG，已按内容保留"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "邮储银行标准普卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/psbc-std-pu.png",
+   "keywords": [
+    "邮储",
+    "psbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "psbc-std-gold",
+   "org": "unionpay",
+   "bank": "邮储银行",
+   "name": "邮储银行标准金卡",
+   "specs": {
+    "卡片名称": "标准金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "邮储银行标准金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/psbc-std-gold.jpg",
+   "keywords": [
+    "邮储",
+    "psbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "psbc-shengxiao",
+   "org": "unionpay",
+   "bank": "邮储银行",
+   "name": "邮储银行绿卡通生肖卡",
+   "specs": {
+    "卡片名称": "绿卡通生肖卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；马年生肖邮票主题"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "邮储银行绿卡通生肖卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/psbc-shengxiao.jpg",
+   "keywords": [
+    "邮储",
+    "psbc"
+   ],
+   "type": "debit"
+  },
+  {
+   "id": "psbc-meituan",
+   "org": "unionpay",
+   "bank": "邮储银行",
+   "name": "邮储银行绿卡通美团联名卡",
+   "specs": {
+    "卡片名称": "绿卡通美团联名卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "邮储银行绿卡通美团联名卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/psbc-meituan.jpg",
+   "keywords": [
+    "邮储",
+    "psbc"
+   ],
+   "type": "debit"
+  },
+  {
+   "id": "psbc-qingchun",
+   "org": "unionpay",
+   "bank": "邮储银行",
+   "name": "邮储银行青春卡",
+   "specs": {
+    "卡片名称": "青春卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "邮储银行青春卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/psbc-qingchun.png",
+   "keywords": [
+    "邮储",
+    "psbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "psbc-dingzhi",
+   "org": "unionpay",
+   "bank": "邮储银行",
+   "name": "邮储银行鼎致白金信用卡",
+   "specs": {
+    "卡片名称": "鼎致白金信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "邮储银行鼎致白金信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/psbc-dingzhi.jpg",
+   "keywords": [
+    "邮储",
+    "psbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "psbc-dingya",
+   "org": "unionpay",
+   "bank": "邮储银行",
+   "name": "邮储银行鼎雅白金信用卡",
+   "specs": {
+    "卡片名称": "鼎雅白金信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "邮储银行鼎雅白金信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/psbc-dingya.png",
+   "keywords": [
+    "邮储",
+    "psbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cib-visa-std-pu",
+   "org": "visa",
+   "bank": "兴业银行",
+   "name": "兴业银行VISA标准双币信用卡普卡",
+   "specs": {
+    "卡片名称": "VISA标准双币信用卡普卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "兴业银行VISA标准双币信用卡普卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cib-visa-std-pu.png",
+   "keywords": [
+    "兴业",
+    "cib"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cib-visa-std-gold",
+   "org": "visa",
+   "bank": "兴业银行",
+   "name": "兴业银行VISA标准双币信用卡金卡",
+   "specs": {
+    "卡片名称": "VISA标准双币信用卡金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "兴业银行VISA标准双币信用卡金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cib-visa-std-gold.png",
+   "keywords": [
+    "兴业",
+    "cib"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cib-visa-std-platinum",
+   "org": "visa",
+   "bank": "兴业银行",
+   "name": "兴业银行VISA标准双币白金信用卡",
+   "specs": {
+    "卡片名称": "VISA标准双币白金信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "兴业银行VISA标准双币白金信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cib-visa-std-platinum.png",
+   "keywords": [
+    "兴业",
+    "cib"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cib-mc-gongwu",
+   "org": "mastercard",
+   "bank": "兴业银行",
+   "name": "兴业银行万事达个人公务卡",
+   "specs": {
+    "卡片名称": "万事达个人公务卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "兴业银行万事达个人公务卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cib-mc-gongwu.jpg",
+   "keywords": [
+    "兴业",
+    "cib"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cib-mc-uefa",
+   "org": "mastercard",
+   "bank": "兴业银行",
+   "name": "兴业银行万事达卡欧冠白金信用卡",
+   "specs": {
+    "卡片名称": "万事达卡欧冠白金信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "兴业银行万事达卡欧冠白金信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cib-mc-uefa.jpg",
+   "keywords": [
+    "兴业",
+    "cib"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cib-mc-std",
+   "org": "mastercard",
+   "bank": "兴业银行",
+   "name": "兴业银行万事达标准信用卡",
+   "specs": {
+    "卡片名称": "万事达标准信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；图为宽幅裁剪（620x287），卡面竖置"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "兴业银行万事达标准信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cib-mc-std.jpg",
+   "keywords": [
+    "兴业",
+    "cib"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cib-mc-std-dual",
+   "org": "mastercard",
+   "bank": "兴业银行",
+   "name": "兴业银行万事达标准双币信用卡",
+   "specs": {
+    "卡片名称": "万事达标准双币信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "兴业银行万事达标准双币信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cib-mc-std-dual.jpg",
+   "keywords": [
+    "兴业",
+    "cib"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cib-visa-gongwu-pu",
+   "org": "visa",
+   "bank": "兴业银行",
+   "name": "兴业银行威士标准公务卡普卡",
+   "specs": {
+    "卡片名称": "威士标准公务卡普卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "兴业银行威士标准公务卡普卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cib-visa-gongwu-pu.png",
+   "keywords": [
+    "兴业",
+    "cib"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cib-visa-gongwu-gold",
+   "org": "visa",
+   "bank": "兴业银行",
+   "name": "兴业银行威士标准公务卡金卡",
+   "specs": {
+    "卡片名称": "威士标准公务卡金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "兴业银行威士标准公务卡金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cib-visa-gongwu-gold.png",
+   "keywords": [
+    "兴业",
+    "cib"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cib-up-std-pu",
+   "org": "unionpay",
+   "bank": "兴业银行",
+   "name": "兴业银行银联标准人民币信用卡普卡",
+   "specs": {
+    "卡片名称": "银联标准人民币信用卡普卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "兴业银行银联标准人民币信用卡普卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cib-up-std-pu.jpg",
+   "keywords": [
+    "兴业",
+    "cib"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cib-up-std-gold",
+   "org": "unionpay",
+   "bank": "兴业银行",
+   "name": "兴业银行银联标准人民币信用卡金卡",
+   "specs": {
+    "卡片名称": "银联标准人民币信用卡金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "兴业银行银联标准人民币信用卡金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cib-up-std-gold.jpg",
+   "keywords": [
+    "兴业",
+    "cib"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "bob-jcb-minions",
+   "org": "jcb",
+   "bank": "北京银行",
+   "name": "北京银行JCB小黄人联名卡",
+   "specs": {
+    "卡片名称": "JCB小黄人联名卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "北京银行JCB小黄人联名卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/bob-jcb-minions.jpg",
+   "keywords": [
+    "北京",
+    "bob"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "bob-visa-platinum",
+   "org": "visa",
+   "bank": "北京银行",
+   "name": "北京银行Visa白金卡",
+   "specs": {
+    "卡片名称": "Visa白金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡种待核实：卡面无借记/信用字样，暂按信用卡入库"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "北京银行Visa白金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/bob-visa-platinum.jpg",
+   "keywords": [
+    "北京",
+    "bob"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "bob-lejia-gold",
+   "org": "unionpay",
+   "bank": "北京银行",
+   "name": "北京银行乐驾金卡",
+   "specs": {
+    "卡片名称": "乐驾金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡面印「信用卡 Credit Card」"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "北京银行乐驾金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/bob-lejia-gold.jpg",
+   "keywords": [
+    "北京",
+    "bob"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "bob-jingpin-platinum",
+   "org": "unionpay",
+   "bank": "北京银行",
+   "name": "北京银行京品人生白金卡",
+   "specs": {
+    "卡片名称": "京品人生白金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "北京银行京品人生白金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/bob-jingpin-platinum.jpg",
+   "keywords": [
+    "北京",
+    "bob"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "bob-huanyu-platinum",
+   "org": "mastercard",
+   "bank": "北京银行",
+   "name": "北京银行寰宇白金卡",
+   "specs": {
+    "卡片名称": "寰宇白金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "北京银行寰宇白金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/bob-huanyu-platinum.jpg",
+   "keywords": [
+    "北京",
+    "bob"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "bob-yuexing-mc",
+   "org": "mastercard",
+   "bank": "北京银行",
+   "name": "北京银行悦行卡（Mastercard）",
+   "specs": {
+    "卡片名称": "悦行卡（Mastercard）",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡种待核实：按库内悦行国际卡（bob-visa）同系列借记卡暂定"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "北京银行悦行卡（Mastercard），详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/bob-yuexing-mc.jpg",
+   "keywords": [
+    "北京",
+    "bob"
+   ],
+   "type": "debit"
+  },
+  {
+   "id": "bob-amex-safari",
+   "org": "amex-cn",
+   "bank": "北京银行",
+   "name": "北京银行美国运通Safari卡",
+   "specs": {
+    "卡片名称": "美国运通Safari卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "北京银行美国运通Safari卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/bob-amex-safari.jpg",
+   "keywords": [
+    "北京",
+    "bob"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "bob-amex-rosegold",
+   "org": "amex-cn",
+   "bank": "北京银行",
+   "name": "北京银行美国运通玫瑰金卡",
+   "specs": {
+    "卡片名称": "美国运通玫瑰金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "北京银行美国运通玫瑰金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/bob-amex-rosegold.jpg",
+   "keywords": [
+    "北京",
+    "bob"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "bob-amex-yaohong",
+   "org": "amex-cn",
+   "bank": "北京银行",
+   "name": "北京银行美国运通耀红卡",
+   "specs": {
+    "卡片名称": "美国运通耀红卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "北京银行美国运通耀红卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/bob-amex-yaohong.jpg",
+   "keywords": [
+    "北京",
+    "bob"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "nbcb-visa-huanqiu",
+   "org": "visa",
+   "bank": "宁波银行",
+   "name": "宁波银行Visa环球卡",
+   "specs": {
+    "卡片名称": "Visa环球卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡种待核实：卡面「汇通环球卡」，汇通为借记卡产品线，暂按借记卡入库"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "宁波银行Visa环球卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/nbcb-visa-huanqiu.jpg",
+   "keywords": [
+    "宁波",
+    "nbcb"
+   ],
+   "type": "debit"
+  },
+  {
+   "id": "nbcb-mc-guoji",
+   "org": "mastercard",
+   "bank": "宁波银行",
+   "name": "宁波银行万事达国际卡",
+   "specs": {
+    "卡片名称": "万事达国际卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡种待核实：卡面「汇通钛金卡」，暂按借记卡入库"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "宁波银行万事达国际卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/nbcb-mc-guoji.jpg",
+   "keywords": [
+    "宁波",
+    "nbcb"
+   ],
+   "type": "debit"
+  },
+  {
+   "id": "nbcb-huitong-e",
+   "org": "unionpay",
+   "bank": "宁波银行",
+   "name": "宁波银行汇通e卡",
+   "specs": {
+    "卡片名称": "汇通e卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡面印「Credit Card」"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "宁波银行汇通e卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/nbcb-huitong-e.jpg",
+   "keywords": [
+    "宁波",
+    "nbcb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "nbcb-huitong-platinum",
+   "org": "unionpay",
+   "bank": "宁波银行",
+   "name": "宁波银行汇通白金卡",
+   "specs": {
+    "卡片名称": "汇通白金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "宁波银行汇通白金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/nbcb-huitong-platinum.jpg",
+   "keywords": [
+    "宁波",
+    "nbcb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "nbcb-amex-safari",
+   "org": "amex-cn",
+   "bank": "宁波银行",
+   "name": "宁波银行美国运通Safari卡",
+   "specs": {
+    "卡片名称": "美国运通Safari卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "宁波银行美国运通Safari卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/nbcb-amex-safari.jpg",
+   "keywords": [
+    "宁波",
+    "nbcb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "nbcb-amex-yuelan",
+   "org": "amex-cn",
+   "bank": "宁波银行",
+   "name": "宁波银行美国运通悦蓝卡",
+   "specs": {
+    "卡片名称": "美国运通悦蓝卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "宁波银行美国运通悦蓝卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/nbcb-amex-yuelan.jpg",
+   "keywords": [
+    "宁波",
+    "nbcb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "nbcb-amex-yaohong",
+   "org": "amex-cn",
+   "bank": "宁波银行",
+   "name": "宁波银行美国运通耀红卡",
+   "specs": {
+    "卡片名称": "美国运通耀红卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "宁波银行美国运通耀红卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/nbcb-amex-yaohong.jpg",
+   "keywords": [
+    "宁波",
+    "nbcb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "bosc-global-pay",
+   "org": "visa",
+   "bank": "上海银行",
+   "name": "上海银行全球支付卡",
+   "specs": {
+    "卡片名称": "全球支付卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡种待核实：卡面无借记/信用字样，全球支付卡为借记产品线，暂按借记卡入库"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "上海银行全球支付卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/bosc-global-pay.jpg",
+   "keywords": [
+    "上海",
+    "bosc"
+   ],
+   "type": "debit"
+  },
+  {
+   "id": "bosc-shopping",
+   "org": "unionpay",
+   "bank": "上海银行",
+   "name": "上海银行购物主题卡",
+   "specs": {
+    "卡片名称": "购物主题卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡面为「上海购物卡」并印贷记卡字样"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "上海银行购物主题卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/bosc-shopping.jpg",
+   "keywords": [
+    "上海",
+    "bosc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "czb-visa-gold",
+   "org": "visa",
+   "bank": "浙商银行",
+   "name": "浙商银行Visa标准金卡",
+   "specs": {
+    "卡片名称": "Visa标准金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "浙商银行Visa标准金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/czb-visa-gold.jpg",
+   "keywords": [
+    "浙商",
+    "czb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "czb-infinity-platinum",
+   "org": "unionpay",
+   "bank": "浙商银行",
+   "name": "浙商银行∞白金信用卡",
+   "specs": {
+    "卡片名称": "∞白金信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "浙商银行∞白金信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/czb-infinity-platinum.jpg",
+   "keywords": [
+    "浙商",
+    "czb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "czb-shihua",
+   "org": "unionpay",
+   "bank": "浙商银行",
+   "name": "浙商银行诗画浙江文旅联名信用卡白金卡",
+   "specs": {
+    "卡片名称": "诗画浙江文旅联名信用卡白金卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "浙商银行诗画浙江文旅联名信用卡白金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/czb-shihua.png",
+   "keywords": [
+    "浙商",
+    "czb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "czb-cheche-platinum",
+   "org": "unionpay",
+   "bank": "浙商银行",
+   "name": "浙商银行车主白金信用卡",
+   "specs": {
+    "卡片名称": "车主白金信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "浙商银行车主白金信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/czb-cheche-platinum.jpg",
+   "keywords": [
+    "浙商",
+    "czb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "spdb-jcb-mengka",
+   "org": "jcb",
+   "bank": "浦发银行",
+   "name": "浦发银行JCB白金梦卡（标准版）",
+   "specs": {
+    "卡片名称": "JCB白金梦卡（标准版）",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "浦发银行JCB白金梦卡（标准版），详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/spdb-jcb-mengka.jpg",
+   "keywords": [
+    "浦发",
+    "spdb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "spdb-visa-yuxi",
+   "org": "visa",
+   "bank": "浦发银行",
+   "name": "浦发银行VISA御玺信用卡",
+   "specs": {
+    "卡片名称": "VISA御玺信用卡（含黑豹版卡面）",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "浦发银行VISA御玺信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/spdb-visa-yuxi.png",
+   "keywords": [
+    "浦发",
+    "spdb"
+   ],
+   "type": "credit",
+   "variants": [
+    {
+     "name": "黑豹版",
+     "bin": "—",
+     "note": "同产品异卡面：黑豹版卡面",
+     "image": "data/images/spdb-visa-yuxi-panther.png"
+    }
+   ]
+  },
+  {
+   "id": "spdb-visa-chaofan",
+   "org": "visa",
+   "bank": "浦发银行",
+   "name": "浦发银行VISA超凡白金信用卡",
+   "specs": {
+    "卡片名称": "VISA超凡白金信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "浦发银行VISA超凡白金信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/spdb-visa-chaofan.png",
+   "keywords": [
+    "浦发",
+    "spdb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "spdb-amex-platinum",
+   "org": "amex-cn",
+   "bank": "浦发银行",
+   "name": "浦发银行美国运通白金信用卡",
+   "specs": {
+    "卡片名称": "美国运通白金信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "浦发银行美国运通白金信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/spdb-amex-platinum.jpg",
+   "keywords": [
+    "浦发",
+    "spdb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "spdb-amex-mengka",
+   "org": "amex-cn",
+   "bank": "浦发银行",
+   "name": "浦发银行美国运通白金梦卡",
+   "specs": {
+    "卡片名称": "美国运通白金梦卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "浦发银行美国运通白金梦卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/spdb-amex-mengka.jpg",
+   "keywords": [
+    "浦发",
+    "spdb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "spdb-amex-yaohong",
+   "org": "amex-cn",
+   "bank": "浦发银行",
+   "name": "浦发银行美国运通耀红卡",
+   "specs": {
+    "卡片名称": "美国运通耀红卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "浦发银行美国运通耀红卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/spdb-amex-yaohong.jpg",
+   "keywords": [
+    "浦发",
+    "spdb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "spdb-up-zunshang",
+   "org": "unionpay",
+   "bank": "浦发银行",
+   "name": "浦发银行银联尊尚白金信用卡",
+   "specs": {
+    "卡片名称": "银联尊尚白金信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "浦发银行银联尊尚白金信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/spdb-up-zunshang.jpg",
+   "keywords": [
+    "浦发",
+    "spdb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cbhb-zhuque",
+   "org": "unionpay",
+   "bank": "渤海银行",
+   "name": "渤海银行朱雀凌霄信用卡",
+   "specs": {
+    "卡片名称": "朱雀凌霄信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；竖版卡面"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "渤海银行朱雀凌霄信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cbhb-zhuque.png",
+   "keywords": [
+    "渤海",
+    "cbhb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cbhb-fengwu",
+   "org": "unionpay",
+   "bank": "渤海银行",
+   "name": "渤海银行凤舞九天信用卡",
+   "specs": {
+    "卡片名称": "凤舞九天信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；竖版卡面"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "渤海银行凤舞九天信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cbhb-fengwu.png",
+   "keywords": [
+    "渤海",
+    "cbhb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cbhb-fuzhu",
+   "org": "unionpay",
+   "bank": "渤海银行",
+   "name": "渤海银行夫诸兴澜信用卡",
+   "specs": {
+    "卡片名称": "夫诸兴澜信用卡",
+    "数据状态": "2026-10-04 用户图包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；竖版卡面"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "渤海银行夫诸兴澜信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cbhb-fuzhu.png",
+   "keywords": [
+    "渤海",
+    "cbhb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "hxbc-nanhang-gold",
+   "org": "mastercard",
+   "bank": "华夏银行",
+   "name": "华夏银行南航联名信用卡金卡",
+   "specs": {
+    "卡片名称": "南航联名信用卡金卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；竖版卡面"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "华夏银行南航联名信用卡金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/hxbc-nanhang-gold.jpg",
+   "keywords": [
+    "华夏",
+    "hxbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "hxbc-nanhang-world",
+   "org": "mastercard",
+   "bank": "华夏银行",
+   "name": "华夏银行南航联名信用卡世界卡",
+   "specs": {
+    "卡片名称": "南航联名信用卡世界卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；竖版卡面"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "华夏银行南航联名信用卡世界卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/hxbc-nanhang-world.jpg",
+   "keywords": [
+    "华夏",
+    "hxbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "hxbc-nanhang-world-elite",
+   "org": "mastercard",
+   "bank": "华夏银行",
+   "name": "华夏银行南航联名信用卡世界之极卡",
+   "specs": {
+    "卡片名称": "南航联名信用卡世界之极卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；竖版卡面，卡面标 world elite"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "华夏银行南航联名信用卡世界之极卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/hxbc-nanhang-world-elite.jpg",
+   "keywords": [
+    "华夏",
+    "hxbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "hxbc-jingying-gold",
+   "org": "mastercard",
+   "bank": "华夏银行",
+   "name": "华夏银行精英环球信用卡金卡",
+   "specs": {
+    "卡片名称": "精英环球信用卡金卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "华夏银行精英环球信用卡金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/hxbc-jingying-gold.png",
+   "keywords": [
+    "华夏",
+    "hxbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "hxbc-jingying-world",
+   "org": "mastercard",
+   "bank": "华夏银行",
+   "name": "华夏银行精英环球信用卡世界尊享卡",
+   "specs": {
+    "卡片名称": "精英环球信用卡世界尊享卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "华夏银行精英环球信用卡世界尊享卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/hxbc-jingying-world.png",
+   "keywords": [
+    "华夏",
+    "hxbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "hxbc-luckin-gold",
+   "org": "visa",
+   "bank": "华夏银行",
+   "name": "华夏银行瑞幸Visa信用卡金卡",
+   "specs": {
+    "卡片名称": "瑞幸Visa信用卡金卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；竖版卡面 150x237，官网仅此尺寸"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "华夏银行瑞幸Visa信用卡金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/hxbc-luckin-gold.png",
+   "keywords": [
+    "华夏",
+    "hxbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "hxbc-luckin-platinum",
+   "org": "visa",
+   "bank": "华夏银行",
+   "name": "华夏银行瑞幸Visa信用卡白金卡",
+   "specs": {
+    "卡片名称": "瑞幸Visa信用卡白金卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；竖版卡面 150x237，官网仅此尺寸"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "华夏银行瑞幸Visa信用卡白金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/hxbc-luckin-platinum.png",
+   "keywords": [
+    "华夏",
+    "hxbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "hxbc-visa-xingyao",
+   "org": "visa",
+   "bank": "华夏银行",
+   "name": "华夏银行Visa星耀信用卡",
+   "specs": {
+    "卡片名称": "Visa星耀信用卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；竖版卡面 137x219，卡面标 VISA Platinum，等级待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "华夏银行Visa星耀信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/hxbc-visa-xingyao.jpg",
+   "keywords": [
+    "华夏",
+    "hxbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "hxbc-olympic-platinum",
+   "org": "visa",
+   "bank": "华夏银行",
+   "name": "华夏银行奥运白金卡（巴黎奥运版）",
+   "specs": {
+    "卡片名称": "VISA华夏奥运白金卡巴黎奥运版",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；巴黎2024奥运主题卡面"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "华夏银行奥运白金卡（巴黎奥运版），详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/hxbc-olympic-platinum.png",
+   "keywords": [
+    "华夏",
+    "hxbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "hxbc-jdplus-gold",
+   "org": "unionpay",
+   "bank": "华夏银行",
+   "name": "华夏银行京东PLUS联名信用卡金卡",
+   "specs": {
+    "卡片名称": "京东PLUS联名信用卡金卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；竖版卡面"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "华夏银行京东PLUS联名信用卡金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/hxbc-jdplus-gold.jpg",
+   "keywords": [
+    "华夏",
+    "hxbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "hxbc-quxiang-platinum",
+   "org": "visa",
+   "bank": "华夏银行",
+   "name": "华夏银行趣享亲子信用卡VISA白金卡",
+   "specs": {
+    "卡片名称": "趣享亲子信用卡VISA白金卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；竖版卡面 156x245"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "华夏银行趣享亲子信用卡VISA白金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/hxbc-quxiang-platinum.png",
+   "keywords": [
+    "华夏",
+    "hxbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cmbc-liuxuesheng-platinum",
+   "org": "visa",
+   "bank": "民生银行",
+   "name": "民生银行Visa留学生芯片标准白金信用卡",
+   "specs": {
+    "卡片名称": "Visa留学生芯片标准白金信用卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "民生银行Visa留学生芯片标准白金信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cmbc-liuxuesheng-platinum.png",
+   "keywords": [
+    "民生",
+    "cmbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cmbc-visa-std-plus",
+   "org": "visa",
+   "bank": "民生银行",
+   "name": "民生银行VISA标准信用卡PLUS版",
+   "specs": {
+    "卡片名称": "VISA标准信用卡PLUS版",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡面为标准白金、银联+VISA双标，组织暂按文件名VISA计"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "民生银行VISA标准信用卡PLUS版，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cmbc-visa-std-plus.png",
+   "keywords": [
+    "民生",
+    "cmbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cmbc-mc-quanbizhong",
+   "org": "mastercard",
+   "bank": "民生银行",
+   "name": "民生银行万事达全币种信用卡",
+   "specs": {
+    "卡片名称": "万事达全币种信用卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "民生银行万事达全币种信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cmbc-mc-quanbizhong.jpg",
+   "keywords": [
+    "民生",
+    "cmbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cmbc-jcb-quanbizhong",
+   "org": "jcb",
+   "bank": "民生银行",
+   "name": "民生银行JCB全币种信用卡",
+   "specs": {
+    "卡片名称": "JCB全币种信用卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "民生银行JCB全币种信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cmbc-jcb-quanbizhong.png",
+   "keywords": [
+    "民生",
+    "cmbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cmbc-mc-world-elite",
+   "org": "mastercard",
+   "bank": "民生银行",
+   "name": "民生银行万事达世界之极信用卡",
+   "specs": {
+    "卡片名称": "万事达世界之极信用卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡面标 world elite"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "民生银行万事达世界之极信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cmbc-mc-world-elite.jpg",
+   "keywords": [
+    "民生",
+    "cmbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cmbc-mc-youjia-platinum",
+   "org": "mastercard",
+   "bank": "民生银行",
+   "name": "民生银行万事达优加精英白金信用卡",
+   "specs": {
+    "卡片名称": "万事达优加精英白金信用卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "民生银行万事达优加精英白金信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cmbc-mc-youjia-platinum.jpg",
+   "keywords": [
+    "民生",
+    "cmbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cmbc-mc-std-platinum",
+   "org": "mastercard",
+   "bank": "民生银行",
+   "name": "民生银行万事达标准白金信用卡",
+   "specs": {
+    "卡片名称": "万事达标准白金信用卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "民生银行万事达标准白金信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cmbc-mc-std-platinum.jpg",
+   "keywords": [
+    "民生",
+    "cmbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cmbc-mc-std-platinum-plus",
+   "org": "mastercard",
+   "bank": "民生银行",
+   "name": "民生银行万事达标准白金信用卡PLUS版",
+   "specs": {
+    "卡片名称": "万事达标准白金信用卡PLUS版",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "民生银行万事达标准白金信用卡PLUS版，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cmbc-mc-std-platinum-plus.jpg",
+   "keywords": [
+    "民生",
+    "cmbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "njcb-mc-platinum",
+   "org": "mastercard",
+   "bank": "南京银行",
+   "name": "南京银行万事达白金卡",
+   "specs": {
+    "卡片名称": "万事达白金卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡种待核实：卡面无借记/信用字样，暂按信用卡入库；卡面带 BNP PARIBAS 标识"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "南京银行万事达白金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/njcb-mc-platinum.jpg",
+   "keywords": [
+    "南京",
+    "njcb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "njcb-mc-gold",
+   "org": "mastercard",
+   "bank": "南京银行",
+   "name": "南京银行万事达金卡",
+   "specs": {
+    "卡片名称": "万事达金卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡种待核实：卡面无借记/信用字样，暂按信用卡入库；卡面带 BNP PARIBAS 标识"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "南京银行万事达金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/njcb-mc-gold.jpg",
+   "keywords": [
+    "南京",
+    "njcb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "njcb-amex-dream",
+   "org": "amex-cn",
+   "bank": "南京银行",
+   "name": "南京银行美国运通Dream信用卡",
+   "specs": {
+    "卡片名称": "美国运通Dream信用卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "南京银行美国运通Dream信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/njcb-amex-dream.png",
+   "keywords": [
+    "南京",
+    "njcb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "njcb-amex-safari",
+   "org": "amex-cn",
+   "bank": "南京银行",
+   "name": "南京银行美国运通Safari卡",
+   "specs": {
+    "卡片名称": "美国运通Safari卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "南京银行美国运通Safari卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/njcb-amex-safari.png",
+   "keywords": [
+    "南京",
+    "njcb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "njcb-amex-xinyun",
+   "org": "amex-cn",
+   "bank": "南京银行",
+   "name": "南京银行薪运信用卡",
+   "specs": {
+    "卡片名称": "薪运信用卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；竖版卡面"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "南京银行薪运信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/njcb-amex-xinyun.jpg",
+   "keywords": [
+    "南京",
+    "njcb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "njcb-jinrong-ic-platinum",
+   "org": "unionpay",
+   "bank": "南京银行",
+   "name": "南京银行金融IC白金卡",
+   "specs": {
+    "卡片名称": "金融IC白金卡（梅花卡）",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡面为梅花卡且标 DEBIT CARD，按借记卡入库；图为正反面同图 828x257"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "南京银行金融IC白金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/njcb-jinrong-ic-platinum.png",
+   "keywords": [
+    "南京",
+    "njcb"
+   ],
+   "type": "debit"
+  },
+  {
+   "id": "njcb-xinxin",
+   "org": "unionpay",
+   "bank": "南京银行",
+   "name": "南京银行鑫薪卡",
+   "specs": {
+    "卡片名称": "鑫薪卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡面 6222 银联标带 ATM 标识，按借记卡入库，卡种待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "南京银行鑫薪卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/njcb-xinxin.jpg",
+   "keywords": [
+    "南京",
+    "njcb"
+   ],
+   "type": "debit"
+  },
+  {
+   "id": "njcb-wujie-platinum",
+   "org": "unionpay",
+   "bank": "南京银行",
+   "name": "南京银行无界白金数字信用卡",
+   "specs": {
+    "卡片名称": "无界白金数字信用卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡面标「无界卡 PLATINUM」"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "南京银行无界白金数字信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/njcb-wujie-platinum.jpg",
+   "keywords": [
+    "南京",
+    "njcb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "njcb-up-platinum",
+   "org": "unionpay",
+   "bank": "南京银行",
+   "name": "南京银行银联白金信用卡",
+   "specs": {
+    "卡片名称": "银联白金信用卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "南京银行银联白金信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/njcb-up-platinum.png",
+   "keywords": [
+    "南京",
+    "njcb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "scb-ceair-premium-debit",
+   "org": "unionpay",
+   "bank": "渣打中国",
+   "name": "渣打东航优逸联名借记卡",
+   "specs": {
+    "卡片名称": "东航优逸联名借记卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；官方立体展示图（卡面居中、四周留白），卡面标 Premium Debit"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "渣打东航优逸联名借记卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/scb-ceair-premium-debit.jpg",
+   "keywords": [
+    "渣打",
+    "scb"
+   ],
+   "type": "debit"
+  },
+  {
+   "id": "scb-ceair-diamond-debit",
+   "org": "unionpay",
+   "bank": "渣打中国",
+   "name": "渣打东航钻石联名借记卡",
+   "specs": {
+    "卡片名称": "东航钻石联名借记卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；官方立体展示图（卡面居中、四周留白），卡面标 DIAMOND Debit"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "渣打东航钻石联名借记卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/scb-ceair-diamond-debit.jpg",
+   "keywords": [
+    "渣打",
+    "scb"
+   ],
+   "type": "debit"
+  },
+  {
+   "id": "hsbc-fengju-travel",
+   "org": "unionpay",
+   "bank": "汇丰中国",
+   "name": "汇丰丰聚旅行信用卡",
+   "specs": {
+    "卡片名称": "丰聚旅行信用卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡面标 Platinum"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "汇丰丰聚旅行信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/hsbc-fengju-travel.png",
+   "keywords": [
+    "汇丰",
+    "hsbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "hsbc-premier-debit",
+   "org": "unionpay",
+   "bank": "汇丰中国",
+   "name": "汇丰卓越理财借记卡",
+   "specs": {
+    "卡片名称": "卓越理财借记卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡面标 Debit Card 借记卡"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "汇丰卓越理财借记卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/hsbc-premier-debit.jpg",
+   "keywords": [
+    "汇丰",
+    "hsbc"
+   ],
+   "type": "debit"
+  },
+  {
+   "id": "hsbc-travel-visa",
+   "org": "visa",
+   "bank": "汇丰中国",
+   "name": "汇丰旅行信用卡",
+   "specs": {
+    "卡片名称": "旅行信用卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡面标 VISA Platinum"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "汇丰旅行信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/hsbc-travel-visa.jpg",
+   "keywords": [
+    "汇丰",
+    "hsbc"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "hsbc-yunchou-debit",
+   "org": "unionpay",
+   "bank": "汇丰中国",
+   "name": "汇丰运筹理财借记卡",
+   "specs": {
+    "卡片名称": "运筹理财借记卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡面标 Debit Card 借记卡"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "汇丰运筹理财借记卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/hsbc-yunchou-debit.jpg",
+   "keywords": [
+    "汇丰",
+    "hsbc"
+   ],
+   "type": "debit"
+  },
+  {
+   "id": "hzbank-visa-platinum",
+   "org": "visa",
+   "bank": "杭州银行",
+   "name": "杭州银行Visa标准白金信用卡",
+   "specs": {
+    "卡片名称": "Visa标准白金信用卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "杭州银行Visa标准白金信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/hzbank-visa-platinum.png",
+   "keywords": [
+    "杭州",
+    "hzbank"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "hzbank-amex-cheche-platinum",
+   "org": "amex-cn",
+   "bank": "杭州银行",
+   "name": "杭州银行悠享车主白金卡",
+   "specs": {
+    "卡片名称": "悠享车主白金卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "杭州银行悠享车主白金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/hzbank-amex-cheche-platinum.png",
+   "keywords": [
+    "杭州",
+    "hzbank"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "hzbank-amex-yaohong",
+   "org": "amex-cn",
+   "bank": "杭州银行",
+   "name": "杭州银行美国运通耀红卡",
+   "specs": {
+    "卡片名称": "美国运通耀红卡",
+    "数据状态": "2026-10-04 用户补包增补：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "杭州银行美国运通耀红卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/hzbank-amex-yaohong.png",
+   "keywords": [
+    "杭州",
+    "hzbank"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "ceb-zhuoyue-platinum",
+   "org": "unionpay",
+   "bank": "光大银行",
+   "name": "光大银行卓越白金卡",
+   "specs": {
+    "卡片名称": "卓越白金卡",
+    "数据状态": "2026-10-04 用户图包增补（第三批小包）：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；第五节待补发销账（本批补发）；卡面标「信用卡 Credit Card / Platinum」；图为实拍（卡置于深色木桌、略带透视），非官网净面"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "光大银行卓越白金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/ceb-zhuoyue-platinum.jpg",
+   "keywords": [
+    "光大",
+    "ceb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "ceb-yangguang-shanglv-platinum",
+   "org": "visa",
+   "bank": "光大银行",
+   "name": "光大银行阳光商旅白金信用卡",
+   "specs": {
+    "卡片名称": "阳光商旅白金信用卡",
+    "数据状态": "2026-10-04 用户图包增补（第三批小包）：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡面为银联+VISA双标，组织暂按文件名Visa计"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "光大银行阳光商旅白金信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/ceb-yangguang-shanglv-platinum.jpg",
+   "keywords": [
+    "光大",
+    "ceb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "gzcb-huanqiu-visa-platinum",
+   "org": "visa",
+   "bank": "广州银行",
+   "name": "广州银行环球Visa白金卡",
+   "specs": {
+    "卡片名称": "环球Visa白金卡",
+    "数据状态": "2026-10-04 用户图包增补（第三批小包）：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡面标 Platinum / VISA payWave；图小 250x250 且卡外带蓝紫发光边框（数字卡展示样式）"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "广州银行环球Visa白金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/gzcb-huanqiu-visa-platinum.png",
+   "keywords": [
+    "广州",
+    "gzcb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "gzcb-dameng-diamond",
+   "org": "unionpay",
+   "bank": "广州银行",
+   "name": "广州银行达梦钻石卡",
+   "specs": {
+    "卡片名称": "达梦钻石卡",
+    "数据状态": "2026-10-04 用户图包增补（第三批小包）：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡面标 Credit Card / DIAMOND；图小 250x250 且卡外带发光边框（数字卡展示样式）"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "广州银行达梦钻石卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/gzcb-dameng-diamond.png",
+   "keywords": [
+    "广州",
+    "gzcb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "cgb-visa-infinite",
+   "org": "visa",
+   "bank": "广发银行",
+   "name": "广发银行Visa无限卡",
+   "specs": {
+    "卡片名称": "Visa无限卡",
+    "数据状态": "2026-10-04 用户图包增补（第三批小包）：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；竖版卡面 638x1010，卡面标 VISA Infinite"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "广发银行Visa无限卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/cgb-visa-infinite.jpg",
+   "keywords": [
+    "广发",
+    "cgb"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "hzbank-amex-gold",
+   "org": "amex-cn",
+   "bank": "杭州银行",
+   "name": "杭州银行美国运通金卡",
+   "specs": {
+    "卡片名称": "美国运通金卡",
+    "数据状态": "2026-10-04 用户图包增补（第三批小包）：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；第五节待补发销账（本批补发）；卡面为运通经典金卡面、标 7997"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "杭州银行美国运通金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/hzbank-amex-gold.png",
+   "keywords": [
+    "杭州",
+    "hzbank"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "hzbank-xinxi-gold",
+   "org": "unionpay",
+   "bank": "杭州银行",
+   "name": "杭州银行薪喜金卡",
+   "specs": {
+    "卡片名称": "薪喜金卡",
+    "数据状态": "2026-10-04 用户图包增补（第三批小包）：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡面标 Credit Card / GOLD，BIN 6222"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "杭州银行薪喜金卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/hzbank-xinxi-gold.png",
+   "keywords": [
+    "杭州",
+    "hzbank"
+   ],
+   "type": "credit"
+  },
+  {
+   "id": "hzbank-amex-youya",
+   "org": "amex-cn",
+   "bank": "杭州银行",
+   "name": "杭州银行运通悠雅信用卡",
+   "specs": {
+    "卡片名称": "运通悠雅信用卡",
+    "数据状态": "2026-10-04 用户图包增补（第三批小包）：卡名/银行/组织/卡种据卡面与文件名，其余规格待核实；卡面为运通 SELECT 面、标 7997"
+   },
+   "score": null,
+   "score_label": "暂无评分",
+   "review": "杭州银行运通悠雅信用卡，详细规格（费用/权益/费率等）待核实。",
+   "status": "在发",
+   "added": "2026-10-04",
+   "image": "data/images/hzbank-amex-youya.png",
+   "keywords": [
+    "杭州",
+    "hzbank"
+   ],
+   "type": "credit"
   }
  ],
  "warnings": [
@@ -8345,6 +11631,6 @@
    "note": "增补4张新卡：平安AI智算卡、交行人工智能主题借记卡、工行万事达10+1多币种借记卡、中行万事达B站2233联名借记卡；新卡部分规格待核实，已标注"
   }
  ],
- "data_version": 10,
- "updated_at": "2026-10-02"
+ "data_version": 11,
+ "updated_at": "2026-10-03"
 }
