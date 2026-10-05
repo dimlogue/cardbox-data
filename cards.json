@@ -468,7 +468,7 @@
    "bank": "广发银行",
    "specs": {
     "卡片名称": "万事网联卡",
-    "BIN": "52079089（白金）",
+    "BIN": "52079089（白金）、52079088（世界）",
     "冻结比例": "105%-120%",
     "网付": "完整支持",
     "货币转换费（FTF）": "无",
@@ -480,7 +480,8 @@
     "小额账户管理费": "日均存款低于 500 元收取 3 元/季，若在广发只持有本卡或持有人民币理财或外币余额等均可减免，更多减免政策可咨询客服",
     "优惠政策": "根据客户等级享受权益，具体参见备注。",
     "发行情况": "仅限线下网点办理；白金卡无要求，世界卡需在广发银行资产大于等于 30W 才可办理",
-    "币种支持": "多币种（人民币、美元）（人民币户可用于境内外正常消费）"
+    "币种支持": "多币种（人民币、美元）（人民币户可用于境内外正常消费）",
+    "境外ATM取现手续费": "待核实"
    },
    "name": "万事网联卡",
    "score": 9.3,
@@ -494,9 +495,25 @@
    "image": "data/images/cgb-mastercard-nucc.webp",
    "keywords": [
     "广发",
-    "cgb"
+    "cgb",
+    "广发黑锦鲤"
    ],
-   "type": "debit"
+   "type": "debit",
+   "variants": [
+    {
+     "name": "白金卡",
+     "bin": "52079089",
+     "note": "无资产门槛；线下网点办理",
+     "image": "data/images/cgb-mastercard-nucc.webp"
+    },
+    {
+     "name": "世界卡（黑锦鲤）",
+     "bin": "52079088",
+     "note": "需广发银行资产≥30万；线下网点办理；贵宾权益更强",
+     "image": "data/images/ext-070.webp"
+    }
+   ],
+   "variants_note": "白金与世界为同产品两档，权益与客户资产等级挂钩；原 ext-070 世界卡（黑锦鲤）条已于 2026-10-05 并入"
   },
   {
    "url": "https://db.encmasuta.com/debit-cards/mastercard-nucc/citic-mastercard-nucc/",
@@ -574,7 +591,7 @@
     "年费": "无",
     "小额账户管理费": "无",
     "优惠政策": "境外消费笔笔 0.5% 返现、境外 ATM 查询免无限笔、取现免每月前 1 笔，有效期至 2026 年 12 月 31 日",
-    "发行情况": "网申或线下办理均可",
+    "发行情况": "网申或线下办理均可（招行官方储蓄卡申请页列名为“万事达人民币IC借记卡（普卡）”）",
     "币种支持": "单币种（人民币）（人民币户可用于境内外正常消费）"
    },
    "name": "万事网联普卡",
@@ -610,40 +627,11 @@
    "image": "data/images/cmb-mastercard-nucc.webp",
    "keywords": [
     "招行",
-    "cmb"
-   ],
-   "type": "debit"
-  },
-  {
-   "url": "https://db.encmasuta.com/debit-cards/mastercard-nucc/icbc-mastercard-nucc/",
-   "id": "icbc-mastercard-nucc",
-   "org": "mastercard-nucc",
-   "bank": "工商银行",
-   "specs": {
-    "卡片名称": "工银万事达祥鹿金卡",
-    "BIN": "545901（金）",
-    "冻结比例": "100%",
-    "网付": "仅支持有3DS网付",
-    "货币转换费（FTF）": "无",
-    "3DS": "有",
-    "自动购汇": "有（使用万事达汇率）",
-    "Apple Pay": "不支持",
-    "开卡工本费": "金卡 20 元、白金卡 50 元",
-    "年费": "金卡 50 元、白金卡 100 元（2026 年年底前新开卡客户免除 2026 年当年年费）",
-    "小额账户管理费": "季日均资产不满 300 元，收取 3 元/季",
-    "优惠政策": "工银信使费用金卡按 8 折收取，白金卡按 5 折收取；见证境外工行手续费金卡按 5 折收取，白金卡免费；境外取现金卡每月首笔免费、白金卡每月免 2 笔；跨境汇款金卡、白金卡每月首笔免费",
-    "发行情况": "已正式发行，需前往线下办理，目前暂无法网申",
-    "币种支持": "多币种（共 11 币种，人民币、美元、欧元、港币、英镑、日元、新加坡元、加拿大元、澳大利亚元、瑞士法郎、新西兰元）（人民币户可用于境内外正常消费）"
-   },
-   "name": "工银万事达祥鹿金卡",
-   "score": 8,
-   "score_label": "优质",
-   "review": "工行祥鹿多币卡免转换费，但年费工本费偏高，性价比一般。",
-   "status": "在发",
-   "image": "data/images/icbc-mastercard-nucc.webp",
-   "keywords": [
-    "工行",
-    "icbc"
+    "cmb",
+    "招商银行万事达人民币IC借记卡（普卡）",
+    "招商银行万事达借记卡",
+    "招行金葵花万事网联",
+    "招商"
    ],
    "type": "debit"
   },
@@ -733,12 +721,13 @@
     }
    ],
    "variants_note": "客户等级与卡档的具体对应关系以邮储银行公告为准",
-   "image": "data/images/psbc-mastercard-nucc.webp",
+   "image": "data/images/psbc-mastercard-nucc.jpg",
    "keywords": [
     "邮储",
     "psbc"
    ],
-   "type": "debit"
+   "type": "debit",
+   "ai_redraw": true
   },
   {
    "url": "https://db.encmasuta.com/debit-cards/visa/bob-visa/",
@@ -872,39 +861,6 @@
    "keywords": [
     "中行",
     "boc"
-   ],
-   "type": "debit"
-  },
-  {
-   "url": "https://db.encmasuta.com/debit-cards/visa/ccb-visa/",
-   "id": "ccb-visa",
-   "org": "visa",
-   "bank": "建设银行",
-   "specs": {
-    "卡片名称": "VISA EMV 卡（普卡）",
-    "BIN": "455878（普卡）",
-    "冻结比例": "100%",
-    "网付": "不支持",
-    "货币转换费（FTF）": "非美元 1.95%",
-    "3DS": "无",
-    "自动购汇": "无",
-    "Apple Pay": "不支持",
-    "开卡工本费": "5 元（开卡后从卡内美元钞户扣取等值美元）",
-    "年费": "无",
-    "小额账户管理费": "无",
-    "优惠政策": "在美国的美国银行（BofA）ATM 取现免费",
-    "发行情况": "仅线下办理且仅部分地区发行；本卡不兼容建行部分网点新采购的柜台设备，开卡后可能无法正常领卡；金卡和白金卡有资产要求，分别为 20W 和 50W",
-    "币种支持": "单币种（美元）"
-   },
-   "name": "VISA EMV 卡（普卡）",
-   "score": 4.1,
-   "score_label": "谨慎",
-   "review": "建行美元卡无网付无验证还收高费，仅取现应急考虑。",
-   "status": "在发",
-   "image": "data/images/ccb-visa.webp",
-   "keywords": [
-    "建行",
-    "ccb"
    ],
    "type": "debit"
   },
@@ -1063,28 +1019,56 @@
   },
   {
    "id": "icbc-mastercard-10plus1",
-   "url": "https://finance.sina.com.cn/money/bank/2025-12-05/doc-infztyiw9847106.shtml",
-   "org": "mastercard",
+   "url": "https://m.mpaypass.com.cn/news/202512/06174514.html",
+   "org": "mastercard-nucc",
    "bank": "工商银行",
    "name": "万事达“10+1”多币种借记卡（祥鹿金卡/貔貅白金卡）",
    "specs": {
     "卡片名称": "万事达“10+1”多币种借记卡（祥鹿金卡/貔貅白金卡）",
-    "币种支持": "人民币+10种外币：美元、欧元、加拿大元、澳元、新西兰元、英镑、港币、瑞士法郎、日元、新加坡元；跨境交易可自主选用对应外币账户结算",
-    "优惠政策": "配置年费减免等用卡权益；主打降低动态货币转换费用及多重汇率转换成本",
-    "发行情况": "2025年12月5日试点推出（境内首组万事达“10+1”多币种借记卡）",
-    "数据状态": "2026-10-04 sweep-03核实：万事达“10+1”多币种借记卡的币种与结算机制已由《中国工商银行借记卡章程（2026年版）》第十八条官方确认；现条目发行日期（2025-12-05试点推出）源自新浪财经报道，未获官网原文确认；BIN、费用明细仍待核实"
+    "BIN": "545901（祥鹿金卡）、558288（貔貅白金卡）",
+    "冻结比例": "100%",
+    "网付": "仅支持有3DS网付",
+    "货币转换费（FTF）": "无",
+    "3DS": "有",
+    "自动购汇": "有（使用万事达汇率）",
+    "Apple Pay": "不支持",
+    "开卡工本费": "祥鹿金卡 20 元、貔貅白金卡 50 元",
+    "年费": "祥鹿金卡 50 元、貔貅白金卡 100 元（2026 年年底前新开卡客户免除 2026 年当年年费）",
+    "小额账户管理费": "季日均资产不满 300 元，收取 3 元/季",
+    "优惠政策": "工银信使费用金卡按 8 折收取，白金卡按 5 折收取；见证境外工行手续费金卡按 5 折收取，白金卡免费；境外取现金卡每月首笔免费、白金卡每月免 2 笔；跨境汇款金卡、白金卡每月首笔免费",
+    "发行情况": "2025年12月5日工行联合万事达卡试点推出，为境内首组万事达“10+1”多币种借记卡，含祥鹿金卡、貔貅白金卡两款；已正式发行，需前往线下办理，目前暂无法网申",
+    "币种支持": "多币种（共 11 币种，人民币、美元、欧元、港币、英镑、日元、新加坡元、加拿大元、澳大利亚元、瑞士法郎、新西兰元）（人民币户可用于境内外正常消费）",
+    "数据状态": "2026-10-05 round2 合并：系列构成（祥鹿金卡＋貔貅白金卡）据移动支付网2025-12-06发布报道及《中国工商银行借记卡章程（2026年版）》第十八条“10+1”机制；规格以原 icbc-mastercard-nucc 条（sweep-03 核实）为底，貔貅白金卡 BIN 558288 并自原 ext-073 条；两档独立费用明细仍待官网逐项核实"
    },
-   "score": null,
-   "score_label": "暂无评分",
-   "review": "工行十加一多币试点卡，可原币结算降换汇成本，待推广。",
+   "score": 8,
+   "score_label": "优质",
+   "review": "工行“10+1”多币系列免转换费，但年费工本费偏高，性价比一般。",
    "status": "在发",
    "added": "2026-10-02",
-   "image": "data/images/icbc-mastercard-10plus1.svg",
+   "image": "data/images/icbc-mastercard-nucc.webp",
    "keywords": [
     "工行",
-    "icbc"
+    "icbc",
+    "工行貔貅白金",
+    "工行万事网联白金",
+    "工商"
    ],
-   "type": "debit"
+   "type": "debit",
+   "variants": [
+    {
+     "name": "祥鹿金卡",
+     "bin": "545901",
+     "note": "金卡档；线下办理",
+     "image": "data/images/icbc-mastercard-nucc.webp"
+    },
+    {
+     "name": "貔貅白金卡",
+     "bin": "558288",
+     "note": "白金档；线下办理",
+     "image": null
+    }
+   ],
+   "variants_note": "祥鹿（金）与貔貅（白金）为同系列两档，等级与卡面不同；原分列条目 icbc-mastercard-nucc、ext-073 已于 2026-10-05 并入本条"
   },
   {
    "id": "boc-mastercard-bilibili",
@@ -1297,40 +1281,6 @@
    "url": "待核实"
   },
   {
-   "id": "ext-003",
-   "name": "中信银行万事达貔貅白金借记卡",
-   "bank": "中信银行",
-   "org": "mastercard-nucc",
-   "type": "debit",
-   "status": "在发",
-   "score": 6,
-   "score_label": "一般",
-   "review": "首批万事网联人民币双应用借记卡",
-   "specs": {
-    "BIN": "522476",
-    "冻结比例": "待核实",
-    "网付": "支持",
-    "货币转换费": "待核实",
-    "3DS": "待核实",
-    "自动购汇": "有",
-    "开卡工本费": "IC卡新卡、补换卡免收（白金卡含以上）；标准卡IC卡5元/卡、磁条卡10元/卡（个性化卡另计），快递另收（《中信银行收费服务价目表》BC001）",
-    "小额账户管理费": "待核实",
-    "币种支持": "人民币",
-    "发行情况": "可网申",
-    "优惠政策": "待核实",
-    "Apple Pay": "支持",
-    "境外ATM取现手续费": "待核实",
-    "数据状态": "2026-10-04 官网核实（sweep-04）：开卡工本费已据官网核实",
-    "数据来源": "中信银行官网《收费服务价目表》银行卡分册（2026-04-08版）；Apple官网Apple Pay支持银行名单"
-   },
-   "keywords": [
-    "中信万事达",
-    "貔貅卡",
-    "中信"
-   ],
-   "url": "待核实"
-  },
-  {
    "id": "ext-004",
    "name": "招商银行全币种国际信用卡（Visa签名卡）",
    "bank": "招商银行",
@@ -1362,7 +1312,8 @@
     "招商"
    ],
    "url": "待核实",
-   "image": "data/images/ext-004.jpg"
+   "image": "data/images/ext-004-redraw.jpg",
+   "ai_redraw": true
   },
   {
    "id": "ext-005",
@@ -1396,41 +1347,8 @@
     "交通"
    ],
    "url": "待核实",
-   "image": "data/images/ext-005-v2.webp"
-  },
-  {
-   "id": "ext-006",
-   "name": "中国工商银行星座卡（Visa白金卡）",
-   "bank": "工商银行",
-   "org": "visa",
-   "type": "credit",
-   "status": "在发",
-   "score": 4,
-   "score_label": "谨慎",
-   "review": "工行宇宙行网红多币卡",
-   "specs": {
-    "BIN": "待核实",
-    "货币转换费": "无",
-    "年费": "待核实",
-    "免年费条件": "待核实",
-    "积分规则": "1元=1积分",
-    "主要权益": "待核实",
-    "取现手续费": "待核实",
-    "免息期": "最长56天",
-    "优惠政策": "待核实",
-    "Apple Pay": "不支持",
-    "境外ATM取现手续费": "待核实",
-    "数据状态": "AI 收集 · 待核实",
-    "数据来源": "待核实"
-   },
-   "keywords": [
-    "工行星座卡",
-    "宇宙星座",
-    "工行",
-    "工商"
-   ],
-   "url": "待核实",
-   "image": "data/images/ext-006-v2.webp"
+   "image": "data/images/ext-005-redraw.jpg",
+   "ai_redraw": true
   },
   {
    "id": "ext-008",
@@ -1466,45 +1384,6 @@
     "中国"
    ],
    "url": "https://db.encmasuta.com/debit-cards/mastercard-nucc/boc-mastercard-nucc-rmb/"
-  },
-  {
-   "id": "ext-011",
-   "name": "Visa美元借记卡（御玺）",
-   "bank": "中国银行",
-   "org": "visa",
-   "type": "debit",
-   "status": "在发",
-   "score": 6,
-   "score_label": "一般",
-   "review": "与白金版独立列示的御玺等级Visa美元借记卡，官方明确境外用途和分级取现优惠。",
-   "specs": {
-    "BIN": "待核实",
-    "冻结比例": "待核实",
-    "网付": "支持（境外Visa网络网站支付）",
-    "货币转换费": "无（美元单币种交易）",
-    "3DS": "待核实",
-    "自动购汇": "无（美元单币种，不自动购汇）",
-    "开卡工本费": "最高不超过5元/卡",
-    "小额账户管理费": "免收",
-    "币种支持": "美元单币种；境外消费或取现使用美元扣款，不支持其他币种",
-    "发行情况": "中国银行境内网点可申领；官方页面列御玺等级",
-    "年费": "免收",
-    "免年费条件": "免收借记卡年费（无条件）",
-    "积分规则": "待核实",
-    "主要权益": "免收借记卡年费、账户管理费及境内ATM查询/取现手续费；境外ATM查询/取现发卡行手续费御玺卡每月免3笔；Visa品牌卡尊享权益",
-    "优惠政策": "御玺卡每月免3笔境外ATM查询/取现发卡行手续费；不定期境外消费返现、开卡礼（以实际为准）",
-    "Apple Pay": "不支持",
-    "境外ATM取现手续费": "境外ATM查询/取现发卡行手续费御玺卡每月免3笔；当地银行收费不明",
-    "数据状态": "2026-10-04 官网核实（sweep-02）：网付、货币转换费、自动购汇、免年费条件、主要权益、Apple Pay已据官网核实；BIN、冻结比例、3DS、积分规则未决",
-    "数据来源": "https://www.boc.cn/bcservice/bc2/202609/t20260909_25691327.html"
-   },
-   "keywords": [
-    "中国银行Visa美元借记卡御玺",
-    "中行Visa美元借记卡御玺",
-    "中行",
-    "中国"
-   ],
-   "url": "https://www.boc.cn/bcservice/bc2/202609/t20260909_25691327.html"
   },
   {
    "id": "ext-015",
@@ -1629,7 +1508,8 @@
     "建行",
     "建设"
    ],
-   "image": "data/images/ext-019.jpg"
+   "image": "data/images/ext-019.jpg",
+   "ai_redraw": true
   },
   {
    "id": "ext-020",
@@ -1810,36 +1690,6 @@
    ]
   },
   {
-   "id": "ext-026",
-   "name": "龙卡全球支付信用卡（Visa白金）",
-   "bank": "建设银行",
-   "org": "visa",
-   "type": "credit",
-   "status": "在发",
-   "score": null,
-   "score_label": "暂无评分",
-   "review": "建行全球支付Visa白金卡",
-   "specs": {
-    "BIN": "489592",
-    "年费": "待核实",
-    "免年费条件": "待核实",
-    "积分规则": "按《龙卡信用卡积分规则》累计：人民币账户每1元人民币计1分，美元账户每1美元计7分，欧元账户每1欧元计9分；2017年1月1日后累计积分有效期最长五年（外币交易自动购汇以人民币入账金额计分）",
-    "主要权益": "全币种；外币交易自动购汇；免外汇兑换手续费；境内外使用",
-    "取现手续费": "境内按取现金额的1%收取，最低2元、最高100元；境外通过银联网络按12元+取款金额的1%/笔，最低14元、最高112元；通过VISA、MasterCard或JCB网络按取款金额的3%/笔，最低3美元或3欧元、最高50美元或50欧元；通过美国运通网络按取现金额的3%/笔，最低18元、最高300元（建行《信用卡价格标准》通用资费）",
-    "免息期": "待核实",
-    "Apple Pay": "待核实",
-    "境外ATM取现手续费": "通过VISA、MasterCard或JCB网络按取款金额的3%/笔收取，最低3美元或3欧元，最高50美元或50欧元（建行《信用卡价格标准》）；通过银联网络按12元+取款金额的1%/笔收取，最低14元，最高112元（建行《信用卡价格标准》）",
-    "数据状态": "2026-10-04 官网核实（sweep-01）：积分规则据建行《龙卡信用卡积分规则》、取现手续费及境外ATM取现手续费据《信用卡价格标准》通用资费核实；年费等级、免息期官网未逐卡确认，未单独披露Apple Pay"
-   },
-   "keywords": [
-    "建行全球支付Visa",
-    "建行全球支付白金",
-    "建行",
-    "建设"
-   ],
-   "image": "data/images/ext-026-v2.webp"
-  },
-  {
    "id": "ext-027",
    "name": "龙卡MUSE信用卡",
    "bank": "建设银行",
@@ -1867,7 +1717,8 @@
     "建行",
     "建设"
    ],
-   "image": "data/images/ext-027-v2.webp"
+   "image": "data/images/ext-027-redraw.jpg",
+   "ai_redraw": true
   },
   {
    "id": "ext-028",
@@ -2602,7 +2453,8 @@
     "中国"
    ],
    "url": "https://db.encmasuta.com/debit-cards/visa/boc-visa/",
-   "image": "data/images/ext-053-v2.webp"
+   "image": "data/images/ext-053-redraw.jpg",
+   "ai_redraw": true
   },
   {
    "id": "ext-055",
@@ -2743,43 +2595,9 @@
     "中信中国心世界",
     "中信"
    ],
-   "url": "https://db.encmasuta.com/debit-cards/mastercard/citic-mastercard/"
-  },
-  {
-   "id": "ext-064",
-   "name": "招商银行万事网联金葵花卡（境外人民币结算）",
-   "bank": "招商银行",
-   "org": "mastercard-nucc",
-   "type": "debit",
-   "status": "在发",
-   "score": 9.6,
-   "score_label": "顶级",
-   "review": "金葵花版神卡",
-   "specs": {
-    "BIN": "待核实",
-    "冻结比例": "100%",
-    "网付": "完整支持",
-    "货币转换费": "无",
-    "3DS": "有",
-    "自动购汇": "有（卡组织汇率）",
-    "开卡工本费": "无",
-    "小额账户管理费": "无",
-    "币种支持": "单币种（人民币）",
-    "发行情况": "金葵花客户可办",
-    "年费": "无",
-    "优惠政策": "境外消费0.5%返现等",
-    "Apple Pay": "支持（境外）",
-    "境外ATM取现手续费": "待核实",
-    "数据状态": "2026-10-04 官网核实（sweep-10）：本轮未在招商银行官网静态取得该卡逐项收费原文；现行数据来源为非官方参考站（见异常清单），BIN、境外ATM取现手续费仍待核实",
-    "数据来源": "https://db.encmasuta.com/debit-cards/mastercard-nucc/cmb-mastercard-nucc/"
-   },
-   "keywords": [
-    "招行金葵花万事网联",
-    "招行",
-    "招商"
-   ],
-   "url": "https://db.encmasuta.com/debit-cards/mastercard-nucc/cmb-mastercard-nucc/",
-   "image": "data/images/ext-064.webp"
+   "url": "https://db.encmasuta.com/debit-cards/mastercard/citic-mastercard/",
+   "image": "data/images/ext-063.jpg",
+   "ai_redraw": true
   },
   {
    "id": "ext-066",
@@ -2815,77 +2633,6 @@
     "建设"
    ],
    "url": "https://db.encmasuta.com/debit-cards/mastercard-nucc/ccb-mastercard-nucc/"
-  },
-  {
-   "id": "ext-070",
-   "name": "广发银行万事网联世界卡（黑锦鲤）",
-   "bank": "广发银行",
-   "org": "mastercard-nucc",
-   "type": "debit",
-   "status": "在发",
-   "score": 9.3,
-   "score_label": "顶级",
-   "review": "黑锦鲤世界卡",
-   "specs": {
-    "BIN": "52079088",
-    "冻结比例": "105%-120%",
-    "网付": "完整支持",
-    "货币转换费": "无",
-    "3DS": "有",
-    "自动购汇": "有",
-    "开卡工本费": "无",
-    "小额账户管理费": "可减免",
-    "币种支持": "多币种（人民币+美元）",
-    "发行情况": "线下，需资产≥30W",
-    "年费": "无",
-    "优惠政策": "贵宾权益更强",
-    "Apple Pay": "不支持",
-    "境外ATM取现手续费": "待核实",
-    "数据状态": "2026-10-04 官网核实（sweep-11）：本批复核库内各字段与广发官方口径无冲突；境外ATM取现手续费官网现行公示未取得一手直证，未决；现分9.3保留不重评",
-    "数据来源": "https://db.encmasuta.com/debit-cards/mastercard-nucc/cgb-mastercard-nucc/"
-   },
-   "keywords": [
-    "广发黑锦鲤",
-    "广发"
-   ],
-   "url": "https://db.encmasuta.com/debit-cards/mastercard-nucc/cgb-mastercard-nucc/",
-   "image": "data/images/ext-070.webp"
-  },
-  {
-   "id": "ext-073",
-   "name": "工商银行万事网联貔貅白金卡",
-   "bank": "工商银行",
-   "org": "mastercard-nucc",
-   "type": "debit",
-   "status": "在发",
-   "score": 3.2,
-   "score_label": "谨慎",
-   "review": "工行貔貅白金多币种",
-   "specs": {
-    "BIN": "558288",
-    "冻结比例": "待核实",
-    "网付": "待核实",
-    "货币转换费": "待核实",
-    "3DS": "待核实",
-    "自动购汇": "待核实",
-    "开卡工本费": "待核实",
-    "小额账户管理费": "待核实",
-    "币种支持": "多币种（人民币+10种外币）",
-    "发行情况": "全行发行",
-    "年费": "待核实",
-    "优惠政策": "待核实",
-    "Apple Pay": "待核实",
-    "境外ATM取现手续费": "待核实",
-    "数据状态": "2026-10-04 sweep-03核实：工行官网未定位本卡独立产品页；借记卡章程（2026年版）第十八条载有万事达“10+1”多币种借记卡机制，但与本卡同一性未获官方确认；除已录BIN外各费用字段维持待核实",
-    "数据来源": "https://m.mpaypass.com.cn/news/202512/06174514.html"
-   },
-   "keywords": [
-    "工行貔貅白金",
-    "工行万事网联白金",
-    "工行",
-    "工商"
-   ],
-   "url": "https://m.mpaypass.com.cn/news/202512/06174514.html"
   },
   {
    "id": "ext-075",
@@ -2955,43 +2702,6 @@
     "邮储"
    ],
    "url": "https://t.me/s/encmasuta"
-  },
-  {
-   "id": "ext-077",
-   "name": "牡丹国际借记卡（Visa）",
-   "bank": "工商银行",
-   "org": "visa",
-   "type": "debit",
-   "status": "在发",
-   "score": 2.5,
-   "score_label": "谨慎",
-   "review": "官方资料确认的境内发卡双币借记卡 Visa 版本；费率、BIN及具体境外使用参数仍需逐项核实。",
-   "specs": {
-    "BIN": "待核实",
-    "冻结比例": "待核实",
-    "网付": "不支持境外网上交易：官网牡丹卡分类页称牡丹国际借记卡“不允许透支和脱机消费（如境外网上交易）”",
-    "货币转换费": "待核实",
-    "3DS": "待核实",
-    "自动购汇": "待核实",
-    "开卡工本费": "待核实",
-    "小额账户管理费": "待核实",
-    "币种支持": "人民币账户+外币账户（章程第五条）；按品牌分牡丹威士卡、牡丹万事达卡（章程第三条）",
-    "发行情况": "工商银行2026年4月版官方章程明确牡丹国际借记卡按品牌分为牡丹威士卡和牡丹万事达卡，并由工商银行面向个人客户发行；官方公告称此前及此后发行的牡丹国际借记卡适用新章程。",
-    "年费": "待核实",
-    "优惠政策": "待核实",
-    "Apple Pay": "待核实",
-    "境外ATM取现手续费": "待核实",
-    "数据状态": "2026-10-04 sweep-03官网核实：币种支持、网付已据《中国工商银行牡丹国际借记卡章程》（2026年4月版）与牡丹卡分类页回填；BIN、3DS、费用金额待核实",
-    "数据来源": "https://www.icbc.com.cn/ICBC/%E7%89%A1%E4%B8%B9%E5%8D%A1/%E5%85%AC%E5%91%8A%E7%89%8C/%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C%E7%89%A1%E4%B8%B9%E5%9B%BD%E9%99%85%E5%80%9F%E8%AE%B0%E5%8D%A1%E7%AB%A0%E7%A8%8B.htm"
-   },
-   "keywords": [
-    "牡丹国际借记卡Visa",
-    "工行国际借记卡Visa",
-    "ICBC Visa International Debit Card",
-    "工行",
-    "工商"
-   ],
-   "url": "https://www.icbc.com.cn/ICBC/%E7%89%A1%E4%B8%B9%E5%8D%A1/%E5%85%AC%E5%91%8A%E7%89%8C/%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C%E7%89%A1%E4%B8%B9%E5%9B%BD%E9%99%85%E5%80%9F%E8%AE%B0%E5%8D%A1%E7%AB%A0%E7%A8%8B.htm"
   },
   {
    "id": "ext-080",
@@ -3071,7 +2781,8 @@
     "建设"
    ],
    "url": "http://www.ccb.com/cn/personal/debitcard/dragoncard.html",
-   "image": "data/images/ext-081-v2.webp"
+   "image": "data/images/ext-081-redraw.jpg",
+   "ai_redraw": true
   },
   {
    "id": "ext-082",
@@ -3577,7 +3288,8 @@
     "农业"
    ],
    "url": "https://www.abchina.com/cn/personalservices/debitcard/201407/t20140708_790215.htm",
-   "image": "data/images/ext-094-v2.webp"
+   "image": "data/images/ext-094-redraw.jpg",
+   "ai_redraw": true
   },
   {
    "id": "ext-095",
@@ -3983,7 +3695,8 @@
     "邮储"
    ],
    "url": "https://www.psbc.com/cn/grfw/yxk/jjkqjf/jjkbzk/202101/t20210125_65167.html",
-   "image": "data/images/ext-104-v2.webp"
+   "image": "data/images/ext-104-redraw.jpg",
+   "ai_redraw": true
   },
   {
    "id": "ext-105",
@@ -4023,7 +3736,8 @@
     "邮储"
    ],
    "url": "https://www.psbc.com/cn/fhpd/xndq/zqfh/zdtj_1220/202206/t20220624_179831.html",
-   "image": "data/images/ext-105.webp"
+   "image": "data/images/ext-105-redraw.jpg",
+   "ai_redraw": true
   },
   {
    "id": "ext-106",
@@ -4227,49 +3941,6 @@
    "url": "https://www.citicbank.com/personal/card/"
   },
   {
-   "id": "ext-111",
-   "name": "招商银行万事达人民币IC借记卡（普卡）",
-   "bank": "招商银行",
-   "org": "mastercard-nucc",
-   "type": "debit",
-   "status": "在发",
-   "score": 7.8,
-   "score_label": "优质",
-   "review": "目前可确认的招行跨境人民币清算万事达借记卡，跨境取现和货币转换权益明确，但BIN及完整资费仍缺官方公开证据。",
-   "specs": {
-    "BIN": "待核实",
-    "冻结比例": "待核实",
-    "网付": "支持；正式媒体报道支持CVC及3DS安全验证（南都口径）",
-    "货币转换费": "免收（招商银行该卡跨境权益，正式媒体报道）",
-    "3DS": "支持（南都正式报道）",
-    "自动购汇": "待核实",
-    "开卡工本费": "待核实",
-    "小额账户管理费": "待核实",
-    "币种支持": "境内外人民币清算；境外交易按当地货币折算人民币（正式媒体报道）",
-    "发行情况": "招商银行官方储蓄卡申请页列为可申请的“万事达人民币IC借记卡（普卡）”；南都报道其2025年5月全国上线，I类户；页面未核实2026-10-02各地实际受理范围",
-    "年费": "待核实",
-    "免年费条件": "待核实",
-    "积分规则": "待核实",
-    "主要权益": "待核实",
-    "优惠政策": "境外ATM取款每月前3笔免手续费、免境外ATM查询费、免货币转换费；境外消费笔笔5‰汇率补贴及留学快汇购汇点差6.8折（南都报道，具体规则待核实）",
-    "Apple Pay": "待核实",
-    "境外ATM取现手续费": "每月前3笔免收；超出部分及当地ATM附加费待核实（南都报道）",
-    "数据状态": "AI 收集 · 待核实",
-    "数据来源": "https://mobile.cmbchina.com/dcamobile/applycard/familyportal.html"
-   },
-   "keywords": [
-    "招商银行万事达人民币IC借记卡（普卡）",
-    "招商银行万事达借记卡",
-    "招商银行境内外人民币清算借记卡",
-    "招商银行 Mastercard debit",
-    "万事达卡 中国 招商银行",
-    "招行",
-    "招商"
-   ],
-   "url": "https://mobile.cmbchina.com/dcamobile/applycard/familyportal.html",
-   "image": "data/images/ext-111-v2.webp"
-  },
-  {
    "id": "ext-112",
    "name": "招商银行银联IC一卡通普卡",
    "bank": "招商银行",
@@ -4353,7 +4024,8 @@
     "招商"
    ],
    "url": "https://www.cmbchina.com/personal/allinonecard/cardInfo?guid=2865d3ab-6264-4a41-baf2-1ee84c847b26",
-   "image": "data/images/ext-113.jpg"
+   "image": "data/images/ext-113-redraw.jpg",
+   "ai_redraw": true
   },
   {
    "id": "ext-114",
@@ -4396,7 +4068,8 @@
     "招商"
    ],
    "url": "https://www.cmbchina.com/personal/allinonecard/cardInfo?guid=be48a9ab-300f-4393-b80e-02308ddf1a7f",
-   "image": "data/images/ext-114.jpg"
+   "image": "data/images/ext-114-redraw.jpg",
+   "ai_redraw": true
   },
   {
    "id": "ext-115",
@@ -4557,7 +4230,8 @@
     "平安"
    ],
    "url": "https://bank.pingan.com/geren/jiejika/zuanshi.shtml",
-   "image": "data/images/ext-118-v2.webp"
+   "image": "data/images/ext-118-redraw.jpg",
+   "ai_redraw": true
   },
   {
    "id": "ext-119",
@@ -4639,7 +4313,8 @@
     "民生"
    ],
    "url": "https://wap.cmbc.com.cn/grjr/yxk/ykzn/2016/390216157-131918.htm",
-   "image": "data/images/ext-120.jpg"
+   "image": "data/images/ext-120-redraw.jpg",
+   "ai_redraw": true
   },
   {
    "id": "ext-121",
@@ -4998,7 +4673,8 @@
     "广发"
    ],
    "url": "https://www.cgbchina.com.cn/Info/13308999",
-   "image": "data/images/ext-129-v2.webp"
+   "image": "data/images/ext-129-redraw.jpg",
+   "ai_redraw": true
   },
   {
    "id": "ext-130",
@@ -5081,7 +4757,8 @@
     "华夏"
    ],
    "url": "https://www.hxb.com.cn/grjr/hxkyw/hxjrick/index.shtml",
-   "image": "data/images/ext-131.png"
+   "image": "data/images/ext-131-redraw.jpg",
+   "ai_redraw": true
   },
   {
    "id": "ext-132",
@@ -5163,7 +4840,8 @@
     "华夏"
    ],
    "url": "https://www.hxb.com.cn/jrhx/khfw/zxgg/sykhfw/xsjmmlbjh/2019/08/28399.shtml",
-   "image": "data/images/ext-133.jpg"
+   "image": "data/images/ext-133-redraw.jpg",
+   "ai_redraw": true
   },
   {
    "id": "ext-134",
@@ -5405,7 +5083,8 @@
     "北京"
    ],
    "url": "https://www.bankofbeijing.com.cn/personal/second/pk?column=1555801266557456384",
-   "image": "data/images/ext-139.png"
+   "image": "data/images/ext-139-redraw.jpg",
+   "ai_redraw": true
   },
   {
    "id": "ext-140",
@@ -5447,7 +5126,8 @@
     "北京"
    ],
    "url": "https://www.bankofbeijing.com.cn/personal/second/detail?column=1549642597927178240",
-   "image": "data/images/ext-140.webp"
+   "image": "data/images/ext-140-redraw.jpg",
+   "ai_redraw": true
   },
   {
    "id": "ext-141",
@@ -5530,7 +5210,8 @@
     "上海"
    ],
    "url": "https://www.unionpay.com/upowhtml/cn/templates/newInfo-nosub/7885004da382485e8bde5a0ba000fdd3/20250814092758.html",
-   "image": "data/images/ext-142.jpg"
+   "image": "data/images/ext-142-redraw.jpg",
+   "ai_redraw": true
   },
   {
    "id": "ext-143",
@@ -5652,7 +5333,7 @@
     "工商"
    ],
    "url": "https://www.icbc.com.cn/page/721852485039063041.html",
-   "image": "data/images/ext-145-v2.webp",
+   "image": "data/images/ext-145-redraw.jpg",
    "score_dims": {
     "年费与免年费条件": 1,
     "境外与线上支付能力": 1.25,
@@ -5662,7 +5343,8 @@
     "免息期与取现成本": 0.38,
     "收费与其他持有成本": 0,
     "办理难度": 0
-   }
+   },
+   "ai_redraw": true
   },
   {
    "id": "ext-146",
@@ -5848,10 +5530,12 @@
     "工商银行星座信用卡 Visa",
     "星座卡境外1%返现",
     "工行",
-    "工商"
+    "工商",
+    "工行星座卡",
+    "中国工商银行星座卡"
    ],
    "url": "https://www.icbc.com.cn/column/1438058389145272553.html",
-   "image": "data/images/ext-149-v2.webp",
+   "image": "data/images/ext-149-redraw.jpg",
    "student_pick": {
     "order": 25,
     "reason": "工行宇宙星座信用卡 Visa 简约白金：学生实测可办，一般需父母等第二还款来源，批不批以银行审批为准（非银行官方承诺）。官网载明减免有效期内年费、10 币种 0 外汇兑换手续费，Visa 简约白金境外消费笔笔 1% 返现（活动期至 2026-10-31，以官网为准）；细节以工行官网最新公示为准。"
@@ -5865,7 +5549,8 @@
     "免息期与取现成本": 0.38,
     "收费与其他持有成本": 0,
     "办理难度": 0
-   }
+   },
+   "ai_redraw": true
   },
   {
    "id": "ext-150",
@@ -6392,7 +6077,9 @@
     "建行",
     "建设"
    ],
-   "url": "https://www1.ccb.com/cq/cn/faverable/20160835_1416465938.html"
+   "url": "https://www1.ccb.com/cq/cn/faverable/20160835_1416465938.html",
+   "image": "data/images/ext-160-redraw.jpg",
+   "ai_redraw": true
   },
   {
    "id": "ext-161",
@@ -6751,7 +6438,8 @@
     },
     {
      "name": "白金卡（已停发）",
-     "image": "data/images/ext-208.jpg"
+     "image": "data/images/ext-208.jpg",
+     "ai_redraw": true
     }
    ],
    "image": "data/images/ext-172.jpg",
@@ -7827,7 +7515,8 @@
     "中国"
    ],
    "url": "https://www.bankofchina.com/aboutboc/bi1/202608/t20260803_25682499.html",
-   "image": "data/images/ext-198-v2.webp"
+   "image": "data/images/ext-198-redraw.jpg",
+   "ai_redraw": true
   },
   {
    "id": "ext-199",
@@ -8785,12 +8474,13 @@
    "review": "经典版白金：年费3600/2000元；积分兑换年费现行门槛待官网复核。",
    "status": "在发",
    "added": "2026-10-04",
-   "image": "data/images/cmb-jingdian-platinum.jpg",
+   "image": "data/images/cmb-jingdian-platinum-redraw.jpg",
    "keywords": [
     "招行",
     "cmb"
    ],
-   "type": "credit"
+   "type": "credit",
+   "ai_redraw": true
   },
   {
    "id": "cmb-diamond",
@@ -9185,7 +8875,8 @@
     "免息期与取现成本": 0.45,
     "收费与其他持有成本": 0.25,
     "办理难度": 0.55
-   }
+   },
+   "ai_redraw": true
   },
   {
    "id": "icbc-lingtong-account",
@@ -9779,7 +9470,7 @@
    "review": "Visa 御玺：列入免年费类、无年费负担，境外每月前5笔取现免手续费；产品页宣称全球消费0货币转换费（与收费目录1.5%口径矛盾，终审核定）。线上能力按卡组织与币种档位计。",
    "status": "在发",
    "added": "2026-10-04",
-   "image": "data/images/pingan-visa-yuxi.png",
+   "image": "data/images/pingan-visa-yuxi.jpg",
    "keywords": [
     "平安",
     "pingan"
@@ -9794,7 +9485,8 @@
     "免息期与取现成本": 0.5,
     "收费与其他持有成本": 0.31,
     "办理难度": 0.38
-   }
+   },
+   "ai_redraw": true
   },
   {
    "id": "pingan-up-platinum",
@@ -10289,7 +9981,8 @@
     "兴业",
     "cib"
    ],
-   "type": "credit"
+   "type": "credit",
+   "ai_redraw": true
   },
   {
    "id": "cib-mc-std",
@@ -12636,12 +12329,13 @@
    "review": "光大银行卓越白金卡，详细规格（费用/权益/费率等）待核实。",
    "status": "在发",
    "added": "2026-10-04",
-   "image": "data/images/ceb-zhuoyue-platinum.jpg",
+   "image": "data/images/ceb-zhuoyue-platinum-redraw.jpg",
    "keywords": [
     "光大",
     "ceb"
    ],
-   "type": "credit"
+   "type": "credit",
+   "ai_redraw": true
   },
   {
    "id": "ceb-yangguang-shanglv-platinum",
@@ -12895,6 +12589,6 @@
    "note": "增补4张新卡：平安AI智算卡、交行人工智能主题借记卡、工行万事达10+1多币种借记卡、中行万事达B站2233联名借记卡；新卡部分规格待核实，已标注"
   }
  ],
- "data_version": 37,
- "updated_at": "2026-10-04"
+ "data_version": 38,
+ "updated_at": "2026-10-05"
 }
