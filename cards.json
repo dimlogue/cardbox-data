@@ -189,12 +189,13 @@
    "score_label": "顶级",
    "review": "公派留学专享多币卡，取现汇款全免，资格符合再办。",
    "status": "在发",
-   "image": "data/images/boc-mastercard-csc.webp",
+   "image": "data/images/boc-mastercard-csc-redraw.jpg",
    "keywords": [
     "中行",
     "boc"
    ],
-   "type": "debit"
+   "type": "debit",
+   "ai_redraw": true
   },
   {
    "url": "https://db.encmasuta.com/debit-cards/mastercard/ccb-mastercard/",
@@ -613,8 +614,9 @@
     {
      "name": "金葵花卡",
      "bin": "—",
-     "note": "金葵花客户专属；境外以人民币结算",
-     "image": "data/images/cmb-mastercard-nucc.webp"
+     "note": "金葵花客户专属；境外以人民币结算；卡面为 AI 重绘示意图：按招行金葵花金面设计、参照普卡葵花图生成，非官方原图",
+     "image": "data/images/cmb-mastercard-jinkuihua-redraw.jpg",
+     "ai_redraw": true
     },
     {
      "name": "上海硕博主题金葵花卡",
@@ -1096,7 +1098,7 @@
     "order": 2,
     "reason": "办卡门槛最低：全年龄免征信可办（未成年人可代办），年费、小额管理费全免，2026年底前免工本费，人民币结算不用折腾购汇；网付/3DS能力待核实"
    },
-   "image": "data/images/boc-mastercard-bilibili.jpg",
+   "image": "data/images/boc-mastercard-bilibili-redraw.jpg",
    "keywords": [
     "中行",
     "boc",
@@ -1115,7 +1117,8 @@
      "note": "竖版设计卡面（图已旋转为横向展示）",
      "image": "data/images/ext-009.jpg"
     }
-   ]
+   ],
+   "ai_redraw": true
   },
   {
    "url": "https://www.cib.com.cn/cn/personal/debit/index.html",
@@ -1956,7 +1959,8 @@
     "招行",
     "招商"
    ],
-   "image": "data/images/ext-036.jpg"
+   "image": "data/images/ext-036-redraw.jpg",
+   "ai_redraw": true
   },
   {
    "id": "ext-037",
@@ -3329,7 +3333,8 @@
     "农业"
    ],
    "url": "https://www.abchina.com/cn/personalservices/debitcard/201407/t20140708_790214.htm",
-   "image": "data/images/ext-095.jpg"
+   "image": "data/images/ext-095-redraw.jpg",
+   "ai_redraw": true
   },
   {
    "id": "ext-096",
@@ -3370,7 +3375,8 @@
     "农业"
    ],
    "url": "https://www.abchina.com/cn/personalservices/debitcard/201407/t20140708_790213.htm",
-   "image": "data/images/ext-096.jpg"
+   "image": "data/images/ext-096-redraw.jpg",
+   "ai_redraw": true
   },
   {
    "id": "ext-097",
@@ -3453,7 +3459,8 @@
     "农业"
    ],
    "url": "https://www.abchina.com/cn/personalservices/debitcard/ztkxl/201407/t20140708_790251.htm",
-   "image": "data/images/ext-098.png"
+   "image": "data/images/ext-098-redraw.jpg",
+   "ai_redraw": true
   },
   {
    "id": "ext-099",
@@ -7588,7 +7595,8 @@
     "农业"
    ],
    "url": "https://www.abchina.com/cn/CreditCard/ApplyCard/cardinfo/202401/t20240109_2381133.htm",
-   "image": "data/images/ext-199.jpg"
+   "image": "data/images/ext-199-redraw.jpg",
+   "ai_redraw": true
   },
   {
    "id": "ext-200",
@@ -8581,12 +8589,13 @@
    "review": "万事达白金；外汇兑换手续费1.5%、预借现金境内1%/境外3%（招行通则），年费待核。",
    "status": "在发",
    "added": "2026-10-04",
-   "image": "data/images/cmb-mc-platinum.jpg",
+   "image": "data/images/cmb-mc-platinum-redraw.jpg",
    "keywords": [
     "招行",
     "cmb"
    ],
-   "type": "credit"
+   "type": "credit",
+   "ai_redraw": true
   },
   {
    "id": "cmb-young",
@@ -8876,19 +8885,25 @@
    "review": "宠物医疗险与失卡保障有特色，年费易免；银联单标且境外交易服务费按通则收取",
    "status": "在发",
    "added": "2026-10-04",
-   "image": "data/images/hxbc-mengchong.jpg",
+   "image": "data/images/hxbc-mengchong-redraw.jpg",
    "variants": [
     {
      "name": "白猫",
-     "image": "data/images/hxbc-mengchong.jpg"
+     "image": "data/images/hxbc-mengchong-redraw.jpg",
+     "ai_redraw": true,
+     "note": "AI 重绘高清示意图（原图为低清照片感图，已按卡面设计重新生成），非官方原图"
     },
     {
      "name": "边境牧羊犬",
-     "image": "data/images/hxbc-mengchong-2.jpg"
+     "image": "data/images/hxbc-mengchong-2-redraw.jpg",
+     "ai_redraw": true,
+     "note": "AI 重绘高清示意图（原图为低清照片感图，已按卡面设计重新生成），非官方原图"
     },
     {
      "name": "金毛寻回犬",
-     "image": "data/images/hxbc-mengchong-3.jpg"
+     "image": "data/images/hxbc-mengchong-3-redraw.jpg",
+     "ai_redraw": true,
+     "note": "AI 重绘高清示意图（原图为低清照片感图，已按卡面设计重新生成），非官方原图"
     }
    ],
    "keywords": [
@@ -8946,12 +8961,13 @@
    "review": "牡丹万事达普卡；年费依工行服务价目表（数值待核），透支日利率万分之五。",
    "status": "在发",
    "added": "2026-10-04",
-   "image": "data/images/icbc-mudan-mc-pu.jpg",
+   "image": "data/images/icbc-mudan-mc-pu-redraw.jpg",
    "keywords": [
     "工行",
     "icbc"
    ],
-   "type": "credit"
+   "type": "credit",
+   "ai_redraw": true
   },
   {
    "id": "icbc-mudan-chaohui-gold",
@@ -8970,12 +8986,13 @@
    "review": "牡丹超惠金卡；年费依工行服务价目表（数值待核），透支日利率万分之五。",
    "status": "在发",
    "added": "2026-10-04",
-   "image": "data/images/icbc-mudan-chaohui-gold.jpg",
+   "image": "data/images/icbc-mudan-chaohui-gold-redraw.jpg",
    "keywords": [
     "工行",
     "icbc"
    ],
-   "type": "credit"
+   "type": "credit",
+   "ai_redraw": true
   },
   {
    "id": "icbc-shebao",
@@ -8991,12 +9008,13 @@
    "review": "工商银行金融社保卡，详细规格（费用/权益/费率等）待核实。",
    "status": "在发",
    "added": "2026-10-04",
-   "image": "data/images/icbc-shebao.jpg",
+   "image": "data/images/icbc-shebao-redraw.jpg",
    "keywords": [
     "工行",
     "icbc"
    ],
-   "type": "debit"
+   "type": "debit",
+   "ai_redraw": true
   },
   {
    "id": "icbc-hkairlines",
@@ -9012,12 +9030,13 @@
    "review": "工商银行香港航空联名信用卡，详细规格（费用/权益/费率等）待核实。",
    "status": "在发",
    "added": "2026-10-04",
-   "image": "data/images/icbc-hkairlines.png",
+   "image": "data/images/icbc-hkairlines-redraw.jpg",
    "keywords": [
     "工行",
     "icbc"
    ],
-   "type": "credit"
+   "type": "credit",
+   "ai_redraw": true
   },
   {
    "id": "ccb-linefriends",
@@ -9791,12 +9810,13 @@
    "review": "价目表备注明列青春卡为特殊产品，且取现优惠名单含青春卡。",
    "status": "在发",
    "added": "2026-10-04",
-   "image": "data/images/psbc-qingchun.png",
+   "image": "data/images/psbc-qingchun-redraw.jpg",
    "keywords": [
     "邮储",
     "psbc"
    ],
-   "type": "credit"
+   "type": "credit",
+   "ai_redraw": true
   },
   {
    "id": "psbc-dingzhi",
@@ -11313,7 +11333,7 @@
    "review": "主附卡免年费、免境外交易服务费，境外交易双倍积分；美元记账单标，权益较薄",
    "status": "在发",
    "added": "2026-10-04",
-   "image": "data/images/hxbc-luckin-gold.png",
+   "image": "data/images/hxbc-luckin-gold-redraw.jpg",
    "keywords": [
     "华夏",
     "hxbc"
@@ -11328,7 +11348,8 @@
     "免息期与取现成本": 0.45,
     "收费与其他持有成本": 0.35,
     "办理难度": 0.55
-   }
+   },
+   "ai_redraw": true
   },
   {
    "id": "hxbc-luckin-platinum",
@@ -12410,12 +12431,13 @@
    "review": "广州银行官网2025年服务价格目录逐卡命中：年费标价580/380元与「有效期内免年费」优惠、境外透支预借现金3%与「免收我行手续费」优惠在同一价目表内并存，合并时必须两口径并列标注，不得只落其一；货币转换费免收、违约金5%为明列。透支利率与积分权益未核到。注：该PDF文本抽取存在列序错位，合并前建议复核官网原版表格。",
    "status": "在发",
    "added": "2026-10-04",
-   "image": "data/images/gzcb-huanqiu-visa-platinum.png",
+   "image": "data/images/gzcb-huanqiu-visa-platinum-redraw.jpg",
    "keywords": [
     "广州",
     "gzcb"
    ],
-   "type": "credit"
+   "type": "credit",
+   "ai_redraw": true
   },
   {
    "id": "gzcb-dameng-diamond",
@@ -12619,6 +12641,6 @@
    "note": "增补4张新卡：平安AI智算卡、交行人工智能主题借记卡、工行万事达10+1多币种借记卡、中行万事达B站2233联名借记卡；新卡部分规格待核实，已标注"
   }
  ],
- "data_version": 41,
+ "data_version": 42,
  "updated_at": "2026-10-05"
 }
