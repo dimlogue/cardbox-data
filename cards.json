@@ -8102,7 +8102,8 @@
    "review": "双应用芯片白金：境外人民币入账免汇兑手续费、8分换1厦航积分、境外贵宾厅4次可带人；2600元年费无常规减免是主要短板。",
    "status": "在发",
    "added": "2026-10-04",
-   "image": "data/images/cib-xmair-mc-dual-platinum.jpg",
+   "image": "data/images/cib-xmair-mc-dual-platinum-redraw.jpg",
+   "ai_redraw": true,
    "keywords": [
     "兴业",
     "cib"
@@ -8142,7 +8143,8 @@
    "review": "双应用芯片金卡：境外人民币入账免汇兑手续费、刷满5次免次年；积分仅线上计分且18分换1里程，累积受限。",
    "status": "在发",
    "added": "2026-10-04",
-   "image": "data/images/cib-xmair-mc-dual-gold.jpg",
+   "image": "data/images/cib-xmair-mc-dual-gold-redraw.jpg",
+   "ai_redraw": true,
    "keywords": [
     "兴业",
     "cib"
@@ -9407,7 +9409,8 @@
    "review": "携程商旅万事达版：300元年费、首年免、6笔免次年，商旅场景有携程会员类权益；线上支付能力按卡组织与币种档位计，货币转换费1.5%、积分价值偏低。",
    "status": "在发",
    "added": "2026-10-04",
-   "image": "data/images/pingan-ctrip-mc.jpg",
+   "image": "data/images/pingan-ctrip-mc-redraw.jpg",
+   "ai_redraw": true,
    "keywords": [
     "平安",
     "pingan"
@@ -9445,7 +9448,8 @@
    "review": "携程商旅双币普卡：100元年费、6笔易免，银联加万事达双网络覆盖国内外；货币转换费1.5%，积分价值偏低，权益仅基础保障。",
    "status": "在发",
    "added": "2026-10-04",
-   "image": "data/images/pingan-ctrip-dual.jpg",
+   "image": "data/images/pingan-ctrip-dual-redraw.jpg",
+   "ai_redraw": true,
    "keywords": [
     "平安",
     "pingan"
@@ -9762,7 +9766,8 @@
    "review": "绿卡通生肖卡：年费不高于10元/年、唯一账户可免，小额账户管理费已免费。",
    "status": "在发",
    "added": "2026-10-04",
-   "image": "data/images/psbc-shengxiao.jpg",
+   "image": "data/images/psbc-shengxiao-redraw.jpg",
+   "ai_redraw": true,
    "keywords": [
     "邮储",
     "psbc"
@@ -12645,6 +12650,6 @@
    "note": "增补4张新卡：平安AI智算卡、交行人工智能主题借记卡、工行万事达10+1多币种借记卡、中行万事达B站2233联名借记卡；新卡部分规格待核实，已标注"
   }
  ],
- "data_version": 51,
+ "data_version": 52,
  "updated_at": "2026-10-08"
 }
