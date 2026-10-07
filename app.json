@@ -1,10 +1,10 @@
 {
- "versionCode": 270,
- "versionName": "2.70-native",
- "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/app-2.70/carddb-native.apk",
+ "versionCode": 271,
+ "versionName": "2.71-native",
+ "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/app-2.71/carddb-native.apk",
  "size": 18561554,
- "sha256": "e8150faae8cbf4843de64adb8130477a5d9d5b7d984f2192132ad38305ceb544",
- "releaseNotes": "软件自带更新上线：设置里点「软件更新」即可下载安装新版。另含：弹窗重影卡顿、色带拖动、BIN 窗、展柜与圆角、英文漏译、日志页底栏、加号钮、组织标统一规格与详情图廊封面等一批修复。",
+ "sha256": "60b452eaf11a629d1a1a85d97e29b8d04ae237c39396631ee85c3da888164683",
+ "releaseNotes": "组织小标放大：万事达/美国运通/JCB 三标与银联、VISA 视觉对齐；展柜修复：连续捏合缩小时画面不再误弹回原尺寸，双击回正、长按判定更准。",
  "forceUpdate": false,
  "minSupportedVersionCode": 200
 }
