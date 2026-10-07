@@ -1,1 +1,10 @@
-{"apkUrl":"https://github.com/dimlogue/cardbox-data/releases/download/app-2.74/carddb-native.apk","forceUpdate":false,"minSupportedVersionCode":200,"releaseNotes":"展柜底色面板：删掉多余的「自选色」档，常用色点哪个就定哪个；面板开着时不再点穿到后面的卡；老版本存过的自选色升级后自动落回自适应。","sha256":"0fe103a42ae08e2d78be7ab789f4a45e38fccc76c970e0db06e552761f3157b4","size":18561554,"versionCode":274,"versionName":"2.74-native"}
+{
+ "versionCode": 274,
+ "versionName": "2.74-native",
+ "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/app-2.74/carddb-native.apk",
+ "size": 18561554,
+ "sha256": "0fe103a42ae08e2d78be7ab789f4a45e38fccc76c970e0db06e552761f3157b4",
+ "releaseNotes": "展柜底色面板：删掉多余的「自选色」档，常用色点哪个就定哪个；面板开着时不再点穿到后面的卡；老版本存过的自选色升级后自动落回自适应。",
+ "forceUpdate": false,
+ "minSupportedVersionCode": 200
+}
