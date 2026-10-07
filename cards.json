@@ -1115,7 +1115,7 @@
      "name": "竖版卡面",
      "bin": "223300",
      "note": "竖版设计卡面（图已旋转为横向展示）",
-     "image": "data/images/ext-009.jpg"
+     "image": "data/images/ext-009-redraw.jpg"
     }
    ],
    "ai_redraw": true
@@ -8327,7 +8327,8 @@
    "review": "通则同中信官网目录原文；年费单卡价与积分倍率所属性质（是否免年费政策类）官网未给单卡定性，按等级档并列保留。逐卡权益未核到。",
    "status": "在发",
    "added": "2026-10-04",
-   "image": "data/images/citic-i-platinum.jpg",
+   "image": "data/images/citic-i-platinum-redraw.jpg",
+   "ai_redraw": true,
    "keywords": [
     "中信",
     "citic"
@@ -8803,7 +8804,8 @@
    "review": "普/金/白金三档年费易免、生月双倍积分；短板为银联单标、境外交易服务费按通则收取",
    "status": "在发",
    "added": "2026-10-04",
-   "image": "data/images/hxbc-panda.png",
+   "image": "data/images/hxbc-panda-redraw.jpg",
+   "ai_redraw": true,
    "keywords": [
     "华夏",
     "hxbc"
@@ -11410,7 +11412,8 @@
    "review": "主附卡免年费、免境外交易服务费，达标送全球机场贵宾厅；美元记账，贵宾厅需消费达标",
    "status": "在发",
    "added": "2026-10-04",
-   "image": "data/images/hxbc-visa-xingyao.jpg",
+   "image": "data/images/hxbc-visa-xingyao-redraw.jpg",
+   "ai_redraw": true,
    "keywords": [
     "华夏",
     "hxbc"
@@ -12458,7 +12461,8 @@
    "review": "官网价目目录逐卡年费6000元/附属免年费、预借现金分档与违约金5%均明列；免年费减免、货币转换费、透支利率与权益未核到。注意与「达梦白金卡」区分，优惠名单不可跨卡套用。",
    "status": "在发",
    "added": "2026-10-04",
-   "image": "data/images/gzcb-dameng-diamond.png",
+   "image": "data/images/gzcb-dameng-diamond-redraw.jpg",
+   "ai_redraw": true,
    "keywords": [
     "广州",
     "gzcb"
@@ -12641,6 +12645,6 @@
    "note": "增补4张新卡：平安AI智算卡、交行人工智能主题借记卡、工行万事达10+1多币种借记卡、中行万事达B站2233联名借记卡；新卡部分规格待核实，已标注"
   }
  ],
- "data_version": 49,
- "updated_at": "2026-10-07"
+ "data_version": 50,
+ "updated_at": "2026-10-08"
 }
