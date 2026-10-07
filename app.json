@@ -1,10 +1,1 @@
-{
- "versionCode": 271,
- "versionName": "2.71-native",
- "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/app-2.71/carddb-native.apk",
- "size": 18561554,
- "sha256": "60b452eaf11a629d1a1a85d97e29b8d04ae237c39396631ee85c3da888164683",
- "releaseNotes": "组织小标放大：万事达/美国运通/JCB 三标与银联、VISA 视觉对齐；展柜修复：连续捏合缩小时画面不再误弹回原尺寸，双击回正、长按判定更准。",
- "forceUpdate": false,
- "minSupportedVersionCode": 200
-}
+{"apkUrl":"https://github.com/dimlogue/cardbox-data/releases/download/app-2.72/carddb-native.apk","forceUpdate":false,"minSupportedVersionCode":200,"releaseNotes":"万事达标按真机回执再放大一档，与真卡比例对齐；关键路径异常补记日志，内部稳定性改进。","sha256":"f5ced24736090fa886fbbe8d760b656c7c670c7b6898d98a1c5dbdd9f043658c","size":18561554,"versionCode":272,"versionName":"2.72-native"}
