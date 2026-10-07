@@ -1,10 +1,10 @@
 {
- "versionCode": 276,
- "versionName": "2.76-native",
- "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/app-2.76/carddb-native.apk",
+ "versionCode": 277,
+ "versionName": "2.77-native",
+ "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/app-2.77/carddb-native.apk",
  "size": 18565650,
- "sha256": "ed749b2e1540ea8fa7a2e86cf61a3a9fe1cbde20867ebd5a07127d05579755b5",
- "releaseNotes": "详情页卡图改按内容指纹校验，数据更新后不再冻旧图；展柜底色色板恢复（点色定色、可输颜色代码定色、面板显示当前色码），堆叠模式下密度钮不再隔空调；更新日志改悬浮小胶囊，滑动时自动让开不挡视野；关于页箭头修好。",
+ "sha256": "a1e40338a5c05a28b13c74fe02c9d1e917b989e8f5ae8055627f7b7f3d247a23",
+ "releaseNotes": "展柜底色：选了强制深色，对应的深色色点会同步亮起，点色点也一样，两边不再各亮各的；展柜顶栏改近实底，字更清楚；卡片展开/收起状态收口。",
  "forceUpdate": false,
  "minSupportedVersionCode": 200
 }
