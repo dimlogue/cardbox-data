@@ -1,1 +1,10 @@
-{"apkUrl":"https://github.com/dimlogue/cardbox-data/releases/download/app-2.72/carddb-native.apk","forceUpdate":false,"minSupportedVersionCode":200,"releaseNotes":"万事达标按真机回执再放大一档，与真卡比例对齐；关键路径异常补记日志，内部稳定性改进。","sha256":"f5ced24736090fa886fbbe8d760b656c7c670c7b6898d98a1c5dbdd9f043658c","size":18561554,"versionCode":272,"versionName":"2.72-native"}
+{
+ "versionCode": 272,
+ "versionName": "2.72-native",
+ "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/app-2.72/carddb-native.apk",
+ "size": 18561554,
+ "sha256": "f5ced24736090fa886fbbe8d760b656c7c670c7b6898d98a1c5dbdd9f043658c",
+ "releaseNotes": "万事达标按真机回执再放大一档，与真卡比例对齐；关键路径异常补记日志，内部稳定性改进。",
+ "forceUpdate": false,
+ "minSupportedVersionCode": 200
+}
