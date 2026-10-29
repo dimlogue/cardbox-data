@@ -3,8 +3,8 @@
   "forceUpdate": false,
   "minSupportedVersionCode": 200,
   "releaseNotes": "364批测试版：更新日志可折叠展开＋补359-363记录",
-  "sha256": "2994be1db3bd3ba75079e8fa9f68b313a807854b436eab6a018a967e24fddc28",
-  "size": 117907939,
+  "sha256": "584cbc452e2c254d18cd82d444336fb78f768c66d40f753391e945b28307525a",
+  "size": 117912035,
   "versionCode": 364,
   "versionName": "3.20-native",
   "url": "https://github.com/dimlogue/cardbox-data/releases/download/fix-3.20-364/carddb-native-364.apk"
