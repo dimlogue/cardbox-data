@@ -2,10 +2,10 @@
   "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-3.20-362/carddb-native-362-diag.apk",
   "forceUpdate": false,
   "minSupportedVersionCode": 200,
-  "releaseNotes": "363批测试版：顶部 Hero 改版（标题行玻璃 pill＋灰字数据条，删大白卡）",
-  "sha256": "50f0c74661936a22e8df6509a68e28e6560690f60b1d23681599481300e98dd1",
+  "releaseNotes": "364批测试版：更新日志可折叠展开＋补359-363记录",
+  "sha256": "2994be1db3bd3ba75079e8fa9f68b313a807854b436eab6a018a967e24fddc28",
   "size": 117907939,
-  "versionCode": 363,
+  "versionCode": 364,
   "versionName": "3.20-native",
-  "url": "https://github.com/dimlogue/cardbox-data/releases/download/fix-3.20-363/carddb-native-363.apk"
+  "url": "https://github.com/dimlogue/cardbox-data/releases/download/fix-3.20-364/carddb-native-364.apk"
 }
