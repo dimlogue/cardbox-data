@@ -2,9 +2,10 @@
   "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-3.20-362/carddb-native-362-diag.apk",
   "forceUpdate": false,
   "minSupportedVersionCode": 200,
-  "releaseNotes": "362批测试版：展柜分组弹窗重做（选项行距/字号/进出场动画）＋详情页三“美元”去重（图下小字不再与版本区重复）。",
-  "sha256": "bf8fdffc9c346de46a5398217283dd453d6e8d7ba8b82a349f0754344d7227f4",
+  "releaseNotes": "363批测试版：顶部 Hero 改版（标题行玻璃 pill＋灰字数据条，删大白卡）",
+  "sha256": "50f0c74661936a22e8df6509a68e28e6560690f60b1d23681599481300e98dd1",
   "size": 117907939,
-  "versionCode": 362,
-  "versionName": "3.20-native"
+  "versionCode": 363,
+  "versionName": "3.20-native",
+  "url": "https://github.com/dimlogue/cardbox-data/releases/download/fix-3.20-363/carddb-native-363.apk"
 }
