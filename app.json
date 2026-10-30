@@ -1,11 +1,1 @@
-{
-  "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-3.20-378/carddb-378.apk",
-  "forceUpdate": false,
-  "minSupportedVersionCode": 200,
-  "releaseNotes": "378: 25張精選点开弹窗，pill黑边修复",
-  "sha256": "fd9a5defc117ac621208bd2eed0415e831881193d482c4b67e4d09415a9e2f52",
-  "size": 117920227,
-  "versionCode": 378,
-  "versionName": "3.20-native",
-  "url": "https://github.com/dimlogue/cardbox-data/releases/download/fix-3.20-378/carddb-378.apk"
-}
+{"apkUrl":"https://github.com/dimlogue/cardbox-data/releases/download/fix-3.20-380/carddb-380.apk","forceUpdate":false,"minSupportedVersionCode":200,"releaseNotes":"380: 学生页横滑精选预览条；379: 我的卡片页精简+工具三合一+銜接恢复","sha256":"d5912fa867136cc7d28448d9a2ab4575a3121c33c4721373a1511534ce9dd78e","size":117924323,"url":"https://github.com/dimlogue/cardbox-data/releases/download/fix-3.20-380/carddb-380.apk","versionCode":380,"versionName":"3.20-native"}
