@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-3.20-377/carddb-377.apk",
+  "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-3.20-378/carddb-378.apk",
   "forceUpdate": false,
   "minSupportedVersionCode": 200,
-  "releaseNotes": "377: 页面顶部精简，泛名隐藏，NFC白圆钮，删銜接",
-  "sha256": "134718169a1a188ac7b9630654cd5830e42d1889638d4d3d62b18a098163ccce",
-  "size": 117916131,
-  "versionCode": 377,
+  "releaseNotes": "378: 25張精選点开弹窗，pill黑边修复",
+  "sha256": "fd9a5defc117ac621208bd2eed0415e831881193d482c4b67e4d09415a9e2f52",
+  "size": 117920227,
+  "versionCode": 378,
   "versionName": "3.20-native",
-  "url": "https://github.com/dimlogue/cardbox-data/releases/download/fix-3.20-377/carddb-377.apk"
+  "url": "https://github.com/dimlogue/cardbox-data/releases/download/fix-3.20-378/carddb-378.apk"
 }
