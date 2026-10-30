@@ -1,11 +1,11 @@
 {
-  "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-3.20-374/carddb-native-374.apk",
+  "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-3.20-376/carddb-376.apk",
   "forceUpdate": false,
   "minSupportedVersionCode": 200,
-  "releaseNotes": "364批测试版：更新日志可折叠展开＋补359-363记录",
-  "sha256": "77030017928805ad87c72f8f99be64c84ca7eafa4c29d1eb63eff7dcfea72d3a",
-  "size": 117916131,
+  "releaseNotes": "376: NFC引导页放大柔和，BIN多号/范围匹配修复，银行/组织回填恢复",
+  "sha256": "ff663598a18abf2b33c9c4452fecce20cdbfbdfaf2e2196e71aef322ad773224",
+  "size": 117920227,
   "versionCode": 376,
   "versionName": "3.20-native",
-  "url": "https://github.com/dimlogue/cardbox-data/releases/download/fix-3.20-365/carddb-native-365.apk"
+  "url": "https://github.com/dimlogue/cardbox-data/releases/download/fix-3.20-376/carddb-376.apk"
 }
