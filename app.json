@@ -1,1 +1,9 @@
-{"apkUrl":"https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-440/carddb-440.apk","forceUpdate":false,"minSupportedVersionCode":200,"releaseNotes":"440: 港澳之外卡面补 44 张（含 SoFi Essential、Business Altitude Power、One Key+ 3 张非官网原图，已标注）","sha256":"08703a3d190822fead690520e0591e98cd2aa7cc752791bbed996d02edd684e2","size":43573675,"url":"https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-440/carddb-440.apk","versionCode":440,"versionName":"4.0-native"}
+{
+  "versionCode": 441,
+  "versionName": "4.0-native",
+  "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-441/carddb-native-4.0-native-441.apk",
+  "size": 43614635,
+  "md5": "38f43605588628a9f90d3141acdc3230",
+  "sha256": "05344cc50ed1446c033c27d708fe3e526dc12905b5bee48c9dd4c0076b654eae",
+  "changelog": "4.0 外卡地区扩围 47 张（意大利、英国、澳大利亚、德国、法国、西班牙、瑞士；卡面暂空，仅数据）"
+}
