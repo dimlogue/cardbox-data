@@ -1,9 +1,9 @@
 {
-  "versionCode": 442,
+  "versionCode": 443,
   "versionName": "4.0-native",
-  "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-442/carddb-native-4.0-native-442.apk",
-  "size": 43618731,
-  "md5": "370d7e1b86a9564b65444c09c814b703",
-  "sha256": "ac4c68f051d4bf27d166456283263d76423be25668566595c7de0aa32966eff2",
-  "changelog": "4.0 修复：评分细则行三段钉死对齐、对比结果改系统风格底部弹窗、详情窗顶圆角滚动不再毛刺、展柜墙全屏居中铺开、外卡地区筛选只列单一地区、更新日志页最新版排第一"
+  "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-443/carddb-native-4.0-native-443.apk",
+  "size": 43614635,
+  "md5": "d277801f79a4e150c5623cb3c03ef5e5",
+  "sha256": "41f239d571a304d20837a8062c8621e176b6b1ddc31bd4bd3cc545397b09b93e",
+  "changelog": "4.0 新增：在线搜卡与我的卡片筛选加学生专区（仅学生卡按核心库学生标记认，扩展条目不出现）；对比选择弹窗顶部关闭钮不再被裁、底部已选旁加清除、列表外侧加首页同款滑动条"
 }
