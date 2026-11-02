@@ -1,9 +1,9 @@
 {
-  "versionCode": 447,
+  "versionCode": 448,
   "versionName": "4.0-native",
-  "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-447/carddb-native-4.0-native-447.apk",
-  "size": 43651571,
-  "md5": "92b7b95bfb50fd193cee83f2a66b4047",
-  "sha256": "41b499b3083c2899933da0e6a6bbf66d1b3401ac8b3c9fb45f1eea055eb0518f",
-  "changelog": "4.0 境外能力改版：我的卡片页原地替换，标题旁挂已具备 X / 5，能力行配代表卡卡面加进度条加状态，最通用行加卡面，短板与免责完整显示，底部加下一步建议条"
+  "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-448/carddb-native-4.0-native-448.apk",
+  "size": 43655667,
+  "md5": "04fa8f81dd861b63046165ad3389ea3b",
+  "sha256": "1c4ad69433a94fd4499ba8cb82f09b60d1ece85e92ce9975659d60d2795949c7",
+  "changelog": "4.0 质感统一：全页柔影加深一档、首页与展柜瓷砖阴影加深、详情卡面柔影与留白加大，功能与数据不动。"
 }
