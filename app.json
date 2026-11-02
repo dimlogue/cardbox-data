@@ -1,9 +1,9 @@
 {
-  "versionCode": 443,
+  "versionCode": 444,
   "versionName": "4.0-native",
-  "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-443/carddb-native-4.0-native-443.apk",
-  "size": 43614635,
-  "md5": "d277801f79a4e150c5623cb3c03ef5e5",
-  "sha256": "41f239d571a304d20837a8062c8621e176b6b1ddc31bd4bd3cc545397b09b93e",
-  "changelog": "4.0 新增：在线搜卡与我的卡片筛选加学生专区（仅学生卡按核心库学生标记认，扩展条目不出现）；对比选择弹窗顶部关闭钮不再被裁、底部已选旁加清除、列表外侧加首页同款滑动条"
+  "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-444/carddb-native-4.0-native-444.apk",
+  "size": 43622899,
+  "md5": "375578a120f2e2c80139ad7760e61ec1",
+  "sha256": "dc59df411829502e82497fbbbf164696a7310332116c01ea28b36da767acabd1",
+  "changelog": "4.0 新增：对比选择弹窗筛选加学生专区（切筛选不丢已选）；工具区新增券商卡独立栏目（联名卡5张、券商自有卡1张，国泰君安×农行卡在发未确认暂不进栏）"
 }
