@@ -1,9 +1,9 @@
 {
-  "versionCode": 445,
+  "versionCode": 446,
   "versionName": "4.0-native",
-  "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-445/carddb-native-4.0-native-445.apk",
-  "size": 43622899,
-  "md5": "b9d320602437ec6a91c8308843be5278",
-  "sha256": "238c2c2a7b6a0076c1c1ccfeea0911041477e6b59d1a1147d3e8f947a029795e",
-  "changelog": "4.0 修整：对比选择清除钮仅有已选时显示、对比结果页去差异标签、首页繁体字形改简体、为你挑的卡点加号不回顶部、外卡地区筛选后分区单组"
+  "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-446/carddb-native-4.0-native-446.apk",
+  "size": 43651571,
+  "md5": "603bf0e51539884c1cf7666e6712e608",
+  "sha256": "ac876448b4c0ff2ab83d055fb4acc5e222eda2b54eabc0e79ef85a3059903ef7",
+  "changelog": "4.0 外卡扩围31张：第二批26张（日本、荷兰、韩国、加拿大、西班牙、澳大利亚、英国）加瑞士杜高斯贝5张，卡面暂空"
 }
