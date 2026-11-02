@@ -5606,6 +5606,78 @@
       "source": "https://www.hsbc.com.cn/en-cn/rural-bank/personal/debit-cards/",
       "source_type": "官网",
       "last_checked_at": "2026-11-02"
+    },
+    {
+      "id": "x-0468",
+      "name": "借记卡",
+      "bank": "慈利沪农商村镇银行",
+      "org": "银联",
+      "type": "debit",
+      "url": "https://cil.srcbcz.com/",
+      "status": "verified",
+      "source": "https://cil.srcbcz.com/",
+      "source_type": "官网",
+      "last_checked_at": "2026-11-02"
+    },
+    {
+      "id": "x-0469",
+      "name": "大唐借记卡",
+      "bank": "浙江景宁银座村镇银行",
+      "org": null,
+      "type": "debit",
+      "url": "https://www.ybyzb.net/",
+      "status": "verified",
+      "source": "https://www.ybyzb.net/",
+      "source_type": "官网",
+      "last_checked_at": "2026-11-02"
+    },
+    {
+      "id": "x-0470",
+      "name": "大唐IC借记卡",
+      "bank": "浙江三门银座村镇银行",
+      "org": null,
+      "type": "debit",
+      "url": "https://www.smyzb.com/",
+      "status": "verified",
+      "source": "https://www.smyzb.com/",
+      "source_type": "官网",
+      "last_checked_at": "2026-11-02"
+    },
+    {
+      "id": "x-0471",
+      "name": "大唐借记卡",
+      "bank": "重庆黔江银座村镇银行",
+      "org": null,
+      "type": "debit",
+      "url": "https://www.tzbank.com/",
+      "status": "verified",
+      "source": "https://www.tzbank.com/",
+      "source_type": "官网",
+      "last_checked_at": "2026-11-02"
+    },
+    {
+      "id": "x-0472",
+      "name": "借记卡（已停发）",
+      "bank": "广州黄埔融和村镇银行",
+      "org": null,
+      "type": "debit",
+      "url": "",
+      "status": "discontinued",
+      "source": "广州黄埔融和村镇银行官网解散公告（粤金复〔2026〕89号，2026-04-10），业务由江门农村商业银行承继",
+      "source_type": "官网",
+      "last_checked_at": "2026-11-02"
+    },
+    {
+      "id": "x-0473",
+      "name": "借记卡（已停发）",
+      "bank": "三水珠江村镇银行",
+      "org": null,
+      "type": "debit",
+      "url": "",
+      "status": "discontinued",
+      "source": "顺德农村商业银行吸收合并三水珠江村镇银行，2025-09-12起翻牌为顺德农村商业银行三水分行，法人资格注销",
+      "source_type": "官网",
+      "last_checked_at": "2026-11-02"
     }
   ]
 }
