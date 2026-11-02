@@ -1,9 +1,1 @@
-{
-  "versionCode": 448,
-  "versionName": "4.0-native",
-  "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-448/carddb-native-4.0-native-448.apk",
-  "size": 43655667,
-  "md5": "04fa8f81dd861b63046165ad3389ea3b",
-  "sha256": "1c4ad69433a94fd4499ba8cb82f09b60d1ece85e92ce9975659d60d2795949c7",
-  "changelog": "4.0 质感统一：全页柔影加深一档、首页与展柜瓷砖阴影加深、详情卡面柔影与留白加大，功能与数据不动。"
-}
+{"versionCode": 450, "versionName": "4.0-native", "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-450/carddb-native-4.0-native-450.apk", "size": 43704889, "md5": "9d0e49b1c65ec29911b010424eb57083", "sha256": "a9395561b15b7a9ea7edf0d79f75b5978e6428ff6b48dd712c1dedc65309d00b", "changelog": "4.0 修复：钱包加载改临时列表全量成功后一次性赋值、失败可重试；钱包区46条链接逐条核实，3条未证实官方对应已留空并注未核实。"}
