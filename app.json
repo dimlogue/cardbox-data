@@ -1,1 +1,11 @@
-{"apkUrl":"https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-520/carddb-native-4.0-native-520.apk","changelog":"520 版：首页滑动卡顿修复（滑动条拖动、底部闪、底栏抽搐、跳画面）、保号黑边修干净、专区卡片加左右边距、保号页头栏吸顶；fix2 剩 2 个 minor 已修。三路复审 GO。","date":"2026-11-10","md5":"92f242565a6222ac346e4a58d117f830","releaseNotes":"520 版：首页滑动不再卡顿、滚动条能拖、底部不闪、底栏不抽搐；保号卡黑边修干净；专区卡片加了左右边距；保号页头栏吸顶。","sha256":"7ba4328feec9858fe6ef9a1c05a8a6e334c20dea7315717e040249f9fdc5c7f6","size":20123444,"versionCode":520,"versionName":"4.0-native"}
+{
+    "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-521/carddb-native-4.0-native-521.apk",
+    "changelog": "521 版：保号指南从 4 款补到 32 款（sim.json 4→32，版本 2）。第一批 13 家已核实：Asda、amaysim、Skinny、One NZ、Super、Kyivstar、MTN、Smartfren、Very、yallo、Lebara、Beeline、AIS；第二批 10 家标“仅第三方”；另补 CTExcel UK、Vodafone Portugal、Three UK、Vodafone Ukraine、RedPocket。存疑 6 家未进。三路复审 GO。",
+    "date": "2026-11-10",
+    "md5": "dedd0da0a792325fcdaad676a147ee46",
+    "releaseNotes": "521 版：保号指南从 4 款补到 32 款。新增 Asda、amaysim、Skinny、One NZ、Super、Kyivstar、MTN、Smartfren、Very、yallo、Lebara、Beeline、AIS 等 13 家已核实运营商，另有 10 家标“仅第三方”。",
+    "sha256": "93103489b0dca13cfa6c88696b36ac1c9ce42889d5c65dd4b746e7c9a34b4957",
+    "size": 20148020,
+    "versionCode": 521,
+    "versionName": "4.0-native"
+}
