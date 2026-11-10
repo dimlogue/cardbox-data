@@ -1,11 +1,11 @@
 {
-    "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-521/carddb-native-4.0-native-521.apk",
-    "changelog": "521 版：保号指南从 4 款补到 32 款（sim.json 4→32，版本 2）。第一批 13 家已核实：Asda、amaysim、Skinny、One NZ、Super、Kyivstar、MTN、Smartfren、Very、yallo、Lebara、Beeline、AIS；第二批 10 家标“仅第三方”；另补 CTExcel UK、Vodafone Portugal、Three UK、Vodafone Ukraine、RedPocket。存疑 6 家未进。三路复审 GO。",
-    "date": "2026-11-10",
-    "md5": "dedd0da0a792325fcdaad676a147ee46",
-    "releaseNotes": "521 版：保号指南从 4 款补到 32 款。新增 Asda、amaysim、Skinny、One NZ、Super、Kyivstar、MTN、Smartfren、Very、yallo、Lebara、Beeline、AIS 等 13 家已核实运营商，另有 10 家标“仅第三方”。",
-    "sha256": "93103489b0dca13cfa6c88696b36ac1c9ce42889d5c65dd4b746e7c9a34b4957",
+    "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-522/carddb-native-4.0-native-522.apk",
+    "changelog": "522 版：滑动卡顿修根因（首页 keep 窗口放宽上 2 屏／下 4 屏，贴回节流每 1/4 屏最多一次）；数据读取优化（规则表／sim.json 静态缓存，正则常量化，开机后台预热）；详情弹层开时锁背景滚动；识别结果页 UI 清理（备注框收到底部、两钮单组、比例统一、顶部留边）；OTA 检查失败重试一次＋记诊断日志。A 路复审 GO。",
+    "date": "2026-11-11",
+    "md5": "1598ee7ab8757884895728116994c482",
+    "releaseNotes": "522 版：滑动卡顿修根因（窗口放宽＋贴回节流）；数据读取优化（缓存＋预热）；详情弹层锁背景滚动；识别结果页 UI 清理；OTA 检查失败重试。",
+    "sha256": "bfe7edbbece33bb471ce9864cbdc403ceeb640f3fa8e7a741ffbf96fcf24d83a",
     "size": 20148020,
-    "versionCode": 521,
+    "versionCode": 522,
     "versionName": "4.0-native"
 }
