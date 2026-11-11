@@ -1,11 +1,11 @@
 {
-    "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-524/carddb-native-4.0-native-524.apk",
-    "changelog": "524 版：手动选运营商 chips 改横滑＋单行；识别结果按钮权重倾斜 1.2/0.8＋单行；详情四格改 2×2＋值/标签封顶；候选卡下 margin 12dp；3/4 列 keep 窗口收窄＋关波浪动画；政策区改读全部 32 条＋前 8 条折叠；headBar 底留白 10dp＋elevation 8dp；补 241ms 定罪探针 P1–P3。三路复审 GO。",
+    "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-525/carddb-native-4.0-native-525.apk",
+    "changelog": "525 版：同系列卡按名称归组（组标题行，白鹭 7 条归一）；对比同系列弹提示不拦截；保号提醒 chips 横滑＋单行；待保号列表改两行紧凑卡（顺延 pill、整卡点进编辑）；返回恢复（hub／专区／线路存位、showTab 守卫、wasSettling 只认手指、fxZoneKeepY 补存）；headBar 底 1dp 分界线；P3 玻璃探针接活（钩子＋band.sched＋cols.set＋home.reattach）。三路复审 GO（复审修后重审 GO）。",
     "date": "2026-11-11",
-    "md5": "bfb7442265decf43893cc129bcf63c10",
-    "releaseNotes": "524 版：chips 横滑、按钮倾斜、详情 2×2、候选卡间距、3/4 列卡顿修、政策区 32 条、headBar 留白、241ms 探针。",
-    "sha256": "ef587dc324829f261013e00a1be87c42f7ed32cb34ce4a40d00a1ed115087ea1",
-    "size": 20152116,
-    "versionCode": 524,
+    "md5": "4b5d416250aea469b682adca843f08f5",
+    "releaseNotes": "525 版：系列归组、对比提示、chips 横滑、紧凑卡、返回恢复、分界线、玻璃探针接活。",
+    "sha256": "78fb804fe0b936d0722980c8b2102700a55aa358952d64158834dd456f8d413b",
+    "size": 20156212,
+    "versionCode": 525,
     "versionName": "4.0-native"
 }
