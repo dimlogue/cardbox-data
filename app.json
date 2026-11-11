@@ -1,11 +1,11 @@
 {
-    "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-527/carddb-native-4.0-native-527.apk",
-    "changelog": "527 版：方向纠正——首页一个系列只显示一张（撤 525 系列分组与 526 流式拼行）；等级在卡片详细页轮播里看；删多余代码。三路复审 GO。",
+    "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-528/carddb-native-4.0-native-528.apk",
+    "changelog": "528 版：保号专区新增 eSIM-Matrix 参考卡（备用机远程切卡保号，VoHive 卡旁）。三路复审 GO。",
     "date": "2026-11-11",
-    "md5": "983850c997dbe1e39e7ec31eb0a7cd09",
-    "releaseNotes": "527 版：首页一系一张、详细页看等级、删多余代码。",
-    "sha256": "4c6cbbaa8fb1b39c39ca5562f0b3383c6fcc4d99ed2e279814b370f0967cf57e",
-    "size": 20152116,
-    "versionCode": 527,
+    "md5": "98973e1f421c2ca375ba76fd2e563111",
+    "releaseNotes": "528 版：保号专区加 eSIM-Matrix 参考卡。",
+    "sha256": "e0b82f13530b83c8eba18f5b41f7531fa859bd69d98d865141399114af65465e",
+    "size": 20156212,
+    "versionCode": 528,
     "versionName": "4.0-native"
 }
