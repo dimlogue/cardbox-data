@@ -1,11 +1,11 @@
 {
-    "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-526/carddb-native-4.0-native-526.apk",
-    "changelog": "526 版：单张组流式拼行（修三列显示成一列的 bug，三列真出三列）；列数切换强制重建；cols.refresh 落定日志。三路复审 GO。",
+    "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-527/carddb-native-4.0-native-527.apk",
+    "changelog": "527 版：方向纠正——首页一个系列只显示一张（撤 525 系列分组与 526 流式拼行）；等级在卡片详细页轮播里看；删多余代码。三路复审 GO。",
     "date": "2026-11-11",
-    "md5": "5559b7f8ed92c4ed9eeefcc9812d9234",
-    "releaseNotes": "526 版：单张组流式拼行、三列修复、列数切换强制重建。",
-    "sha256": "d696bd7645db01a68468667abc45102dbb1ec96f9010527cac81601d9a35810a",
-    "size": 20156212,
-    "versionCode": 526,
+    "md5": "983850c997dbe1e39e7ec31eb0a7cd09",
+    "releaseNotes": "527 版：首页一系一张、详细页看等级、删多余代码。",
+    "sha256": "4c6cbbaa8fb1b39c39ca5562f0b3383c6fcc4d99ed2e279814b370f0967cf57e",
+    "size": 20152116,
+    "versionCode": 527,
     "versionName": "4.0-native"
 }
