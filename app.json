@@ -1,11 +1,11 @@
 {
-    "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-525/carddb-native-4.0-native-525.apk",
-    "changelog": "525 版：同系列卡按名称归组（组标题行，白鹭 7 条归一）；对比同系列弹提示不拦截；保号提醒 chips 横滑＋单行；待保号列表改两行紧凑卡（顺延 pill、整卡点进编辑）；返回恢复（hub／专区／线路存位、showTab 守卫、wasSettling 只认手指、fxZoneKeepY 补存）；headBar 底 1dp 分界线；P3 玻璃探针接活（钩子＋band.sched＋cols.set＋home.reattach）。三路复审 GO（复审修后重审 GO）。",
+    "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-526/carddb-native-4.0-native-526.apk",
+    "changelog": "526 版：单张组流式拼行（修三列显示成一列的 bug，三列真出三列）；列数切换强制重建；cols.refresh 落定日志。三路复审 GO。",
     "date": "2026-11-11",
-    "md5": "4b5d416250aea469b682adca843f08f5",
-    "releaseNotes": "525 版：系列归组、对比提示、chips 横滑、紧凑卡、返回恢复、分界线、玻璃探针接活。",
-    "sha256": "78fb804fe0b936d0722980c8b2102700a55aa358952d64158834dd456f8d413b",
+    "md5": "5559b7f8ed92c4ed9eeefcc9812d9234",
+    "releaseNotes": "526 版：单张组流式拼行、三列修复、列数切换强制重建。",
+    "sha256": "d696bd7645db01a68468667abc45102dbb1ec96f9010527cac81601d9a35810a",
     "size": 20156212,
-    "versionCode": 525,
+    "versionCode": 526,
     "versionName": "4.0-native"
 }
