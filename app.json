@@ -1,11 +1,11 @@
 {
-    "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-529/carddb-native-4.0-native-529.apk",
-    "changelog": "529 版：保号专区按 shenqi.uk 版式重做（淡紫底、胶囊 tab、紫渐变标题与主按钮；保号 6 张、实体卡 5 款、流量 3 家，数据全部按 2026-11-12 官网核实）。三路复审 GO。",
+    "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-530/carddb-native-4.0-native-530.apk",
+    "changelog": "530 版：更新下载取消真正生效（点取消立即停掉下载、删掉已下载数据、关掉弹窗）；0% 阶段显示“正在连接…”。三路复审 GO。",
     "date": "2026-11-12",
-    "md5": "0feff30268a0ec4fde3c9ce65014d503",
-    "releaseNotes": "529 版：保号专区按 shenqi.uk 版式重做，数据全部官网核实。",
-    "sha256": "24c6e7dd870ba68251d249c5b82661ff6822ac3699868b12743c14ec3dc9d4d3",
-    "size": 20160308,
-    "versionCode": 529,
+    "md5": "38a5ae06ef554d1ab5cf7382f413cb32",
+    "releaseNotes": "530 版：更新下载取消真正生效，0% 阶段显示“正在连接…”。",
+    "sha256": "0dc50c26492514492a658eb721da706dfb4260e0f3b62490d8bcffdc223e0fc0",
+    "size": 20164404,
+    "versionCode": 530,
     "versionName": "4.0-native"
 }
