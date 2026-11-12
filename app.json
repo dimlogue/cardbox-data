@@ -1,11 +1,11 @@
 {
-    "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-531/carddb-native-4.0-native-531.apk",
-    "changelog": "531 版：保号专区改回 473 经典风格（暖纸底、7dp 独立钮、青绿选中、浅蓝徽章与官网按钮）；「开始选卡 →」已删；数据一字不动。三路复审 GO。",
+    "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-532/carddb-native-4.0-native-532.apk",
+    "changelog": "532 版：弹窗修（背景拦截＋返回键先关弹窗）；权限与下载说明／诊断日志说明／卡面下载进度等弹窗开着时，背景划不动、返回键先关弹窗再退出；底栏不再压在弹窗上；数据一字不动。三路复审 GO。",
     "date": "2026-11-12",
-    "md5": "f59cc4f0929d2903c899cf42a5dba48c",
-    "releaseNotes": "531 版：保号专区改回 473 经典风格，数据一字不动。",
-    "sha256": "dfbf9a822c33d62ef9ab50f1bbe9f6e2443c818eb0ea03403e7f178f013d20da",
+    "md5": "6922e25133153c321c6a0849ea3c2c4e",
+    "releaseNotes": "532 版：弹窗开着时背景划不动、返回键先关弹窗；数据一字不动。",
+    "sha256": "d66ba59a60d48d95601c80ef4e9b6b0b13a77e99d4c17ee7a254a32a21f99cad",
     "size": 20160308,
-    "versionCode": 531,
+    "versionCode": 532,
     "versionName": "4.0-native"
 }
