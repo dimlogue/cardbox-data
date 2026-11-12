@@ -1,11 +1,11 @@
 {
-    "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-530/carddb-native-4.0-native-530.apk",
-    "changelog": "530 版：更新下载取消真正生效（点取消立即停掉下载、删掉已下载数据、关掉弹窗）；0% 阶段显示“正在连接…”。三路复审 GO。",
+    "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-531/carddb-native-4.0-native-531.apk",
+    "changelog": "531 版：保号专区改回 473 经典风格（暖纸底、7dp 独立钮、青绿选中、浅蓝徽章与官网按钮）；「开始选卡 →」已删；数据一字不动。三路复审 GO。",
     "date": "2026-11-12",
-    "md5": "38a5ae06ef554d1ab5cf7382f413cb32",
-    "releaseNotes": "530 版：更新下载取消真正生效，0% 阶段显示“正在连接…”。",
-    "sha256": "0dc50c26492514492a658eb721da706dfb4260e0f3b62490d8bcffdc223e0fc0",
-    "size": 20164404,
-    "versionCode": 530,
+    "md5": "f59cc4f0929d2903c899cf42a5dba48c",
+    "releaseNotes": "531 版：保号专区改回 473 经典风格，数据一字不动。",
+    "sha256": "dfbf9a822c33d62ef9ab50f1bbe9f6e2443c818eb0ea03403e7f178f013d20da",
+    "size": 20160308,
+    "versionCode": 531,
     "versionName": "4.0-native"
 }
