@@ -1,11 +1,11 @@
 {
-    "apkUrl": "https://github.com/dimlogue/cardbox-data/releases/download/fix-4.0-532/carddb-native-4.0-native-532.apk",
-    "changelog": "532 版：弹窗修（背景拦截＋返回键先关弹窗）；权限与下载说明／诊断日志说明／卡面下载进度等弹窗开着时，背景划不动、返回键先关弹窗再退出；底栏不再压在弹窗上；数据一字不动。三路复审 GO。",
-    "date": "2026-11-12",
-    "md5": "6922e25133153c321c6a0849ea3c2c4e",
-    "releaseNotes": "532 版：弹窗开着时背景划不动、返回键先关弹窗；数据一字不动。",
-    "sha256": "d66ba59a60d48d95601c80ef4e9b6b0b13a77e99d4c17ee7a254a32a21f99cad",
-    "size": 20160308,
-    "versionCode": 532,
+    "apkUrl": "https://pub-ccf07a4cec4041d598b0d5980e785a3d.r2.dev/carddb-native-4.0-native-534.apk",
+    "changelog": "534 版：修三处——首页列数选了没变化；设置页分段钮无选中态；堆叠卡面模糊（新增 1024px 大图档）。数据与更新源迁至 Cloudflare（Pages＋R2），不再走 GitHub。",
+    "date": "2026-11-23",
+    "md5": "119ffa8547f1f006e6e71206ddcb647e",
+    "releaseNotes": "534：列数、分段钮选中态、堆叠卡面清晰度三处修复；更新源迁至 Cloudflare。",
+    "sha256": "f2cd03b84fac073ec91c899485d27d9c04f6ab97793810d0e0ec50c1dd3c294c",
+    "size": 26708009,
+    "versionCode": 534,
     "versionName": "4.0-native"
 }
